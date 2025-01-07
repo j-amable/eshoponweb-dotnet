@@ -44,5 +44,5 @@ jobs:
         shell: powershell
         run: |
           .\.sonar\scanner\dotnet-sonarscanner begin /k:"j-amable_eshoponweb-dotnet" /o:"james-amable" /d:sonar.token="${{ secrets.SONAR_TOKEN }}" /d:sonar.host.url="https://sc-staging.io"
-          dotnet build
+          dotnet build eShopOnWeb.sln
           .\.sonar\scanner\dotnet-sonarscanner end /d:sonar.token="${{ secrets.SONAR_TOKEN }}"
