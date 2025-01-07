@@ -1,0 +1,1 @@
+{Re/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Infrastructure.csproj¢net8.0òCSharp12

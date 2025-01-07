@@ -1,0 +1,12 @@
+﻿/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/tests/PublicApiIntegrationTests/ApiTokenHelper.cs
+/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/tests/PublicApiIntegrationTests/AuthEndpoints/AuthenticateEndpointTest.cs
+/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/tests/PublicApiIntegrationTests/CatalogItemEndpoints/CatalogItemGetByIdEndpointTest.cs
+/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/tests/PublicApiIntegrationTests/CatalogItemEndpoints/CatalogItemListPagedEndpoint.cs
+/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/tests/PublicApiIntegrationTests/CatalogItemEndpoints/CreateCatalogItemEndpointTest.cs
+/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/tests/PublicApiIntegrationTests/CatalogItemEndpoints/DeleteCatalogItemEndpointTest.cs
+/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/tests/PublicApiIntegrationTests/ProgramTest.cs
+/Users/james.amable/.nuget/packages/microsoft.net.test.sdk/17.9.0/build/netcoreapp3.1/Microsoft.NET.Test.Sdk.Program.cs
+/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/tests/PublicApiIntegrationTests/appsettings.test.json
+/Users/james.amable/.nuget/packages/mstest.testadapter/3.2.2/build/net8.0/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/james.amable/.nuget/packages/mstest.testadapter/3.2.2/build/net8.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/james.amable/.nuget/packages/mstest.testadapter/3.2.2/build/net8.0/Microsoft.TestPlatform.AdapterUtilities.dll

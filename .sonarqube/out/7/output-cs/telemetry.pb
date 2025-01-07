@@ -1,0 +1,1 @@
+Ri/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/tests/FunctionalTests/FunctionalTests.csproj¢net8.0òCSharp12

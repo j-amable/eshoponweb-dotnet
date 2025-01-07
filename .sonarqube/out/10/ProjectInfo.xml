@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
+  <ProjectName>IntegrationTests</ProjectName>
+  <ProjectLanguage>C#</ProjectLanguage>
+  <ProjectType>Test</ProjectType>
+  <ProjectGuid>0f576306-7e2d-49b7-87b1-eb5d94cfd5fc</ProjectGuid>
+  <FullPath>/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/tests/IntegrationTests/IntegrationTests.csproj</FullPath>
+  <IsExcluded>false</IsExcluded>
+  <AnalysisResults>
+    <AnalysisResult Id="FilesToAnalyze" Location="/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/.sonarqube/conf/10/FilesToAnalyze.txt" />
+  </AnalysisResults>
+  <AnalysisSettings>
+    <Property Name="sonar.cs.roslyn.reportFilePaths">/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/.sonarqube/out/10/Issues.json</Property>
+    <Property Name="sonar.cs.analyzer.projectOutPaths">/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/.sonarqube/out/10</Property>
+  </AnalysisSettings>
+  <Configuration>Debug</Configuration>
+  <Platform>AnyCPU</Platform>
+  <TargetFramework>net8.0</TargetFramework>
+</ProjectInfo>

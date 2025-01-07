@@ -1,0 +1,1 @@
+uR_/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/BlazorAdmin/BlazorAdmin.csproj¢net8.0òCSharp12

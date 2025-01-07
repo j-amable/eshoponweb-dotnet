@@ -1,0 +1,1 @@
+qR[/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/PublicApi/PublicApi.csproj¢net8.0òCSharp12

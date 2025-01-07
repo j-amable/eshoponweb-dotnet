@@ -1,0 +1,1 @@
+wRa/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/BlazorShared/BlazorShared.csproj¢net8.0òCSharp12

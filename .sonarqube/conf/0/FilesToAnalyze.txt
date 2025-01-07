@@ -1,0 +1,3 @@
+﻿/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/docker-compose.override.yml
+/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/docker-compose.yml
+/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/.dockerignore

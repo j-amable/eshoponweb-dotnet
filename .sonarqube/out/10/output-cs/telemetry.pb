@@ -1,0 +1,1 @@
+ÅRk/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/tests/IntegrationTests/IntegrationTests.csproj¢net8.0ÚCSharp12

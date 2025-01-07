@@ -1,0 +1,192 @@
+ë
+"Microsoft.eShopWeb.CatalogSettingsobjectI
+CatalogSettings()4Microsoft.eShopWeb.CatalogSettings.CatalogSettings()K
+CatalogBaseUrl.get5Microsoft.eShopWeb.CatalogSettings.CatalogBaseUrl.getK
+CatalogBaseUrl.set5Microsoft.eShopWeb.CatalogSettings.CatalogBaseUrl.set«
+CMicrosoft.eShopWeb.ApplicationCore.Constants.AuthorizationConstantsobjectx
+AuthorizationConstants()\Microsoft.eShopWeb.ApplicationCore.Constants.AuthorizationConstants.AuthorizationConstants()>
+<Microsoft.eShopWeb.ApplicationCore.Interfaces.IAggregateRootö
+@Microsoft.eShopWeb.ApplicationCore.Entities.BuyerAggregate.Buyer6Microsoft.eShopWeb.ApplicationCore.Entities.BaseEntityobject<Microsoft.eShopWeb.ApplicationCore.Interfaces.IAggregateRootS
+Buyer()HMicrosoft.eShopWeb.ApplicationCore.Entities.BuyerAggregate.Buyer.Buyer()_
+Buyer(string)NMicrosoft.eShopWeb.ApplicationCore.Entities.BuyerAggregate.Buyer.Buyer(string)e
+IdentityGuid.getQMicrosoft.eShopWeb.ApplicationCore.Entities.BuyerAggregate.Buyer.IdentityGuid.gete
+IdentityGuid.setQMicrosoft.eShopWeb.ApplicationCore.Entities.BuyerAggregate.Buyer.IdentityGuid.seti
+PaymentMethods.getSMicrosoft.eShopWeb.ApplicationCore.Entities.BuyerAggregate.Buyer.PaymentMethods.geti
+PaymentMethods.setSMicrosoft.eShopWeb.ApplicationCore.Entities.BuyerAggregate.Buyer.PaymentMethods.set=
+;Microsoft.eShopWeb.ApplicationCore.Interfaces.IAppLogger<T>C
+AMicrosoft.eShopWeb.ApplicationCore.Interfaces.IBasketQueryService¡
+HMicrosoft.eShopWeb.ApplicationCore.Entities.BuyerAggregate.PaymentMethod6Microsoft.eShopWeb.ApplicationCore.Entities.BaseEntityobjectk
+PaymentMethod()XMicrosoft.eShopWeb.ApplicationCore.Entities.BuyerAggregate.PaymentMethod.PaymentMethod()_
+	Alias.getRMicrosoft.eShopWeb.ApplicationCore.Entities.BuyerAggregate.PaymentMethod.Alias.get_
+	Alias.setRMicrosoft.eShopWeb.ApplicationCore.Entities.BuyerAggregate.PaymentMethod.Alias.seta
+
+CardId.getSMicrosoft.eShopWeb.ApplicationCore.Entities.BuyerAggregate.PaymentMethod.CardId.geta
+
+CardId.setSMicrosoft.eShopWeb.ApplicationCore.Entities.BuyerAggregate.PaymentMethod.CardId.set_
+	Last4.getRMicrosoft.eShopWeb.ApplicationCore.Entities.BuyerAggregate.PaymentMethod.Last4.get_
+	Last4.setRMicrosoft.eShopWeb.ApplicationCore.Entities.BuyerAggregate.PaymentMethod.Last4.set>
+<Microsoft.eShopWeb.ApplicationCore.Interfaces.IBasketService¡
+8Microsoft.eShopWeb.ApplicationCore.Entities.CatalogBrand6Microsoft.eShopWeb.ApplicationCore.Entities.BaseEntityobject<Microsoft.eShopWeb.ApplicationCore.Interfaces.IAggregateRoote
+CatalogBrand(string)MMicrosoft.eShopWeb.ApplicationCore.Entities.CatalogBrand.CatalogBrand(string)O
+	Brand.getBMicrosoft.eShopWeb.ApplicationCore.Entities.CatalogBrand.Brand.getO
+	Brand.setBMicrosoft.eShopWeb.ApplicationCore.Entities.CatalogBrand.Brand.set<
+:Microsoft.eShopWeb.ApplicationCore.Interfaces.IEmailSender¬	
+BMicrosoft.eShopWeb.ApplicationCore.Entities.BasketAggregate.Basket6Microsoft.eShopWeb.ApplicationCore.Entities.BaseEntityobject<Microsoft.eShopWeb.ApplicationCore.Interfaces.IAggregateRootc
+Basket(string)QMicrosoft.eShopWeb.ApplicationCore.Entities.BasketAggregate.Basket.Basket(string){
+AddItem(int, decimal, int)]Microsoft.eShopWeb.ApplicationCore.Entities.BasketAggregate.Basket.AddItem(int, decimal, int)k
+RemoveEmptyItems()UMicrosoft.eShopWeb.ApplicationCore.Entities.BasketAggregate.Basket.RemoveEmptyItems()q
+SetNewBuyerId(string)XMicrosoft.eShopWeb.ApplicationCore.Entities.BasketAggregate.Basket.SetNewBuyerId(string)]
+BuyerId.getNMicrosoft.eShopWeb.ApplicationCore.Entities.BasketAggregate.Basket.BuyerId.get]
+BuyerId.setNMicrosoft.eShopWeb.ApplicationCore.Entities.BasketAggregate.Basket.BuyerId.setY
+	Items.getLMicrosoft.eShopWeb.ApplicationCore.Entities.BasketAggregate.Basket.Items.getY
+	Items.setLMicrosoft.eShopWeb.ApplicationCore.Entities.BasketAggregate.Basket.Items.setc
+TotalItems.getQMicrosoft.eShopWeb.ApplicationCore.Entities.BasketAggregate.Basket.TotalItems.getc
+TotalItems.setQMicrosoft.eShopWeb.ApplicationCore.Entities.BasketAggregate.Basket.TotalItems.set=
+;Microsoft.eShopWeb.ApplicationCore.Interfaces.IOrderServicep
+@Microsoft.eShopWeb.ApplicationCore.Interfaces.IReadRepository<T>,Ardalis.Specification.IReadRepositoryBase<T>h
+<Microsoft.eShopWeb.ApplicationCore.Interfaces.IRepository<T>(Ardalis.Specification.IRepositoryBase<T>C
+AMicrosoft.eShopWeb.ApplicationCore.Interfaces.ITokenClaimsService<
+:Microsoft.eShopWeb.ApplicationCore.Interfaces.IUriComposer™
+
+FMicrosoft.eShopWeb.ApplicationCore.Entities.BasketAggregate.BasketItem6Microsoft.eShopWeb.ApplicationCore.Entities.BaseEntityobjectÖ
+BasketItem(int, int, decimal)dMicrosoft.eShopWeb.ApplicationCore.Entities.BasketAggregate.BasketItem.BasketItem(int, int, decimal)k
+AddQuantity(int)WMicrosoft.eShopWeb.ApplicationCore.Entities.BasketAggregate.BasketItem.AddQuantity(int)k
+SetQuantity(int)WMicrosoft.eShopWeb.ApplicationCore.Entities.BasketAggregate.BasketItem.SetQuantity(int)e
+UnitPrice.getTMicrosoft.eShopWeb.ApplicationCore.Entities.BasketAggregate.BasketItem.UnitPrice.gete
+UnitPrice.setTMicrosoft.eShopWeb.ApplicationCore.Entities.BasketAggregate.BasketItem.UnitPrice.setc
+Quantity.getSMicrosoft.eShopWeb.ApplicationCore.Entities.BasketAggregate.BasketItem.Quantity.getc
+Quantity.setSMicrosoft.eShopWeb.ApplicationCore.Entities.BasketAggregate.BasketItem.Quantity.setm
+CatalogItemId.getXMicrosoft.eShopWeb.ApplicationCore.Entities.BasketAggregate.BasketItem.CatalogItemId.getm
+CatalogItemId.setXMicrosoft.eShopWeb.ApplicationCore.Entities.BasketAggregate.BasketItem.CatalogItemId.setc
+BasketId.getSMicrosoft.eShopWeb.ApplicationCore.Entities.BasketAggregate.BasketItem.BasketId.getc
+BasketId.setSMicrosoft.eShopWeb.ApplicationCore.Entities.BasketAggregate.BasketItem.BasketId.set∑
+7Microsoft.eShopWeb.ApplicationCore.Entities.CatalogType6Microsoft.eShopWeb.ApplicationCore.Entities.BaseEntityobject<Microsoft.eShopWeb.ApplicationCore.Interfaces.IAggregateRootb
+CatalogType(string)KMicrosoft.eShopWeb.ApplicationCore.Entities.CatalogType.CatalogType(string)L
+Type.get@Microsoft.eShopWeb.ApplicationCore.Entities.CatalogType.Type.getL
+Type.set@Microsoft.eShopWeb.ApplicationCore.Entities.CatalogType.Type.set∂
+NMicrosoft.eShopWeb.ApplicationCore.Specifications.BasketWithItemsSpecification&Ardalis.Specification.Specification<T>objectï
+!BasketWithItemsSpecification(int)pMicrosoft.eShopWeb.ApplicationCore.Specifications.BasketWithItemsSpecification.BasketWithItemsSpecification(int)õ
+$BasketWithItemsSpecification(string)sMicrosoft.eShopWeb.ApplicationCore.Specifications.BasketWithItemsSpecification.BasketWithItemsSpecification(string)û
+LMicrosoft.eShopWeb.ApplicationCore.Specifications.CatalogFilterSpecification&Ardalis.Specification.Specification<T>objectù
+&CatalogFilterSpecification(int?, int?)sMicrosoft.eShopWeb.ApplicationCore.Specifications.CatalogFilterSpecification.CatalogFilterSpecification(int?, int?)Ì	
+BMicrosoft.eShopWeb.ApplicationCore.Entities.OrderAggregate.AddressobjectY
+	Address()LMicrosoft.eShopWeb.ApplicationCore.Entities.OrderAggregate.Address.Address()•
+/Address(string, string, string, string, string)rMicrosoft.eShopWeb.ApplicationCore.Entities.OrderAggregate.Address.Address(string, string, string, string, string)[
+
+Street.getMMicrosoft.eShopWeb.ApplicationCore.Entities.OrderAggregate.Address.Street.get[
+
+Street.setMMicrosoft.eShopWeb.ApplicationCore.Entities.OrderAggregate.Address.Street.setW
+City.getKMicrosoft.eShopWeb.ApplicationCore.Entities.OrderAggregate.Address.City.getW
+City.setKMicrosoft.eShopWeb.ApplicationCore.Entities.OrderAggregate.Address.City.setY
+	State.getLMicrosoft.eShopWeb.ApplicationCore.Entities.OrderAggregate.Address.State.getY
+	State.setLMicrosoft.eShopWeb.ApplicationCore.Entities.OrderAggregate.Address.State.set]
+Country.getNMicrosoft.eShopWeb.ApplicationCore.Entities.OrderAggregate.Address.Country.get]
+Country.setNMicrosoft.eShopWeb.ApplicationCore.Entities.OrderAggregate.Address.Country.set]
+ZipCode.getNMicrosoft.eShopWeb.ApplicationCore.Entities.OrderAggregate.Address.ZipCode.get]
+ZipCode.setNMicrosoft.eShopWeb.ApplicationCore.Entities.OrderAggregate.Address.ZipCode.set◊
+UMicrosoft.eShopWeb.ApplicationCore.Specifications.CatalogFilterPaginatedSpecification&Ardalis.Specification.Specification<T>objectÕ
+9CatalogFilterPaginatedSpecification(int, int, int?, int?)èMicrosoft.eShopWeb.ApplicationCore.Specifications.CatalogFilterPaginatedSpecification.CatalogFilterPaginatedSpecification(int, int, int?, int?)§
+
+8Microsoft.eShopWeb.ApplicationCore.Services.OrderServiceobject;Microsoft.eShopWeb.ApplicationCore.Interfaces.IOrderServiceØ
+∏OrderService(Microsoft.eShopWeb.ApplicationCore.Interfaces.IRepository<Microsoft.eShopWeb.ApplicationCore.Entities.BasketAggregate.Basket>, Microsoft.eShopWeb.ApplicationCore.Interfaces.IRepository<Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItem>, Microsoft.eShopWeb.ApplicationCore.Interfaces.IRepository<Microsoft.eShopWeb.ApplicationCore.Entities.OrderAggregate.Order>, Microsoft.eShopWeb.ApplicationCore.Interfaces.IUriComposer)ÒMicrosoft.eShopWeb.ApplicationCore.Services.OrderService.OrderService(Microsoft.eShopWeb.ApplicationCore.Interfaces.IRepository<Microsoft.eShopWeb.ApplicationCore.Entities.BasketAggregate.Basket>, Microsoft.eShopWeb.ApplicationCore.Interfaces.IRepository<Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItem>, Microsoft.eShopWeb.ApplicationCore.Interfaces.IRepository<Microsoft.eShopWeb.ApplicationCore.Entities.OrderAggregate.Order>, Microsoft.eShopWeb.ApplicationCore.Interfaces.IUriComposer)
+YCreateOrderAsync(int, Microsoft.eShopWeb.ApplicationCore.Entities.OrderAggregate.Address)íMicrosoft.eShopWeb.ApplicationCore.Services.OrderService.CreateOrderAsync(int, Microsoft.eShopWeb.ApplicationCore.Entities.OrderAggregate.Address)ú
+
+9Microsoft.eShopWeb.ApplicationCore.Services.BasketServiceobject<Microsoft.eShopWeb.ApplicationCore.Interfaces.IBasketService¬
+ÅBasketService(Microsoft.eShopWeb.ApplicationCore.Interfaces.IRepository<Microsoft.eShopWeb.ApplicationCore.Entities.BasketAggregate.Basket>, Microsoft.eShopWeb.ApplicationCore.Interfaces.IAppLogger<Microsoft.eShopWeb.ApplicationCore.Services.BasketService>)ªMicrosoft.eShopWeb.ApplicationCore.Services.BasketService.BasketService(Microsoft.eShopWeb.ApplicationCore.Interfaces.IRepository<Microsoft.eShopWeb.ApplicationCore.Entities.BasketAggregate.Basket>, Microsoft.eShopWeb.ApplicationCore.Interfaces.IAppLogger<Microsoft.eShopWeb.ApplicationCore.Services.BasketService>)í
+*AddItemToBasket(string, int, decimal, int)dMicrosoft.eShopWeb.ApplicationCore.Services.BasketService.AddItemToBasket(string, int, decimal, int)j
+DeleteBasketAsync(int)PMicrosoft.eShopWeb.ApplicationCore.Services.BasketService.DeleteBasketAsync(int)À
+FSetQuantities(int, System.Collections.Generic.Dictionary<string, int>)ÄMicrosoft.eShopWeb.ApplicationCore.Services.BasketService.SetQuantities(int, System.Collections.Generic.Dictionary<string, int>)Ñ
+#TransferBasketAsync(string, string)]Microsoft.eShopWeb.ApplicationCore.Services.BasketService.TransferBasketAsync(string, string)Ç
+7Microsoft.eShopWeb.ApplicationCore.Services.UriComposerobject:Microsoft.eShopWeb.ApplicationCore.Interfaces.IUriComposerö
+/UriComposer(Microsoft.eShopWeb.CatalogSettings)gMicrosoft.eShopWeb.ApplicationCore.Services.UriComposer.UriComposer(Microsoft.eShopWeb.CatalogSettings)f
+ComposePicUri(string)MMicrosoft.eShopWeb.ApplicationCore.Services.UriComposer.ComposePicUri(string)û
+NMicrosoft.eShopWeb.ApplicationCore.Specifications.CatalogItemNameSpecification&Ardalis.Specification.Specification<T>objectõ
+$CatalogItemNameSpecification(string)sMicrosoft.eShopWeb.ApplicationCore.Specifications.CatalogItemNameSpecification.CatalogItemNameSpecification(string)ö
+MMicrosoft.eShopWeb.ApplicationCore.Specifications.CustomerOrdersSpecification&Ardalis.Specification.Specification<T>objectò
+#CustomerOrdersSpecification(string)qMicrosoft.eShopWeb.ApplicationCore.Specifications.CustomerOrdersSpecification.CustomerOrdersSpecification(string)û
+KMicrosoft.eShopWeb.ApplicationCore.Specifications.CatalogItemsSpecification&Ardalis.Specification.Specification<T>objectû
+'CatalogItemsSpecification(params int[])sMicrosoft.eShopWeb.ApplicationCore.Specifications.CatalogItemsSpecification.CatalogItemsSpecification(params int[])¶
+MMicrosoft.eShopWeb.ApplicationCore.Entities.OrderAggregate.CatalogItemOrderedobject†
+'CatalogItemOrdered(int, string, string)uMicrosoft.eShopWeb.ApplicationCore.Entities.OrderAggregate.CatalogItemOrdered.CatalogItemOrdered(int, string, string)z
+CatalogItemOrdered()bMicrosoft.eShopWeb.ApplicationCore.Entities.OrderAggregate.CatalogItemOrdered.CatalogItemOrdered()t
+CatalogItemId.get_Microsoft.eShopWeb.ApplicationCore.Entities.OrderAggregate.CatalogItemOrdered.CatalogItemId.gett
+CatalogItemId.set_Microsoft.eShopWeb.ApplicationCore.Entities.OrderAggregate.CatalogItemOrdered.CatalogItemId.setp
+ProductName.get]Microsoft.eShopWeb.ApplicationCore.Entities.OrderAggregate.CatalogItemOrdered.ProductName.getp
+ProductName.set]Microsoft.eShopWeb.ApplicationCore.Entities.OrderAggregate.CatalogItemOrdered.ProductName.setn
+PictureUri.get\Microsoft.eShopWeb.ApplicationCore.Entities.OrderAggregate.CatalogItemOrdered.PictureUri.getn
+PictureUri.set\Microsoft.eShopWeb.ApplicationCore.Entities.OrderAggregate.CatalogItemOrdered.PictureUri.setø
+VMicrosoft.eShopWeb.ApplicationCore.Specifications.CustomerOrdersWithItemsSpecification&Ardalis.Specification.Specification<T>object¥
+,CustomerOrdersWithItemsSpecification(string)ÉMicrosoft.eShopWeb.ApplicationCore.Specifications.CustomerOrdersWithItemsSpecification.CustomerOrdersWithItemsSpecification(string)Ä
+HMicrosoft.eShopWeb.ApplicationCore.Specifications.OrderWithItemsByIdSpec&Ardalis.Specification.Specification<T>objectÉ
+OrderWithItemsByIdSpec(int)dMicrosoft.eShopWeb.ApplicationCore.Specifications.OrderWithItemsByIdSpec.OrderWithItemsByIdSpec(int)÷
+DMicrosoft.eShopWeb.ApplicationCore.Entities.OrderAggregate.OrderItem6Microsoft.eShopWeb.ApplicationCore.Entities.BaseEntityobject_
+OrderItem()PMicrosoft.eShopWeb.ApplicationCore.Entities.OrderAggregate.OrderItem.OrderItem()ñ
+fOrderItem(Microsoft.eShopWeb.ApplicationCore.Entities.OrderAggregate.CatalogItemOrdered, decimal, int)´Microsoft.eShopWeb.ApplicationCore.Entities.OrderAggregate.OrderItem.OrderItem(Microsoft.eShopWeb.ApplicationCore.Entities.OrderAggregate.CatalogItemOrdered, decimal, int)g
+ItemOrdered.getTMicrosoft.eShopWeb.ApplicationCore.Entities.OrderAggregate.OrderItem.ItemOrdered.getg
+ItemOrdered.setTMicrosoft.eShopWeb.ApplicationCore.Entities.OrderAggregate.OrderItem.ItemOrdered.setc
+UnitPrice.getRMicrosoft.eShopWeb.ApplicationCore.Entities.OrderAggregate.OrderItem.UnitPrice.getc
+UnitPrice.setRMicrosoft.eShopWeb.ApplicationCore.Entities.OrderAggregate.OrderItem.UnitPrice.set[
+	Units.getNMicrosoft.eShopWeb.ApplicationCore.Entities.OrderAggregate.OrderItem.Units.get[
+	Units.setNMicrosoft.eShopWeb.ApplicationCore.Entities.OrderAggregate.OrderItem.Units.setß
+6Microsoft.eShopWeb.ApplicationCore.Entities.BaseEntityobjectS
+BaseEntity()CMicrosoft.eShopWeb.ApplicationCore.Entities.BaseEntity.BaseEntity()G
+Id.get=Microsoft.eShopWeb.ApplicationCore.Entities.BaseEntity.Id.getG
+Id.set=Microsoft.eShopWeb.ApplicationCore.Entities.BaseEntity.Id.set∏
+@Microsoft.eShopWeb.ApplicationCore.Entities.OrderAggregate.Order6Microsoft.eShopWeb.ApplicationCore.Entities.BaseEntityobject<Microsoft.eShopWeb.ApplicationCore.Interfaces.IAggregateRootS
+Order()HMicrosoft.eShopWeb.ApplicationCore.Entities.OrderAggregate.Order.Order()∑
+∏Order(string, Microsoft.eShopWeb.ApplicationCore.Entities.OrderAggregate.Address, System.Collections.Generic.List<Microsoft.eShopWeb.ApplicationCore.Entities.OrderAggregate.OrderItem>)˘Microsoft.eShopWeb.ApplicationCore.Entities.OrderAggregate.Order.Order(string, Microsoft.eShopWeb.ApplicationCore.Entities.OrderAggregate.Address, System.Collections.Generic.List<Microsoft.eShopWeb.ApplicationCore.Entities.OrderAggregate.OrderItem>)S
+Total()HMicrosoft.eShopWeb.ApplicationCore.Entities.OrderAggregate.Order.Total()[
+BuyerId.getLMicrosoft.eShopWeb.ApplicationCore.Entities.OrderAggregate.Order.BuyerId.get[
+BuyerId.setLMicrosoft.eShopWeb.ApplicationCore.Entities.OrderAggregate.Order.BuyerId.set_
+OrderDate.getNMicrosoft.eShopWeb.ApplicationCore.Entities.OrderAggregate.Order.OrderDate.get_
+OrderDate.setNMicrosoft.eShopWeb.ApplicationCore.Entities.OrderAggregate.Order.OrderDate.setg
+ShipToAddress.getRMicrosoft.eShopWeb.ApplicationCore.Entities.OrderAggregate.Order.ShipToAddress.getg
+ShipToAddress.setRMicrosoft.eShopWeb.ApplicationCore.Entities.OrderAggregate.Order.ShipToAddress.seta
+OrderItems.getOMicrosoft.eShopWeb.ApplicationCore.Entities.OrderAggregate.Order.OrderItems.geta
+OrderItems.setOMicrosoft.eShopWeb.ApplicationCore.Entities.OrderAggregate.Order.OrderItems.setÊ
+EMicrosoft.eShopWeb.ApplicationCore.Exceptions.BasketNotFoundExceptionSystem.ExceptionobjectÇ
+BasketNotFoundException(int)bMicrosoft.eShopWeb.ApplicationCore.Exceptions.BasketNotFoundException.BasketNotFoundException(int)◊
+@Microsoft.eShopWeb.ApplicationCore.Exceptions.DuplicateExceptionSystem.Exceptionobjecty
+DuplicateException(string)[Microsoft.eShopWeb.ApplicationCore.Exceptions.DuplicateException.DuplicateException(string)∞
+LMicrosoft.eShopWeb.ApplicationCore.Exceptions.EmptyBasketOnCheckoutExceptionSystem.Exceptionobjectë
+ EmptyBasketOnCheckoutException()mMicrosoft.eShopWeb.ApplicationCore.Exceptions.EmptyBasketOnCheckoutException.EmptyBasketOnCheckoutException()Ã
+}EmptyBasketOnCheckoutException(System.Runtime.Serialization.SerializationInfo, System.Runtime.Serialization.StreamingContext) Microsoft.eShopWeb.ApplicationCore.Exceptions.EmptyBasketOnCheckoutException.EmptyBasketOnCheckoutException(System.Runtime.Serialization.SerializationInfo, System.Runtime.Serialization.StreamingContext)ù
+&EmptyBasketOnCheckoutException(string)sMicrosoft.eShopWeb.ApplicationCore.Exceptions.EmptyBasketOnCheckoutException.EmptyBasketOnCheckoutException(string)¬
+8EmptyBasketOnCheckoutException(string, System.Exception)ÖMicrosoft.eShopWeb.ApplicationCore.Exceptions.EmptyBasketOnCheckoutException.EmptyBasketOnCheckoutException(string, System.Exception)ú
+7Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItem6Microsoft.eShopWeb.ApplicationCore.Entities.BaseEntityobject<Microsoft.eShopWeb.ApplicationCore.Interfaces.IAggregateRoot®
+6CatalogItem(int, int, string, string, decimal, string)nMicrosoft.eShopWeb.ApplicationCore.Entities.CatalogItem.CatalogItem(int, int, string, string, decimal, string)Ô
+YUpdateDetails(Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItem.CatalogItemDetails)ëMicrosoft.eShopWeb.ApplicationCore.Entities.CatalogItem.UpdateDetails(Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItem.CatalogItemDetails)\
+UpdateBrand(int)HMicrosoft.eShopWeb.ApplicationCore.Entities.CatalogItem.UpdateBrand(int)Z
+UpdateType(int)GMicrosoft.eShopWeb.ApplicationCore.Entities.CatalogItem.UpdateType(int)l
+UpdatePictureUri(string)PMicrosoft.eShopWeb.ApplicationCore.Entities.CatalogItem.UpdatePictureUri(string)L
+Name.get@Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItem.Name.getL
+Name.set@Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItem.Name.setZ
+Description.getGMicrosoft.eShopWeb.ApplicationCore.Entities.CatalogItem.Description.getZ
+Description.setGMicrosoft.eShopWeb.ApplicationCore.Entities.CatalogItem.Description.setN
+	Price.getAMicrosoft.eShopWeb.ApplicationCore.Entities.CatalogItem.Price.getN
+	Price.setAMicrosoft.eShopWeb.ApplicationCore.Entities.CatalogItem.Price.setX
+PictureUri.getFMicrosoft.eShopWeb.ApplicationCore.Entities.CatalogItem.PictureUri.getX
+PictureUri.setFMicrosoft.eShopWeb.ApplicationCore.Entities.CatalogItem.PictureUri.set^
+CatalogTypeId.getIMicrosoft.eShopWeb.ApplicationCore.Entities.CatalogItem.CatalogTypeId.get^
+CatalogTypeId.setIMicrosoft.eShopWeb.ApplicationCore.Entities.CatalogItem.CatalogTypeId.setZ
+CatalogType.getGMicrosoft.eShopWeb.ApplicationCore.Entities.CatalogItem.CatalogType.getZ
+CatalogType.setGMicrosoft.eShopWeb.ApplicationCore.Entities.CatalogItem.CatalogType.set`
+CatalogBrandId.getJMicrosoft.eShopWeb.ApplicationCore.Entities.CatalogItem.CatalogBrandId.get`
+CatalogBrandId.setJMicrosoft.eShopWeb.ApplicationCore.Entities.CatalogItem.CatalogBrandId.set\
+CatalogBrand.getHMicrosoft.eShopWeb.ApplicationCore.Entities.CatalogItem.CatalogBrand.get\
+CatalogBrand.setHMicrosoft.eShopWeb.ApplicationCore.Entities.CatalogItem.CatalogBrand.set€
+JMicrosoft.eShopWeb.ApplicationCore.Entities.CatalogItem.CatalogItemDetailsSystem.ValueTypeobjectSystem.IEquatable<T>©
+-CatalogItemDetails(string?, string?, decimal)xMicrosoft.eShopWeb.ApplicationCore.Entities.CatalogItem.CatalogItemDetails.CatalogItemDetails(string?, string?, decimal)c
+
+ToString()UMicrosoft.eShopWeb.ApplicationCore.Entities.CatalogItem.CatalogItemDetails.ToString()ù
+'PrintMembers(System.Text.StringBuilder)rMicrosoft.eShopWeb.ApplicationCore.Entities.CatalogItem.CatalogItemDetails.PrintMembers(System.Text.StringBuilder)i
+GetHashCode()XMicrosoft.eShopWeb.ApplicationCore.Entities.CatalogItem.CatalogItemDetails.GetHashCode()k
+Equals(object)YMicrosoft.eShopWeb.ApplicationCore.Entities.CatalogItem.CatalogItemDetails.Equals(object)Ù
+REquals(Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItem.CatalogItemDetails)ùMicrosoft.eShopWeb.ApplicationCore.Entities.CatalogItem.CatalogItemDetails.Equals(Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItem.CatalogItemDetails)w
+CatalogItemDetails()_Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItem.CatalogItemDetails.CatalogItemDetails()_
+Name.getSMicrosoft.eShopWeb.ApplicationCore.Entities.CatalogItem.CatalogItemDetails.Name.get_
+Name.setSMicrosoft.eShopWeb.ApplicationCore.Entities.CatalogItem.CatalogItemDetails.Name.setm
+Description.getZMicrosoft.eShopWeb.ApplicationCore.Entities.CatalogItem.CatalogItemDetails.Description.getm
+Description.setZMicrosoft.eShopWeb.ApplicationCore.Entities.CatalogItem.CatalogItemDetails.Description.seta
+	Price.getTMicrosoft.eShopWeb.ApplicationCore.Entities.CatalogItem.CatalogItemDetails.Price.geta
+	Price.setTMicrosoft.eShopWeb.ApplicationCore.Entities.CatalogItem.CatalogItemDetails.Price.set

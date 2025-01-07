@@ -1,0 +1,1 @@
+}Rg/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/ApplicationCore.csproj¢net8.0òCSharp12

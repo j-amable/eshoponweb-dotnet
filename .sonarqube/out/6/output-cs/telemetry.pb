@@ -1,0 +1,1 @@
+eRO/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/Web.csproj¢net8.0òCSharp13
