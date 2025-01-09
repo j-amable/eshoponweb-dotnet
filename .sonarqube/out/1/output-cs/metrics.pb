@@ -3,12 +3,12 @@ p/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/BlazorShared/M
 b/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/BlazorShared/Models/LookupData.cs 8r
 d/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/BlazorShared/Models/ErrorDetails.cs 8r	
 ‚~
-o/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/BlazorShared/Models/EditCatalogItemResponse.cs 8r~
-k/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/BlazorShared/Models/CatalogTypeResponse.cs 8r	
-€
+o/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/BlazorShared/Models/EditCatalogItemResponse.cs 8r€
 q/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/BlazorShared/Models/DeleteCatalogItemResponse.cs 8r€
 q/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/BlazorShared/Models/CreateCatalogItemResponse.cs 8r—
-p/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/BlazorShared/Models/CreateCatalogItemRequest.cs 8jr	‚o
+p/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/BlazorShared/Models/CreateCatalogItemRequest.cs 8jr	‚~
+k/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/BlazorShared/Models/CatalogTypeResponse.cs 8r	
+o
 c/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/BlazorShared/Models/CatalogType.csrÐ
 c/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/BlazorShared/Models/CatalogItem.cs 8 jrD	
  !#%&'()*+-./02345789:<=?@ABCDEFGIJKLNOPRSTUVWx‚')+-/2479<ACEFGIPRSTU

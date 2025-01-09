@@ -1,27 +1,4 @@
-Ó
-\/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/PublicApi/MappingProfile.cs
-
-		 
-  !
-( /3 :
-C FJ M
-  !
-( /3 :
-C FJ M˙
-l/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/PublicApi/Middleware/ExceptionMiddleware.cs
-
-
-
-  
-% *  
-/ 3 
-
- !
-. 9 #' 2
- + &P
-8 ?!! %% && (( $.. // 11 $
-K T## 22 #
-##, @)) .´
+´
 U/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/PublicApi/Program.csﬁ
       ""A H""X _$$ (( )) ** **, 3++ ,, -- .. 00 11 44 77 II TT UU VV XX YY }}
  
@@ -71,7 +48,47 @@ U/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/PublicApi/Prog
 ™™ 
 ¨¨ 
 
-µµ Æ
+µµ ˙
+l/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/PublicApi/Middleware/ExceptionMiddleware.cs
+
+
+
+  
+% *  
+/ 3 
+
+ !
+. 9 #' 2
+ + &P
+8 ?!! %% && (( $.. // 11 $
+K T## 22 #
+##, @)) .Ó
+\/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/PublicApi/MappingProfile.cs
+
+		 
+  !
+( /3 :
+C FJ M
+  !
+( /3 :
+C FJ MΩ
+a/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/PublicApi/CustomSchemaFilters.cs
+
+  
+
+ 
+$ *  
+
+@ G
+
+
+  .«
+ñ/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/PublicApi/CatalogItemEndpoints/UpdateCatalogItemEndpoint.UpdateCatalogItemResponse.cs
+
+ &
+* 7@ M
+
+ %Æ
 ]/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/PublicApi/ImageValidators.cs
 
  #
@@ -88,18 +105,14 @@ U/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/PublicApi/Prog
 C K	y Å
  (h x
 0 8* 22
-  & & & &Ω
-a/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/PublicApi/CustomSchemaFilters.cs
+  & & & &ó
+q/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/PublicApi/CatalogTypeEndpoints/CatalogTypeDto.cs
 
-  
+ 
 
- 
-$ *  
+ 
 
-@ G
-
-
-  .ƒ
+ ƒ
 ì/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/PublicApi/CatalogTypeEndpoints/CatalogTypeListEndpoint.ListCatalogTypesResponse.cs
 
  %
@@ -118,20 +131,7 @@ z/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/PublicApi/Cata
 $$ * (
 $$D Y(( /
 && ** ,, "
-(( **' ,ó
-q/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/PublicApi/CatalogTypeEndpoints/CatalogTypeDto.cs
-
- 
-
- 
-
- «
-ñ/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/PublicApi/CatalogItemEndpoints/UpdateCatalogItemEndpoint.UpdateCatalogItemResponse.cs
-
- &
-* 7@ M
-
- %ê
+(( **' ,ê
 ï/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/PublicApi/CatalogItemEndpoints/UpdateCatalogItemEndpoint.UpdateCatalogItemRequest.cs
 
  %
@@ -171,18 +171,31 @@ q/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/PublicApi/Cata
 '' @@ AA "Ç
 )) ** 00 11 22 44) 588 99 ):: (;; &<< ==4 @>>  
 //' .00# *
-66 @@ "«
+66 @@ "–
+ï/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/PublicApi/CatalogItemEndpoints/DeleteCatalogItemEndpoint.DeleteCatalogItemRequest.cs
+
+ %
+ 		 
+( 5		 %«
 ñ/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/PublicApi/CatalogItemEndpoints/DeleteCatalogItemEndpoint.DeleteCatalogItemResponse.cs
 
  &
 * 7@ M
 
- –
-ï/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/PublicApi/CatalogItemEndpoints/DeleteCatalogItemEndpoint.DeleteCatalogItemRequest.cs
+ ‰
+|/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/PublicApi/CatalogItemEndpoints/DeleteCatalogItemEndpoint.cs
 
- %
- 		 
-( 5		 %ß
+ &
+
+ 
+/ 2 
+ F S
+9 GV d
+ * (
+D K  5 <""= D
+f t""! /&& 
+   (( "
+"" ## &&) 5ß
 |/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/PublicApi/CatalogItemEndpoints/CreateCatalogItemEndpoint.cs
 
  &
@@ -201,43 +214,7 @@ q/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/PublicApi/Cata
 ++ (,,C _
 ,,  --  Ç
 22 33 330 755 ;; <<- 4AA BB $CC #DD !EE FF4 ;GG 
-?? II "JJ4 7—
-/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/PublicApi/CatalogItemEndpoints/CatalogItemListPagedEndpoint.cs
-
- )
-" . ;; *
- $ 884 ;
-5 @ "
-J P 
-
- 
-/ 2 
-    ""I Q
-  ' 0""S \
-  7 E""^ l
-  L Y""n {
-	  t Ç	""~ å
-(( *"" (n
-((G N++8 ?--8 ?--P W11 11& -22 33 44 >> @@N U
-((i w.. -66 (<
-++ 88 99( 0@@ DD GG "
--- ..9 C
-.. @@A KDD! +
-00 663 <
-66 88' ,‰
-|/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/PublicApi/CatalogItemEndpoints/DeleteCatalogItemEndpoint.cs
-
- &
-
- 
-/ 2 
- F S
-9 GV d
- * (
-D K  5 <""= D
-f t""! /&& 
-   (( "
-"" ## &&) 5«
+?? II "JJ4 7«
 ñ/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/PublicApi/CatalogItemEndpoints/CreateCatalogItemEndpoint.CreateCatalogItemResponse.cs
 
  &
@@ -291,18 +268,30 @@ q/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/PublicApi/Cata
 K Y '
 
 
-` m %…
-ò/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/PublicApi/CatalogItemEndpoints/CatalogItemGetByIdEndpoint.GetByIdCatalogItemResponse.cs
+` m %—
+/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/PublicApi/CatalogItemEndpoints/CatalogItemListPagedEndpoint.cs
 
- '
-+ 8A N
+ )
+" . ;; *
+ $ 884 ;
+5 @ "
+J P 
 
- %“
-ó/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/PublicApi/CatalogItemEndpoints/CatalogItemGetByIdEndpoint.GetByIdCatalogItemRequest.cs
-
- &
- 		 
-) 6		 %◊
+ 
+/ 2 
+    ""I Q
+  ' 0""S \
+  7 E""^ l
+  L Y""n {
+	  t Ç	""~ å
+(( *"" (n
+((G N++8 ?--8 ?--P W11 11& -22 33 44 >> @@N U
+((i w.. -66 (<
+++ 88 99( 0@@ DD GG "
+-- ..9 C
+.. @@A KDD! +
+00 663 <
+66 88' ,◊
 }/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/PublicApi/CatalogItemEndpoints/CatalogItemGetByIdEndpoint.cs
 
  '
@@ -317,7 +306,18 @@ q/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/PublicApi/Cata
 ""E L$$6 =&&5 <
 ""g u&& '
 $$ ** 44 "Z
-&& '' ,, -- !..  // 00 114 822 ”
+&& '' ,, -- !..  // 00 114 822 …
+ò/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/PublicApi/CatalogItemEndpoints/CatalogItemGetByIdEndpoint.GetByIdCatalogItemResponse.cs
+
+ '
++ 8A N
+
+ %“
+ó/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/PublicApi/CatalogItemEndpoints/CatalogItemGetByIdEndpoint.GetByIdCatalogItemRequest.cs
+
+ &
+ 		 
+) 6		 %”
 q/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/PublicApi/CatalogItemEndpoints/CatalogItemDto.cs
 
  
@@ -371,13 +371,7 @@ Z/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/PublicApi/Base
  * +g
 Y/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/PublicApi/BaseRequest.cs
 
- !â
-Y/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/PublicApi/BaseMessage.cs
-
- !
- !# 1
-
- ◊
+ !◊
 y/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/PublicApi/AuthEndpoints/AuthenticateEndpoint.UserInfo.cs
   #4 <
 
@@ -391,7 +385,13 @@ y/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/PublicApi/Auth
 
  
 
-# )–
+# )â
+Y/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/PublicApi/BaseMessage.cs
+
+ !
+ !# 1
+
+ –
 p/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/PublicApi/AuthEndpoints/AuthenticateEndpoint.cs
 
  !

@@ -1,6 +1,7 @@
-projectKey=EShop-On-Web-.Net
-serverUrl=https://jamable.eu.ngrok.io
-serverVersion=10.8.0.100206
-dashboardUrl=https://jamable.eu.ngrok.io/dashboard?id=EShop-On-Web-.Net
-ceTaskId=c980141c-5268-45d3-b68c-5597d96a4934
-ceTaskUrl=https://jamable.eu.ngrok.io/api/ce/task?id=c980141c-5268-45d3-b68c-5597d96a4934
+organization=james-amable
+projectKey=j-amable_eshoponweb-dotnet
+serverUrl=https://sc-staging.io
+serverVersion=8.0.0.58839
+dashboardUrl=https://sc-staging.io/dashboard?id=j-amable_eshoponweb-dotnet
+ceTaskId=AZRBN7f22lC8fu_jtGzC
+ceTaskUrl=https://sc-staging.io/api/ce/task?id=AZRBN7f22lC8fu_jtGzC

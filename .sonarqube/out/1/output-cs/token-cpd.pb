@@ -212,64 +212,7 @@ q/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/BlazorShared/M
 (B C
 )C D
 ;D E
-} ä
-k/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/BlazorShared/Models/CatalogTypeResponse.cs
-	namespace 	
-BlazorShared
- 
-. 
-Models 
-; 
-public 
-class 
-CatalogTypeResponse  
-:! "
-ILookupDataResponse# 6
-<6 7
-CatalogType7 B
->B C
-{ 
-[
-
- 
-JsonPropertyName
-
- 
-(
-
- 
-$str
-
- $
-)
-
-$ %
-]
-
-% &
-public 
-
-List 
-< 
-CatalogType 
-> 
-List !
-{" #
-get$ '
-;' (
-set) ,
-;, -
-}. /
-=0 1
-new2 5
-List6 :
-<: ;
-CatalogType; F
->F G
-(G H
-)H I
-;I J
-} Ý
+} Ý
 p/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/BlazorShared/Models/CreateCatalogItemRequest.cs
 	namespace 	
 BlazorShared
@@ -436,7 +379,64 @@ PictureUri 
 .4 5
 Empty5 :
 ;: ;
-} È
+} ä
+k/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/BlazorShared/Models/CatalogTypeResponse.cs
+	namespace 	
+BlazorShared
+ 
+. 
+Models 
+; 
+public 
+class 
+CatalogTypeResponse  
+:! "
+ILookupDataResponse# 6
+<6 7
+CatalogType7 B
+>B C
+{ 
+[
+
+ 
+JsonPropertyName
+
+ 
+(
+
+ 
+$str
+
+ $
+)
+
+$ %
+]
+
+% &
+public 
+
+List 
+< 
+CatalogType 
+> 
+List !
+{" #
+get$ '
+;' (
+set) ,
+;, -
+}. /
+=0 1
+new2 5
+List6 :
+<: ;
+CatalogType; F
+>F G
+(G H
+)H I
+;I J
+} È
 c/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/BlazorShared/Models/CatalogType.cs
 	namespace 	
 BlazorShared

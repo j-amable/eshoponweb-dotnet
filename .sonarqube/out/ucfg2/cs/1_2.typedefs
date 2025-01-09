@@ -1,21 +1,15 @@
-«
-%BlazorShared.Authorization.ClaimValueobjectB
-ClaimValue()2BlazorShared.Authorization.ClaimValue.ClaimValue()^
-ClaimValue(string, string)@BlazorShared.Authorization.ClaimValue.ClaimValue(string, string):
-Type.get.BlazorShared.Authorization.ClaimValue.Type.get:
-Type.set.BlazorShared.Authorization.ClaimValue.Type.set<
-	Value.get/BlazorShared.Authorization.ClaimValue.Value.get<
-	Value.set/BlazorShared.Authorization.ClaimValue.Value.setõ
+ç
+ BlazorShared.Models.CatalogBrandBlazorShared.Models.LookupDataobjectA
+CatalogBrand()/BlazorShared.Models.CatalogBrand.CatalogBrand()õ
 )BlazorShared.Attributes.EndpointAttributeSystem.AttributeobjectT
 EndpointAttribute()=BlazorShared.Attributes.EndpointAttribute.EndpointAttribute()>
 Name.get2BlazorShared.Attributes.EndpointAttribute.Name.get>
-Name.set2BlazorShared.Attributes.EndpointAttribute.Name.set˜
-!BlazorShared.BaseUrlConfigurationobjectR
-BaseUrlConfiguration()8BlazorShared.BaseUrlConfiguration.BaseUrlConfiguration()<
-ApiBase.get-BlazorShared.BaseUrlConfiguration.ApiBase.get<
-ApiBase.set-BlazorShared.BaseUrlConfiguration.ApiBase.set<
-WebBase.get-BlazorShared.BaseUrlConfiguration.WebBase.get<
-WebBase.set-BlazorShared.BaseUrlConfiguration.WebBase.setØ
+Name.set2BlazorShared.Attributes.EndpointAttribute.Name.set@
+>BlazorShared.Interfaces.ICatalogLookupDataService<TLookupData>≈
+(BlazorShared.Models.CatalogBrandResponseobject8BlazorShared.Interfaces.ILookupDataResponse<TLookupData>Y
+CatalogBrandResponse()?BlazorShared.Models.CatalogBrandResponse.CatalogBrandResponse()=
+List.get1BlazorShared.Models.CatalogBrandResponse.List.get=
+List.set1BlazorShared.Models.CatalogBrandResponse.List.setØ
 #BlazorShared.Authorization.UserInfoobject<
 
 UserInfo().BlazorShared.Authorization.UserInfo.UserInfo()N
@@ -30,14 +24,32 @@ UserInfo().BlazorShared.Authorization.UserInfo.UserInfo()N
 
 Claims.get.BlazorShared.Authorization.UserInfo.Claims.get<
 
-Claims.set.BlazorShared.Authorization.UserInfo.Claims.set-
-+BlazorShared.Interfaces.ICatalogItemService@
->BlazorShared.Interfaces.ICatalogLookupDataService<TLookupData>:
-8BlazorShared.Interfaces.ILookupDataResponse<TLookupData>ç
- BlazorShared.Models.CatalogBrandBlazorShared.Models.LookupDataobjectA
-CatalogBrand()/BlazorShared.Models.CatalogBrand.CatalogBrand()â
+Claims.set.BlazorShared.Authorization.UserInfo.Claims.set«
+%BlazorShared.Authorization.ClaimValueobjectB
+ClaimValue()2BlazorShared.Authorization.ClaimValue.ClaimValue()^
+ClaimValue(string, string)@BlazorShared.Authorization.ClaimValue.ClaimValue(string, string):
+Type.get.BlazorShared.Authorization.ClaimValue.Type.get:
+Type.set.BlazorShared.Authorization.ClaimValue.Type.set<
+	Value.get/BlazorShared.Authorization.ClaimValue.Value.get<
+	Value.set/BlazorShared.Authorization.ClaimValue.Value.set˜
+!BlazorShared.BaseUrlConfigurationobjectR
+BaseUrlConfiguration()8BlazorShared.BaseUrlConfiguration.BaseUrlConfiguration()<
+ApiBase.get-BlazorShared.BaseUrlConfiguration.ApiBase.get<
+ApiBase.set-BlazorShared.BaseUrlConfiguration.ApiBase.set<
+WebBase.get-BlazorShared.BaseUrlConfiguration.WebBase.get<
+WebBase.set-BlazorShared.BaseUrlConfiguration.WebBase.set-
++BlazorShared.Interfaces.ICatalogItemServiceâ
 BlazorShared.Models.CatalogTypeBlazorShared.Models.LookupDataobject>
-CatalogType()-BlazorShared.Models.CatalogType.CatalogType()ë
+CatalogType()-BlazorShared.Models.CatalogType.CatalogType():
+8BlazorShared.Interfaces.ILookupDataResponse<TLookupData>ø
+'BlazorShared.Models.CatalogTypeResponseobject8BlazorShared.Interfaces.ILookupDataResponse<TLookupData>V
+CatalogTypeResponse()=BlazorShared.Models.CatalogTypeResponse.CatalogTypeResponse()<
+List.get0BlazorShared.Models.CatalogTypeResponse.List.get<
+List.set0BlazorShared.Models.CatalogTypeResponse.List.set≈
+-BlazorShared.Models.CreateCatalogItemResponseobjecth
+CreateCatalogItemResponse()IBlazorShared.Models.CreateCatalogItemResponse.CreateCatalogItemResponse()P
+CatalogItem.get=BlazorShared.Models.CreateCatalogItemResponse.CatalogItem.getP
+CatalogItem.set=BlazorShared.Models.CreateCatalogItemResponse.CatalogItem.setë
 ,BlazorShared.Models.CreateCatalogItemRequestobjecte
 CreateCatalogItemRequest()GBlazorShared.Models.CreateCatalogItemRequest.CreateCatalogItemRequest()S
 CatalogTypeId.get>BlazorShared.Models.CreateCatalogItemRequest.CatalogTypeId.getS
@@ -55,49 +67,7 @@ Claims.set.BlazorShared.Authorization.UserInfo.Claims.set-
 PictureBase64.get>BlazorShared.Models.CreateCatalogItemRequest.PictureBase64.getS
 PictureBase64.set>BlazorShared.Models.CreateCatalogItemRequest.PictureBase64.setO
 PictureName.get<BlazorShared.Models.CreateCatalogItemRequest.PictureName.getO
-PictureName.set<BlazorShared.Models.CreateCatalogItemRequest.PictureName.set≈
--BlazorShared.Models.CreateCatalogItemResponseobjecth
-CreateCatalogItemResponse()IBlazorShared.Models.CreateCatalogItemResponse.CreateCatalogItemResponse()P
-CatalogItem.get=BlazorShared.Models.CreateCatalogItemResponse.CatalogItem.getP
-CatalogItem.set=BlazorShared.Models.CreateCatalogItemResponse.CatalogItem.setø
-'BlazorShared.Models.CatalogTypeResponseobject8BlazorShared.Interfaces.ILookupDataResponse<TLookupData>V
-CatalogTypeResponse()=BlazorShared.Models.CatalogTypeResponse.CatalogTypeResponse()<
-List.get0BlazorShared.Models.CatalogTypeResponse.List.get<
-List.set0BlazorShared.Models.CatalogTypeResponse.List.set±
--BlazorShared.Models.DeleteCatalogItemResponseobjecth
-DeleteCatalogItemResponse()IBlazorShared.Models.DeleteCatalogItemResponse.DeleteCatalogItemResponse()F
-
-Status.get8BlazorShared.Models.DeleteCatalogItemResponse.Status.getF
-
-Status.set8BlazorShared.Models.DeleteCatalogItemResponse.Status.set≠
-)BlazorShared.Models.EditCatalogItemResultobject\
-EditCatalogItemResult()ABlazorShared.Models.EditCatalogItemResult.EditCatalogItemResult()L
-CatalogItem.get9BlazorShared.Models.EditCatalogItemResult.CatalogItem.getL
-CatalogItem.set9BlazorShared.Models.EditCatalogItemResult.CatalogItem.set›
-,BlazorShared.Models.PagedCatalogItemResponseobjecte
-PagedCatalogItemResponse()GBlazorShared.Models.PagedCatalogItemResponse.PagedCatalogItemResponse()Q
-CatalogItems.get=BlazorShared.Models.PagedCatalogItemResponse.CatalogItems.getQ
-CatalogItems.set=BlazorShared.Models.PagedCatalogItemResponse.CatalogItems.setK
-PageCount.get:BlazorShared.Models.PagedCatalogItemResponse.PageCount.getK
-PageCount.set:BlazorShared.Models.PagedCatalogItemResponse.PageCount.set®
- BlazorShared.Models.ErrorDetailsobject9
-
-ToString()+BlazorShared.Models.ErrorDetails.ToString()A
-ErrorDetails()/BlazorShared.Models.ErrorDetails.ErrorDetails()A
-StatusCode.get/BlazorShared.Models.ErrorDetails.StatusCode.getA
-StatusCode.set/BlazorShared.Models.ErrorDetails.StatusCode.set;
-Message.get,BlazorShared.Models.ErrorDetails.Message.get;
-Message.set,BlazorShared.Models.ErrorDetails.Message.set≈
-(BlazorShared.Models.CatalogBrandResponseobject8BlazorShared.Interfaces.ILookupDataResponse<TLookupData>Y
-CatalogBrandResponse()?BlazorShared.Models.CatalogBrandResponse.CatalogBrandResponse()=
-List.get1BlazorShared.Models.CatalogBrandResponse.List.get=
-List.set1BlazorShared.Models.CatalogBrandResponse.List.set±
-BlazorShared.Models.LookupDataobject;
-LookupData()+BlazorShared.Models.LookupData.LookupData()/
-Id.get%BlazorShared.Models.LookupData.Id.get/
-Id.set%BlazorShared.Models.LookupData.Id.set3
-Name.get'BlazorShared.Models.LookupData.Name.get3
-Name.set'BlazorShared.Models.LookupData.Name.setÖ
+PictureName.set<BlazorShared.Models.CreateCatalogItemRequest.PictureName.setÖ
 BlazorShared.Models.CatalogItemobject>
 CatalogItem()-BlazorShared.Models.CatalogItem.CatalogItem()0
 Id.get&BlazorShared.Models.CatalogItem.Id.get0
@@ -121,4 +91,34 @@ ToString()+BlazorShared.Models.ErrorDetails.ToString()A
 PictureBase64.get1BlazorShared.Models.CatalogItem.PictureBase64.getF
 PictureBase64.set1BlazorShared.Models.CatalogItem.PictureBase64.setB
 PictureName.get/BlazorShared.Models.CatalogItem.PictureName.getB
-PictureName.set/BlazorShared.Models.CatalogItem.PictureName.set
+PictureName.set/BlazorShared.Models.CatalogItem.PictureName.set±
+BlazorShared.Models.LookupDataobject;
+LookupData()+BlazorShared.Models.LookupData.LookupData()/
+Id.get%BlazorShared.Models.LookupData.Id.get/
+Id.set%BlazorShared.Models.LookupData.Id.set3
+Name.get'BlazorShared.Models.LookupData.Name.get3
+Name.set'BlazorShared.Models.LookupData.Name.set±
+-BlazorShared.Models.DeleteCatalogItemResponseobjecth
+DeleteCatalogItemResponse()IBlazorShared.Models.DeleteCatalogItemResponse.DeleteCatalogItemResponse()F
+
+Status.get8BlazorShared.Models.DeleteCatalogItemResponse.Status.getF
+
+Status.set8BlazorShared.Models.DeleteCatalogItemResponse.Status.set≠
+)BlazorShared.Models.EditCatalogItemResultobject\
+EditCatalogItemResult()ABlazorShared.Models.EditCatalogItemResult.EditCatalogItemResult()L
+CatalogItem.get9BlazorShared.Models.EditCatalogItemResult.CatalogItem.getL
+CatalogItem.set9BlazorShared.Models.EditCatalogItemResult.CatalogItem.set›
+,BlazorShared.Models.PagedCatalogItemResponseobjecte
+PagedCatalogItemResponse()GBlazorShared.Models.PagedCatalogItemResponse.PagedCatalogItemResponse()Q
+CatalogItems.get=BlazorShared.Models.PagedCatalogItemResponse.CatalogItems.getQ
+CatalogItems.set=BlazorShared.Models.PagedCatalogItemResponse.CatalogItems.setK
+PageCount.get:BlazorShared.Models.PagedCatalogItemResponse.PageCount.getK
+PageCount.set:BlazorShared.Models.PagedCatalogItemResponse.PageCount.set®
+ BlazorShared.Models.ErrorDetailsobject9
+
+ToString()+BlazorShared.Models.ErrorDetails.ToString()A
+ErrorDetails()/BlazorShared.Models.ErrorDetails.ErrorDetails()A
+StatusCode.get/BlazorShared.Models.ErrorDetails.StatusCode.getA
+StatusCode.set/BlazorShared.Models.ErrorDetails.StatusCode.set;
+Message.get,BlazorShared.Models.ErrorDetails.Message.get;
+Message.set,BlazorShared.Models.ErrorDetails.Message.set

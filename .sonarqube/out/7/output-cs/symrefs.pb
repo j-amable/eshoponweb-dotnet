@@ -1,4 +1,16 @@
-ê
+Ø
+h/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/tests/FunctionalTests/Web/WebTestFixture.cs
+
+ 
+ ( +
+
+ '(
+5 <  66 &2
+" * &!! $$ ,, 
+ ' 2
+- .0 10 1
+$$ !))/ 1
+,, !11/ 1ê
 h/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/tests/FunctionalTests/Web/WebPageHelpers.cs
 
  "
@@ -25,20 +37,7 @@ m/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/tests/FunctionalTe
 
  7
   # +
- 5 C…
-‚/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/tests/FunctionalTests/PublicApi/AuthEndpoints/AuthenticateEndpoint.csØ
-h/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/tests/FunctionalTests/Web/WebTestFixture.cs
-
- 
- ( +
-
- '(
-5 <  66 &2
-" * &!! $$ ,, 
- ' 2
-- .0 10 1
-$$ !))/ 1
-,, !11/ 1Ü
+ 5 CÜ
 p/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/tests/FunctionalTests/Web/Pages/Basket/IndexTest.cs
 
  
@@ -170,7 +169,8 @@ z/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/tests/FunctionalTe
 hh  iiO c
 ii kk. A
 ll mm+ ;
-mm "nn$ :º
+mm "nn$ :…
+‚/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/tests/FunctionalTests/PublicApi/AuthEndpoints/AuthenticateEndpoint.csº
 n/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/tests/FunctionalTests/PublicApi/ApiTokenHelper.cs
 
  

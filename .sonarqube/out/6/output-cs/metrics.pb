@@ -15,21 +15,21 @@ n/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/ViewModels
 Ü
 n/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/ViewModels/Manage/RemoveLoginViewModel.cs 8r		
 Ç
-é
-q/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/ViewModels/Manage/ChangePasswordViewModel.cs 8r	
-Ü
+Ä
+h/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/ViewModels/Manage/IndexViewModel.cs 
+8
+r	Ü
 q/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/ViewModels/Manage/ExternalLoginsViewModel.cs 8r	
 ê
 v/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/ViewModels/Manage/EnableAuthenticatorViewModel.cs 8r	
-Ä
-h/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/ViewModels/Manage/IndexViewModel.cs 
-8
-r	v
-e/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/ViewModels/File/FileViewModel.cs 8ry
+é
+q/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/ViewModels/Manage/ChangePasswordViewModel.cs 8r	
+y
 g/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/ViewModels/CatalogItemViewModel.cs 8r	}
 h/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/ViewModels/CatalogIndexViewModel.cs 8r	
 z
-k/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/ViewModels/BasketComponentViewModel.cs 8rå
+k/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/ViewModels/BasketComponentViewModel.cs 8rv
+e/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/ViewModels/File/FileViewModel.cs 8rå
 q/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/ViewModels/Account/ResetPasswordViewModel.cs 8r	à
 l/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/ViewModels/Account/RegisterViewModel.cs 8r	
 á
@@ -42,11 +42,11 @@ c/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/SlugifyPar
 h/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/Services/CatalogViewModelService.cs 8j0rY	
  !"#$%&()*,-.12456789:;<=>?@ABCDEFGHJKMNPQRSUVWXZ[]^`abcefghjkmnoxÇ"!"#$%*12689:;=>DFJKMRSUVW[]bcefgkmó
 l/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/Services/CatalogItemViewModelService.cs 8r	
-ÇÊ
-g/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/Services/BasketViewModelService.cs 8rO
-!"#$%&')*+,./01235678:;<>?@ABCDEFGHJKMNOPQRSTUWXY[\]xÇ!#%&,.0178:<@ABCDEGJOQRSY[¥
+Ç¥
 n/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/Services/CachedCatalogViewModelService.cs 8r+
- !#$%&'(*+,-./012Ç!#%&,./·
+ !#$%&'(*+,-./012Ç!#%&,./Ê
+g/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/Services/BasketViewModelService.cs 8rO
+!"#$%&')*+,./01235678:;<>?@ABCDEFGHJKMNOPQRSTUWXY[\]xÇ!#%&,.0178:<@ABCDEGJOQRSY[·
 O/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/Program.cså8j
 AEF`ek∆rÍ	
  !"#$%&'()*+-/012345789:<=>?BCDGHJKLMOPQRSTUVWXYZ[\]^abcfghilmnoprtvxz{|}~ÄÇÉÑÖÜáàâäãçéèêëíìîïóòôöõúùûü†°¢£§•¶ß®©™´¨≠ÆØ∞±≤≥¥µ∂∏π∫ªΩæø¬√ƒ≈«… xÇå !#$&()-/02347<=>?BCGJLPQSUVXYZ\]abcfhlmnoprtvxz|ÄÇÉÑÖâçéêíìóöúûü°¢•¶©´¨≠ÆØ≥¥µ∏π∫ªΩæø¬√ƒ≈«… À
@@ -73,14 +73,14 @@ k/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/Interfaces
 |
 o/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/Interfaces/ICatalogItemViewModelService.csr	y
 j/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/Interfaces/IBasketViewModelService.csr		
-ã
-m/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/Features/OrderDetails/GetOrderDetails.cs 8r	Çò
+û
+h/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/HealthChecks/HomePageHealthCheck.cs	 8r	
+!"#xÇ!ò
 c/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/HealthChecks/ApiHealthCheck.cs 8r
  !"xÇ º
 t/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/Features/OrderDetails/GetOrderDetailsHandler.cs 8r'	
- !"#$%&'()*+,-xÇ "#$%&()*û
-h/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/HealthChecks/HomePageHealthCheck.cs	 8r	
-!"#xÇ!û
+ !"#$%&'()*+,-xÇ "#$%&()*ã
+m/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/Features/OrderDetails/GetOrderDetails.cs 8r	Çû
 l/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/Features/MyOrders/GetMyOrdersHandler.cs 8r	
  ÇÄ
 e/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/Features/MyOrders/GetMyOrders.cs 8r
@@ -106,11 +106,11 @@ j/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/Configurat
 k/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/Configuration/ConfigureCoreServices.cs
  8r
 Ç
-Ù
-t/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/Areas/Identity/Pages/Account/Register.cshtml.cs 8jarU	
- !"#%&(*+,-./12345789:;=>?@BCDEFGHIJKMNOPQRTUVXYZ[\]^_bcdxÇ !"?DEGHIKMNQRTUVXY[]b≠
+≠
 m/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/Configuration/ConfigureCookieSettings.cs 8j r 	
- !"$&'(Ç$&¿
+ !"$&'(Ç$&Ù
+t/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/Areas/Identity/Pages/Account/Register.cshtml.cs 8jarU	
+ !"#%&(*+,-./12345789:;=>?@BCDEFGHIJKMNOPQRTUVXYZ[\]^_bcdxÇ !"?DEGHIKMNQRTUVXY[]b¿
 r/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/Areas/Identity/Pages/Account/Logout.cshtml.cs 8jr-	 !"#$%&'(*+,-./01234xÇ!"#$%'*+-1Ö
 q/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/Areas/Identity/Pages/Account/Login.cshtml.cs 8j<JKLfr^	 "#%&'()+,-/01345678:=?ABDEFHIMNPQRSTUVWXYZ[\]^_`abcdghjklmnopqrstuvwxÇ57:=?AFHMPRSTVXZ\]abglnoqrt∏
 x/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/Areas/Identity/Pages/Account/ConfirmEmail.cshtml.cs

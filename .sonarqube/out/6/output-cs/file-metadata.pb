@@ -27,9 +27,9 @@ p/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/ViewModels
 i/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/ViewModels/Account/LoginViewModel.csutf-8l
 c/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/SlugifyParameterTransformer.csutf-8q
 h/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/Services/CatalogViewModelService.csutf-8u
-l/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/Services/CatalogItemViewModelService.csutf-8p
-g/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/Services/BasketViewModelService.csutf-8w
-n/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/Services/CachedCatalogViewModelService.csutf-8X
+l/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/Services/CatalogItemViewModelService.csutf-8w
+n/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/Services/CachedCatalogViewModelService.csutf-8p
+g/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/Services/BasketViewModelService.csutf-8X
 O/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/Program.csutf-8
 v/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/Pages/Shared/Components/BasketComponent/Basket.csutf-8e
 \/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/Pages/Privacy.cshtml.csutf-8c
@@ -61,9 +61,9 @@ i/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/Controller
 Q/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/Constants.csutf-8y
 p/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/Configuration/RevokeAuthenticationEvents.csutf-8s
 j/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/Configuration/ConfigureWebServices.csutf-8t
-k/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/Configuration/ConfigureCoreServices.csutf-8}
-t/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/Areas/Identity/Pages/Account/Register.cshtml.csutf-8v
-m/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/Configuration/ConfigureCookieSettings.csutf-8{
+k/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/Configuration/ConfigureCoreServices.csutf-8v
+m/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/Configuration/ConfigureCookieSettings.csutf-8}
+t/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/Areas/Identity/Pages/Account/Register.cshtml.csutf-8{
 r/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/Areas/Identity/Pages/Account/Logout.cshtml.csutf-8z
 q/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/Areas/Identity/Pages/Account/Login.cshtml.csutf-8Å
 x/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/Areas/Identity/Pages/Account/ConfirmEmail.cshtml.csutf-8v

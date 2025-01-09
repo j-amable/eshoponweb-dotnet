@@ -574,93 +574,7 @@ OrderItems &
 )! "
 ;" #
 } 
-} §
-/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Specifications/BasketWithItemsSpecification.cs
-	namespace 	
-	Microsoft
- 
-. 
-eShopWeb 
-. 
-ApplicationCore ,
-., -
-Specifications- ;
-;; <
-public 
-sealed 
-class (
-BasketWithItemsSpecification 0
-:1 2
-Specification3 @
-<@ A
-BasketA G
->G H
-{ 
-public 
-(
-BasketWithItemsSpecification '
-(' (
-int( +
-basketId, 4
-)4 5
-{		 
-Query
-
- 
-. 
-Where 
-( 
-b 
-=> 
-b 
-. 
-Id 
-== 
-basketId  (
-)( )
-. 
-Include 
-( 
-b 
-=> 
-b 
-. 
-Items !
-)! "
-;" #
-} 
-public 
-(
-BasketWithItemsSpecification '
-(' (
-string( .
-buyerId/ 6
-)6 7
-{ 
-Query 
-. 
-Where 
-( 
-b 
-=> 
-b 
-. 
-BuyerId !
-==" $
-buyerId% ,
-), -
-. 
-Include 
-( 
-b 
-=> 
-b 
-. 
-Items !
-)! "
-;" #
-} 
-} “	
+} “	
 h/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Services/UriComposer.cs
 	namespace 	
 	Microsoft
@@ -1036,7 +950,93 @@ basketItem--M W
 )33- .
 ;33. /
 }44 
-}55 €D
+}55 §
+/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Specifications/BasketWithItemsSpecification.cs
+	namespace 	
+	Microsoft
+ 
+. 
+eShopWeb 
+. 
+ApplicationCore ,
+., -
+Specifications- ;
+;; <
+public 
+sealed 
+class (
+BasketWithItemsSpecification 0
+:1 2
+Specification3 @
+<@ A
+BasketA G
+>G H
+{ 
+public 
+(
+BasketWithItemsSpecification '
+(' (
+int( +
+basketId, 4
+)4 5
+{		 
+Query
+
+ 
+. 
+Where 
+( 
+b 
+=> 
+b 
+. 
+Id 
+== 
+basketId  (
+)( )
+. 
+Include 
+( 
+b 
+=> 
+b 
+. 
+Items !
+)! "
+;" #
+} 
+public 
+(
+BasketWithItemsSpecification '
+(' (
+string( .
+buyerId/ 6
+)6 7
+{ 
+Query 
+. 
+Where 
+( 
+b 
+=> 
+b 
+. 
+BuyerId !
+==" $
+buyerId% ,
+), -
+. 
+Include 
+( 
+b 
+=> 
+b 
+. 
+Items !
+)! "
+;" #
+} 
+} €D
 j/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Services/BasketService.cs
 	namespace		 	
 	Microsoft		

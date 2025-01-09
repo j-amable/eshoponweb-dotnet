@@ -183,6 +183,80 @@
         {
           "ruleId": "CS8618",
           "level": "warning",
+          "message": "Non-nullable property 'ProductName' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///Users/james.amable/Source%20Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Entities/OrderAggregate/CatalogItemOrdered.cs",
+                "region": {
+                  "startLine": 23,
+                  "startColumn": 13,
+                  "endLine": 23,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///Users/james.amable/Source%20Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Entities/OrderAggregate/CatalogItemOrdered.cs",
+                "region": {
+                  "startLine": 26,
+                  "startColumn": 19,
+                  "endLine": 26,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'PictureUri' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///Users/james.amable/Source%20Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Entities/OrderAggregate/CatalogItemOrdered.cs",
+                "region": {
+                  "startLine": 23,
+                  "startColumn": 13,
+                  "endLine": 23,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///Users/james.amable/Source%20Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Entities/OrderAggregate/CatalogItemOrdered.cs",
+                "region": {
+                  "startLine": 27,
+                  "startColumn": 19,
+                  "endLine": 27,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
           "message": "Non-nullable property 'Street' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
           "suppressionStates": [
             "suppressedInSource"
@@ -366,80 +440,6 @@
           }
         },
         {
-          "ruleId": "CS8618",
-          "level": "warning",
-          "message": "Non-nullable property 'ProductName' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///Users/james.amable/Source%20Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Entities/OrderAggregate/CatalogItemOrdered.cs",
-                "region": {
-                  "startLine": 23,
-                  "startColumn": 13,
-                  "endLine": 23,
-                  "endColumn": 31
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///Users/james.amable/Source%20Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Entities/OrderAggregate/CatalogItemOrdered.cs",
-                "region": {
-                  "startLine": 26,
-                  "startColumn": 19,
-                  "endLine": 26,
-                  "endColumn": 30
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS8618",
-          "level": "warning",
-          "message": "Non-nullable property 'PictureUri' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
-          "suppressionStates": [
-            "suppressedInSource"
-          ],
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///Users/james.amable/Source%20Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Entities/OrderAggregate/CatalogItemOrdered.cs",
-                "region": {
-                  "startLine": 23,
-                  "startColumn": 13,
-                  "endLine": 23,
-                  "endColumn": 31
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///Users/james.amable/Source%20Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Entities/OrderAggregate/CatalogItemOrdered.cs",
-                "region": {
-                  "startLine": 27,
-                  "startColumn": 19,
-                  "endLine": 27,
-                  "endColumn": 29
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
           "ruleId": "S1135",
           "level": "warning",
           "message": "Complete the task associated to this 'TODO' comment.",
@@ -482,6 +482,27 @@
           }
         },
         {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///Users/james.amable/Source%20Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Constants/AuthorizationConstants.cs",
+                "region": {
+                  "startLine": 8,
+                  "startColumn": 25,
+                  "endLine": 8,
+                  "endColumn": 56
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
           "ruleId": "S1118",
           "level": "warning",
           "message": "Add a 'protected' constructor or the 'static' keyword to the class declaration.",
@@ -503,24 +524,61 @@
           }
         },
         {
-          "ruleId": "S2068",
+          "ruleId": "S2326",
           "level": "warning",
-          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "message": "'T' is not used in the interface.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///Users/james.amable/Source%20Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Constants/AuthorizationConstants.cs",
+                "uri": "file:///Users/james.amable/Source%20Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Interfaces/IAppLogger.cs",
                 "region": {
-                  "startLine": 8,
-                  "startColumn": 25,
-                  "endLine": 8,
-                  "endColumn": 56
+                  "startLine": 7,
+                  "startColumn": 29,
+                  "endLine": 7,
+                  "endColumn": 30
                 }
               }
             }
           ],
           "properties": {
             "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3925",
+          "level": "warning",
+          "message": "Update this implementation of 'ISerializable' to conform to the recommended serialization pattern. Add 'System.SerializableAttribute' attribute on 'EmptyBasketOnCheckoutException' because it implements 'ISerializable'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///Users/james.amable/Source%20Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Exceptions/EmptyBasketOnCheckoutException.cs",
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 14,
+                  "endLine": 5,
+                  "endColumn": 44
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///Users/james.amable/Source%20Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Exceptions/EmptyBasketOnCheckoutException.cs",
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 8,
+                  "endLine": 5,
+                  "endColumn": 13
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": "Add 'System.SerializableAttribute' attribute on 'EmptyBasketOnCheckoutException' because it implements 'ISerializable'."
+            }
           }
         },
         {
@@ -545,18 +603,18 @@
           }
         },
         {
-          "ruleId": "S2326",
+          "ruleId": "S1144",
           "level": "warning",
-          "message": "'T' is not used in the interface.",
+          "message": "Remove the unused private setter 'set_BasketId'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///Users/james.amable/Source%20Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Interfaces/IAppLogger.cs",
+                "uri": "file:///Users/james.amable/Source%20Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Entities/BasketAggregate/BasketItem.cs",
                 "region": {
-                  "startLine": 7,
-                  "startColumn": 29,
-                  "endLine": 7,
-                  "endColumn": 30
+                  "startLine": 11,
+                  "startColumn": 32,
+                  "endLine": 11,
+                  "endColumn": 44
                 }
               }
             }
@@ -631,27 +689,6 @@
         {
           "ruleId": "S1144",
           "level": "warning",
-          "message": "Remove the unused private setter 'set_BasketId'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///Users/james.amable/Source%20Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Entities/BasketAggregate/BasketItem.cs",
-                "region": {
-                  "startLine": 11,
-                  "startColumn": 32,
-                  "endLine": 11,
-                  "endColumn": 44
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S1144",
-          "level": "warning",
           "message": "Remove the unused private setter 'set_CatalogType'.",
           "locations": [
             {
@@ -692,43 +729,6 @@
           }
         },
         {
-          "ruleId": "S3925",
-          "level": "warning",
-          "message": "Update this implementation of 'ISerializable' to conform to the recommended serialization pattern. Add 'System.SerializableAttribute' attribute on 'EmptyBasketOnCheckoutException' because it implements 'ISerializable'.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///Users/james.amable/Source%20Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Exceptions/EmptyBasketOnCheckoutException.cs",
-                "region": {
-                  "startLine": 5,
-                  "startColumn": 14,
-                  "endLine": 5,
-                  "endColumn": 44
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///Users/james.amable/Source%20Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Exceptions/EmptyBasketOnCheckoutException.cs",
-                "region": {
-                  "startLine": 5,
-                  "startColumn": 8,
-                  "endLine": 5,
-                  "endColumn": 13
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "0": "Add 'System.SerializableAttribute' attribute on 'EmptyBasketOnCheckoutException' because it implements 'ISerializable'."
-            }
-          }
-        },
-        {
           "ruleId": "CA1860",
           "level": "note",
           "message": "Prefer comparing 'Count' to 0 rather than using 'Any()', both for clarity and for performance",
@@ -750,6 +750,27 @@
             "customProperties": {
               "DiagnosticPropertyKey": "Count"
             }
+          }
+        },
+        {
+          "ruleId": "S5332",
+          "level": "warning",
+          "message": "Using http protocol is insecure. Use https instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///Users/james.amable/Source%20Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Services/UriComposer.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 36,
+                  "endLine": 13,
+                  "endColumn": 71
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
           }
         },
         {
@@ -801,27 +822,6 @@
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///Users/james.amable/Source%20Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Services/BasketService.cs",
-                "region": {
-                  "startLine": 43,
-                  "startColumn": 36,
-                  "endLine": 43,
-                  "endColumn": 50
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S3236",
-          "level": "warning",
-          "message": "Remove this argument from the method call; it hides the caller information.",
-          "locations": [
-            {
-              "resultFile": {
                 "uri": "file:///Users/james.amable/Source%20Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Entities/OrderAggregate/CatalogItemOrdered.cs",
                 "region": {
                   "startLine": 14,
@@ -858,18 +858,18 @@
           }
         },
         {
-          "ruleId": "S5332",
+          "ruleId": "S3236",
           "level": "warning",
-          "message": "Using http protocol is insecure. Use https instead.",
+          "message": "Remove this argument from the method call; it hides the caller information.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///Users/james.amable/Source%20Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Services/UriComposer.cs",
+                "uri": "file:///Users/james.amable/Source%20Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Services/BasketService.cs",
                 "region": {
-                  "startLine": 13,
+                  "startLine": 43,
                   "startColumn": 36,
-                  "endLine": 13,
-                  "endColumn": 71
+                  "endLine": 43,
+                  "endColumn": 50
                 }
               }
             }

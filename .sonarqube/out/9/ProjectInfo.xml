@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
-  <ProjectName>PublicApiIntegrationTests</ProjectName>
+  <ProjectName>UnitTests</ProjectName>
   <ProjectLanguage>C#</ProjectLanguage>
   <ProjectType>Test</ProjectType>
-  <ProjectGuid>d53ef010-8f8c-4337-a059-456e19d8ae63</ProjectGuid>
-  <FullPath>/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/tests/PublicApiIntegrationTests/PublicApiIntegrationTests.csproj</FullPath>
+  <ProjectGuid>ef6877e6-59cb-43a7-8c2c-e70dd70cc5b6</ProjectGuid>
+  <FullPath>/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/tests/UnitTests/UnitTests.csproj</FullPath>
   <IsExcluded>false</IsExcluded>
   <AnalysisResults>
     <AnalysisResult Id="FilesToAnalyze" Location="/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/.sonarqube/conf/9/FilesToAnalyze.txt" />

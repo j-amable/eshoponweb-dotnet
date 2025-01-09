@@ -1,0 +1,4277 @@
+à
+NMicrosoft.eShopWeb.Infrastructure.Data.CatalogContextSeed.CatalogContextSeed()t
+j/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/CatalogContextSeed.cs
+ 
+("0*|
+0`
+^
+
+%0void"object.Object()*?=;
+9Microsoft.eShopWeb.Infrastructure.Data.CatalogContextSeed"
+implicit returnB=;
+9Microsoft.eShopWeb.Infrastructure.Data.CatalogContextSeedX™
+WMicrosoft.eShopWeb.Infrastructure.Data.Config.BasketConfiguration.BasketConfiguration()|
+r/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/Config/BasketConfiguration.cs ( "0*Ñ
+0h
+f
+
+%0void"object.Object()*GEC
+AMicrosoft.eShopWeb.Infrastructure.Data.Config.BasketConfiguration"
+implicit returnBEC
+AMicrosoft.eShopWeb.Infrastructure.Data.Config.BasketConfigurationX∑
+^Microsoft.eShopWeb.Infrastructure.Identity.AppIdentityDbContextSeed.AppIdentityDbContextSeed()~
+t/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Identity/AppIdentityDbContextSeed.cs (%"0*Ü
+0j
+h
+
+%0void"object.Object()*IGE
+CMicrosoft.eShopWeb.Infrastructure.Identity.AppIdentityDbContextSeed"
+implicit returnBGE
+CMicrosoft.eShopWeb.Infrastructure.Identity.AppIdentityDbContextSeedX…
+cMicrosoft.eShopWeb.Infrastructure.Data.Config.CatalogBrandConfiguration.CatalogBrandConfiguration()Ç
+x/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/Config/CatalogBrandConfiguration.cs (&"0*ä
+0n
+l
+
+%0void"object.Object()*MKI
+GMicrosoft.eShopWeb.Infrastructure.Data.Config.CatalogBrandConfiguration"
+implicit returnBKI
+GMicrosoft.eShopWeb.Infrastructure.Data.Config.CatalogBrandConfigurationXƒ
+aMicrosoft.eShopWeb.Infrastructure.Data.Config.CatalogItemConfiguration.CatalogItemConfiguration()Å
+w/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/Config/CatalogItemConfiguration.cs (%"0*â
+0m
+k
+
+%0void"object.Object()*LJH
+FMicrosoft.eShopWeb.Infrastructure.Data.Config.CatalogItemConfiguration"
+implicit returnBJH
+FMicrosoft.eShopWeb.Infrastructure.Data.Config.CatalogItemConfigurationX∂
+LMicrosoft.eShopWeb.Infrastructure.Identity.ApplicationUser.ApplicationUser()u
+k/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Identity/ApplicationUser.cs ("0*©
+0å
+â
+
+%0void"9Microsoft.AspNetCore.Identity.IdentityUser.IdentityUser()*@><
+:Microsoft.eShopWeb.Infrastructure.Identity.ApplicationUser"
+implicit returnB><
+:Microsoft.eShopWeb.Infrastructure.Identity.ApplicationUserXı
+DMicrosoft.eShopWeb.Infrastructure.Services.EmailSender.EmailSender()q
+g/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Services/EmailSender.cs ("0*y
+0]
+[
+
+%0void"object.Object()*<:8
+6Microsoft.eShopWeb.Infrastructure.Services.EmailSender"
+implicit returnB:8
+6Microsoft.eShopWeb.Infrastructure.Services.EmailSenderXø
+_Microsoft.eShopWeb.Infrastructure.Data.Config.BasketItemConfiguration.BasketItemConfiguration()Ä
+v/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/Config/BasketItemConfiguration.cs ($"0*à
+0l
+j
+
+%0void"object.Object()*KIG
+EMicrosoft.eShopWeb.Infrastructure.Data.Config.BasketItemConfiguration"
+implicit returnBIG
+EMicrosoft.eShopWeb.Infrastructure.Data.Config.BasketItemConfigurationX÷
+:Microsoft.eShopWeb.Infrastructure.Data.FileItem.FileItem()j
+`/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/FileItem.cs ("0*r
+0V
+T
+
+%0void"object.Object()*531
+/Microsoft.eShopWeb.Infrastructure.Data.FileItem"
+implicit returnB31
+/Microsoft.eShopWeb.Infrastructure.Data.FileItemXŒ
+IMicrosoft.eShopWeb.Infrastructure.Data.Migrations.FixBuyerId.FixBuyerId()Ü
+|/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/Migrations/20211026175614_FixBuyerId.cs ("0*∞
+0ì
+ê
+
+%0void">Microsoft.EntityFrameworkCore.Migrations.Migration.Migration()*B@>
+<Microsoft.eShopWeb.Infrastructure.Data.Migrations.FixBuyerId"
+implicit returnB@>
+<Microsoft.eShopWeb.Infrastructure.Data.Migrations.FixBuyerIdX•
+UMicrosoft.eShopWeb.Infrastructure.Data.Config.OrderConfiguration.OrderConfiguration(){
+q/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/Config/OrderConfiguration.cs ("0*É
+0g
+e
+
+%0void"object.Object()*FDB
+@Microsoft.eShopWeb.Infrastructure.Data.Config.OrderConfiguration"
+implicit returnBDB
+@Microsoft.eShopWeb.Infrastructure.Data.Config.OrderConfigurationXƒ
+aMicrosoft.eShopWeb.Infrastructure.Data.Config.CatalogTypeConfiguration.CatalogTypeConfiguration()Å
+w/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/Config/CatalogTypeConfiguration.cs (%"0*â
+0m
+k
+
+%0void"object.Object()*LJH
+FMicrosoft.eShopWeb.Infrastructure.Data.Config.CatalogTypeConfiguration"
+implicit returnBJH
+FMicrosoft.eShopWeb.Infrastructure.Data.Config.CatalogTypeConfigurationXÌ
+UMicrosoft.eShopWeb.Infrastructure.Data.Migrations.FixShipToAddress.FixShipToAddress()ç
+Ç/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/Migrations/20211231093753_FixShipToAddress.cs ()"0*∂
+0ô
+ñ
+
+%0void">Microsoft.EntityFrameworkCore.Migrations.Migration.Migration()*HFD
+BMicrosoft.eShopWeb.Infrastructure.Data.Migrations.FixShipToAddress"
+implicit returnBFD
+BMicrosoft.eShopWeb.Infrastructure.Data.Migrations.FixShipToAddressXπ
+]Microsoft.eShopWeb.Infrastructure.Data.Config.OrderItemConfiguration.OrderItemConfiguration()
+u/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/Config/OrderItemConfiguration.cs (#"0*á
+0k
+i
+
+%0void"object.Object()*JHF
+DMicrosoft.eShopWeb.Infrastructure.Data.Config.OrderItemConfiguration"
+implicit returnBHF
+DMicrosoft.eShopWeb.Infrastructure.Data.Config.OrderItemConfigurationXÿ
+MMicrosoft.eShopWeb.Infrastructure.Data.Migrations.InitialModel.InitialModel()à
+~/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/Migrations/20201202111507_InitialModel.cs (!"0*≤
+0ï
+í
+
+%0void">Microsoft.EntityFrameworkCore.Migrations.Migration.Migration()*DB@
+>Microsoft.eShopWeb.Infrastructure.Data.Migrations.InitialModel"
+implicit returnBB@
+>Microsoft.eShopWeb.Infrastructure.Data.Migrations.InitialModelXë
+aMicrosoft.eShopWeb.Infrastructure.Identity.Migrations.InitialIdentityModel.InitialIdentityModel()ï
+ä/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Identity/Migrations/20201202111612_InitialIdentityModel.cs ()"0*æ
+0°
+û
+
+%0void">Microsoft.EntityFrameworkCore.Migrations.Migration.Migration()*PNL
+JMicrosoft.eShopWeb.Infrastructure.Identity.Migrations.InitialIdentityModel"
+implicit returnBNL
+JMicrosoft.eShopWeb.Infrastructure.Identity.Migrations.InitialIdentityModelXÍ
+ãMicrosoft.eShopWeb.Infrastructure.Data.Queries.BasketQueryService.BasketQueryService(Microsoft.eShopWeb.Infrastructure.Data.CatalogContext)|
+r/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/Queries/BasketQueryService.cs ("0*
+0 (*
+1*˚
+1 (|
+z
+ (
+
+%0void"object.Object()*Q
+ (EC
+AMicrosoft.eShopWeb.Infrastructure.Data.Queries.BasketQueryServiceË
+Â
+ (äC
+AMicrosoft.eShopWeb.Infrastructure.Data.Queries.BasketQueryService"C
+
+_dbContext5Microsoft.eShopWeb.Infrastructure.Data.CatalogContext"__id*FD
+B
+	dbContext5Microsoft.eShopWeb.Infrastructure.Data.CatalogContext*
+2*.
+2 ("
+ (
+implicit return:N
+ (6B
+	dbContext5Microsoft.eShopWeb.Infrastructure.Data.CatalogContextBEC
+AMicrosoft.eShopWeb.Infrastructure.Data.Queries.BasketQueryServiceX≈
+AMicrosoft.eShopWeb.Infrastructure.Data.CatalogContext.Baskets.getp
+f/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/CatalogContext.cs# (&"0*œ
+0' ('◊
+‘
+p
+f/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/CatalogContext.cs# (&o
+%retgMicrosoft.EntityFrameworkCore.DbSet<Microsoft.eShopWeb.ApplicationCore.Entities.BasketAggregate.Basket>"__id*Ë
+p
+f/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/CatalogContext.cs# (&t*r7
+5Microsoft.eShopWeb.Infrastructure.Data.CatalogContext"7
+Baskets,Microsoft.EntityFrameworkCore.DbSet<TEntity>"Â
+p
+f/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/CatalogContext.cs# (&q
+o
+%retgMicrosoft.EntityFrameworkCore.DbSet<Microsoft.eShopWeb.ApplicationCore.Entities.BasketAggregate.Basket>B97
+5Microsoft.eShopWeb.Infrastructure.Data.CatalogContextß
+]Microsoft.eShopWeb.Infrastructure.Services.EmailSender.SendEmailAsync(string, string, string)q
+g/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Services/EmailSender.cs
+ 
+("0*
+0
+ 
+(*
+1*‚
+1 (!d
+b
+ (!!
+%0System.Threading.Tasks.Task"-System.Threading.Tasks.Task.CompletedTask.get* h
+f
+ (!#
+%retSystem.Threading.Tasks.Task"__id*/
+ (!#
+!
+%0System.Threading.Tasks.Task*
+2*@
+2 ("1
+ (%
+#
+%retSystem.Threading.Tasks.Task:
+
+ 
+(+
+emailstring:
+
+- 
+(;
+subjectstring:
+
+= 
+(K
+messagestringB:8
+6Microsoft.eShopWeb.Infrastructure.Services.EmailSenderï
+^Microsoft.eShopWeb.Infrastructure.Identity.UserNotFoundException.UserNotFoundException(string){
+q/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Identity/UserNotFoundException.cs ( "0*
+0 (*
+1*Ü
+12 (du
+s
+9 (c
+%0string"__concat*-
+; (X!
+No user found with username: * 
+X (b
+
+userNamestring{
+y
+2 (d
+
+%1void"#System.Exception.Exception(string?)* 
+2 (d
+System.Exception*
+9 (c
+
+%0string*
+2*.
+2	 	("
+	 	(
+implicit return:
+! (0
+userNamestringBDB
+@Microsoft.eShopWeb.Infrastructure.Identity.UserNotFoundExceptionXï
+´Microsoft.eShopWeb.Infrastructure.Data.CatalogContext.CatalogContext(Microsoft.EntityFrameworkCore.DbContextOptions<Microsoft.eShopWeb.Infrastructure.Data.CatalogContext>)p
+f/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/CatalogContext.cs ("0*
+0 (*
+1*ù
+1D (Sà
+Ö
+D (S
+
+%0void"aMicrosoft.EntityFrameworkCore.DbContext.DbContext(Microsoft.EntityFrameworkCore.DbContextOptions)*7
+D (S+)
+'Microsoft.EntityFrameworkCore.DbContext*Q
+K (RE
+C
+options8Microsoft.EntityFrameworkCore.DbContextOptions<TContext>*
+2*.
+2V (V"
+U (V
+implicit return:O
+ (BC
+options8Microsoft.EntityFrameworkCore.DbContextOptions<TContext>B97
+5Microsoft.eShopWeb.Infrastructure.Data.CatalogContextXˇ
+FMicrosoft.eShopWeb.Infrastructure.Data.CatalogContext.CatalogItems.setp
+f/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/CatalogContext.cs2 (5"0*…
+06 (6Ø
+¨
+p
+f/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/CatalogContext.cs2 (5w7
+5Microsoft.eShopWeb.Infrastructure.Data.CatalogContext"<
+CatalogItems,Microsoft.EntityFrameworkCore.DbSet<TEntity>"__id*97
+5
+value,Microsoft.EntityFrameworkCore.DbSet<TEntity>"á
+p
+f/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/CatalogContext.cs2 (5
+implicit return:75
+value,Microsoft.EntityFrameworkCore.DbSet<TEntity>B97
+5Microsoft.eShopWeb.Infrastructure.Data.CatalogContextXπ
+FMicrosoft.eShopWeb.Infrastructure.Data.CatalogContext.CatalogItems.getp
+f/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/CatalogContext.cs- (0"0*æ
+01 (1—
+Œ
+p
+f/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/CatalogContext.cs- (0d
+%ret\Microsoft.EntityFrameworkCore.DbSet<Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItem>"__id*Ì
+p
+f/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/CatalogContext.cs- (0y*w7
+5Microsoft.eShopWeb.Infrastructure.Data.CatalogContext"<
+CatalogItems,Microsoft.EntityFrameworkCore.DbSet<TEntity>"⁄
+p
+f/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/CatalogContext.cs- (0f
+d
+%ret\Microsoft.EntityFrameworkCore.DbSet<Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItem>B97
+5Microsoft.eShopWeb.Infrastructure.Data.CatalogContextΩ
+GMicrosoft.eShopWeb.Infrastructure.Data.CatalogContext.CatalogBrands.getp
+f/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/CatalogContext.cs/ (2"0*¡
+03 (3”
+–
+p
+f/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/CatalogContext.cs/ (2e
+%ret]Microsoft.EntityFrameworkCore.DbSet<Microsoft.eShopWeb.ApplicationCore.Entities.CatalogBrand>"__id*Ó
+p
+f/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/CatalogContext.cs/ (2z*x7
+5Microsoft.eShopWeb.Infrastructure.Data.CatalogContext"=
+CatalogBrands,Microsoft.EntityFrameworkCore.DbSet<TEntity>"€
+p
+f/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/CatalogContext.cs/ (2g
+e
+%ret]Microsoft.EntityFrameworkCore.DbSet<Microsoft.eShopWeb.ApplicationCore.Entities.CatalogBrand>B97
+5Microsoft.eShopWeb.Infrastructure.Data.CatalogContextı
+AMicrosoft.eShopWeb.Infrastructure.Data.CatalogContext.Baskets.setp
+f/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/CatalogContext.cs( (+"0*ƒ
+0, (,™
+ß
+p
+f/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/CatalogContext.cs( (+r7
+5Microsoft.eShopWeb.Infrastructure.Data.CatalogContext"7
+Baskets,Microsoft.EntityFrameworkCore.DbSet<TEntity>"__id*97
+5
+value,Microsoft.EntityFrameworkCore.DbSet<TEntity>"á
+p
+f/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/CatalogContext.cs( (+
+implicit return:75
+value,Microsoft.EntityFrameworkCore.DbSet<TEntity>B97
+5Microsoft.eShopWeb.Infrastructure.Data.CatalogContextXÅ
+GMicrosoft.eShopWeb.Infrastructure.Data.CatalogContext.CatalogBrands.setp
+f/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/CatalogContext.cs4 (7"0* 
+08 (8∞
+≠
+p
+f/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/CatalogContext.cs4 (7x7
+5Microsoft.eShopWeb.Infrastructure.Data.CatalogContext"=
+CatalogBrands,Microsoft.EntityFrameworkCore.DbSet<TEntity>"__id*97
+5
+value,Microsoft.EntityFrameworkCore.DbSet<TEntity>"á
+p
+f/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/CatalogContext.cs4 (7
+implicit return:75
+value,Microsoft.EntityFrameworkCore.DbSet<TEntity>B97
+5Microsoft.eShopWeb.Infrastructure.Data.CatalogContextXπ
+FMicrosoft.eShopWeb.Infrastructure.Data.CatalogContext.CatalogTypes.getp
+f/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/CatalogContext.cs- (0"0*æ
+01 (1—
+Œ
+p
+f/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/CatalogContext.cs- (0d
+%ret\Microsoft.EntityFrameworkCore.DbSet<Microsoft.eShopWeb.ApplicationCore.Entities.CatalogType>"__id*Ì
+p
+f/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/CatalogContext.cs- (0y*w7
+5Microsoft.eShopWeb.Infrastructure.Data.CatalogContext"<
+CatalogTypes,Microsoft.EntityFrameworkCore.DbSet<TEntity>"⁄
+p
+f/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/CatalogContext.cs- (0f
+d
+%ret\Microsoft.EntityFrameworkCore.DbSet<Microsoft.eShopWeb.ApplicationCore.Entities.CatalogType>B97
+5Microsoft.eShopWeb.Infrastructure.Data.CatalogContextˇ
+FMicrosoft.eShopWeb.Infrastructure.Data.CatalogContext.CatalogTypes.setp
+f/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/CatalogContext.cs2 (5"0*…
+06 (6Ø
+¨
+p
+f/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/CatalogContext.cs2 (5w7
+5Microsoft.eShopWeb.Infrastructure.Data.CatalogContext"<
+CatalogTypes,Microsoft.EntityFrameworkCore.DbSet<TEntity>"__id*97
+5
+value,Microsoft.EntityFrameworkCore.DbSet<TEntity>"á
+p
+f/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/CatalogContext.cs2 (5
+implicit return:75
+value,Microsoft.EntityFrameworkCore.DbSet<TEntity>B97
+5Microsoft.eShopWeb.Infrastructure.Data.CatalogContextXø
+@Microsoft.eShopWeb.Infrastructure.Data.CatalogContext.Orders.getp
+f/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/CatalogContext.cs! ($"0* 
+0% (%‘
+—
+p
+f/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/CatalogContext.cs! ($m
+%reteMicrosoft.EntityFrameworkCore.DbSet<Microsoft.eShopWeb.ApplicationCore.Entities.OrderAggregate.Order>"__id*Á
+p
+f/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/CatalogContext.cs! ($s*q7
+5Microsoft.eShopWeb.Infrastructure.Data.CatalogContext"6
+Orders,Microsoft.EntityFrameworkCore.DbSet<TEntity>"„
+p
+f/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/CatalogContext.cs! ($o
+m
+%reteMicrosoft.EntityFrameworkCore.DbSet<Microsoft.eShopWeb.ApplicationCore.Entities.OrderAggregate.Order>B97
+5Microsoft.eShopWeb.Infrastructure.Data.CatalogContextÛ
+@Microsoft.eShopWeb.Infrastructure.Data.CatalogContext.Orders.setp
+f/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/CatalogContext.cs& ()"0*√
+0* (*©
+¶
+p
+f/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/CatalogContext.cs& ()q7
+5Microsoft.eShopWeb.Infrastructure.Data.CatalogContext"6
+Orders,Microsoft.EntityFrameworkCore.DbSet<TEntity>"__id*97
+5
+value,Microsoft.EntityFrameworkCore.DbSet<TEntity>"á
+p
+f/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/CatalogContext.cs& ()
+implicit return:75
+value,Microsoft.EntityFrameworkCore.DbSet<TEntity>B97
+5Microsoft.eShopWeb.Infrastructure.Data.CatalogContextXØ
+uMicrosoft.eShopWeb.Infrastructure.Logging.LoggerAdapter<T>.LoggerAdapter(Microsoft.Extensions.Logging.ILoggerFactory)r
+h/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Logging/LoggerAdapter.cs	 	("0*
+0	 	(*
+1*Ó
+1	 (2u
+s
+	 (
+
+%0void"object.Object()*J
+	 (><
+:Microsoft.eShopWeb.Infrastructure.Logging.LoggerAdapter<T>ç
+ä
+ (19
+%13Microsoft.Extensions.Logging.ILogger<TCategoryName>"qMicrosoft.Extensions.Logging.LoggerFactoryExtensions.CreateLogger<T>(Microsoft.Extensions.Logging.ILoggerFactory)* *J
+ (>
+<
+loggerFactory+Microsoft.Extensions.Logging.ILoggerFactory“
+œ
+ (1~<
+:Microsoft.eShopWeb.Infrastructure.Logging.LoggerAdapter<T>">
+_logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>"__id*=;
+9
+%13Microsoft.Extensions.Logging.ILogger<TCategoryName>*
+2*.
+2 ("
+ (
+implicit return:H
+	 	(5<
+loggerFactory+Microsoft.Extensions.Logging.ILoggerFactoryB><
+:Microsoft.eShopWeb.Infrastructure.Logging.LoggerAdapter<T>X˚
+DMicrosoft.eShopWeb.Infrastructure.Data.CatalogContext.OrderItems.setp
+f/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/CatalogContext.cs. (1"0*«
+02 (2≠
+™
+p
+f/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/CatalogContext.cs. (1u7
+5Microsoft.eShopWeb.Infrastructure.Data.CatalogContext":
+
+OrderItems,Microsoft.EntityFrameworkCore.DbSet<TEntity>"__id*97
+5
+value,Microsoft.EntityFrameworkCore.DbSet<TEntity>"á
+p
+f/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/CatalogContext.cs. (1
+implicit return:75
+value,Microsoft.EntityFrameworkCore.DbSet<TEntity>B97
+5Microsoft.eShopWeb.Infrastructure.Data.CatalogContextXœ
+DMicrosoft.eShopWeb.Infrastructure.Data.CatalogContext.OrderItems.getp
+f/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/CatalogContext.cs) (,"0*÷
+0- (-‹
+Ÿ
+p
+f/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/CatalogContext.cs) (,q
+%retiMicrosoft.EntityFrameworkCore.DbSet<Microsoft.eShopWeb.ApplicationCore.Entities.OrderAggregate.OrderItem>"__id*Î
+p
+f/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/CatalogContext.cs) (,w*u7
+5Microsoft.eShopWeb.Infrastructure.Data.CatalogContext":
+
+OrderItems,Microsoft.EntityFrameworkCore.DbSet<TEntity>"Á
+p
+f/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/CatalogContext.cs) (,s
+q
+%retiMicrosoft.EntityFrameworkCore.DbSet<Microsoft.eShopWeb.ApplicationCore.Entities.OrderAggregate.OrderItem>B97
+5Microsoft.eShopWeb.Infrastructure.Data.CatalogContext˝
+EMicrosoft.eShopWeb.Infrastructure.Data.CatalogContext.BasketItems.setp
+f/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/CatalogContext.cs0 (3"0*»
+04 (4Æ
+´
+p
+f/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/CatalogContext.cs0 (3v7
+5Microsoft.eShopWeb.Infrastructure.Data.CatalogContext";
+BasketItems,Microsoft.EntityFrameworkCore.DbSet<TEntity>"__id*97
+5
+value,Microsoft.EntityFrameworkCore.DbSet<TEntity>"á
+p
+f/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/CatalogContext.cs0 (3
+implicit return:75
+value,Microsoft.EntityFrameworkCore.DbSet<TEntity>B97
+5Microsoft.eShopWeb.Infrastructure.Data.CatalogContextX’
+EMicrosoft.eShopWeb.Infrastructure.Data.CatalogContext.BasketItems.getp
+f/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/CatalogContext.cs+ (."0*€
+0/ (/ﬂ
+‹
+p
+f/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/CatalogContext.cs+ (.s
+%retkMicrosoft.EntityFrameworkCore.DbSet<Microsoft.eShopWeb.ApplicationCore.Entities.BasketAggregate.BasketItem>"__id*Ï
+p
+f/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/CatalogContext.cs+ (.x*v7
+5Microsoft.eShopWeb.Infrastructure.Data.CatalogContext";
+BasketItems,Microsoft.EntityFrameworkCore.DbSet<TEntity>"È
+p
+f/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/CatalogContext.cs+ (.u
+s
+%retkMicrosoft.EntityFrameworkCore.DbSet<Microsoft.eShopWeb.ApplicationCore.Entities.BasketAggregate.BasketItem>B97
+5Microsoft.eShopWeb.Infrastructure.Data.CatalogContextí
+≈Microsoft.eShopWeb.Infrastructure.Identity.AppIdentityDbContext.AppIdentityDbContext(Microsoft.EntityFrameworkCore.DbContextOptions<Microsoft.eShopWeb.Infrastructure.Identity.AppIdentityDbContext>)z
+p/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Identity/AppIdentityDbContext.cs	 	("0*
+0	 	(*
+1*Ï
+1
+ 
+(◊
+‘
+
+ 
+(
+
+%0void"åMicrosoft.AspNetCore.Identity.EntityFrameworkCore.IdentityDbContext<TUser>.IdentityDbContext(Microsoft.EntityFrameworkCore.DbContextOptions)*Z
+
+ 
+(NL
+JMicrosoft.AspNetCore.Identity.EntityFrameworkCore.IdentityDbContext<TUser>*Q
+
+ 
+(E
+C
+options8Microsoft.EntityFrameworkCore.DbContextOptions<TContext>*
+2*.
+2 ("
+ (
+implicit return:O
+	  	(NC
+options8Microsoft.EntityFrameworkCore.DbContextOptions<TContext>BCA
+?Microsoft.eShopWeb.Infrastructure.Identity.AppIdentityDbContextXÜ
+zMicrosoft.eShopWeb.Infrastructure.Data.EfRepository<T>.EfRepository(Microsoft.eShopWeb.Infrastructure.Data.CatalogContext)n
+d/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/EfRepository.cs ("0*
+0 (*
+1*¬
+12 (C≠
+™
+2 (C
+
+%0void"sArdalis.Specification.EntityFrameworkCore.RepositoryBase<T>.RepositoryBase(Microsoft.EntityFrameworkCore.DbContext)*K
+2 (C?=
+;Ardalis.Specification.EntityFrameworkCore.RepositoryBase<T>*P
+9 (BD
+B
+	dbContext5Microsoft.eShopWeb.Infrastructure.Data.CatalogContext*
+2*.
+2
+ 
+("
+
+ 
+(
+implicit return:N
+ (0B
+	dbContext5Microsoft.eShopWeb.Infrastructure.Data.CatalogContextB:8
+6Microsoft.eShopWeb.Infrastructure.Data.EfRepository<T>Xÿ	
+qMicrosoft.eShopWeb.Infrastructure.Data.CatalogContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)p
+f/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/CatalogContext.cs (+"0*
+0 (*
+1*©
+1 (Q¸
+˘
+ (%
+
+%0void"cMicrosoft.EntityFrameworkCore.DbContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)*7
+ (+)
+'Microsoft.EntityFrameworkCore.DbContext*C
+ ($7
+5
+builder*Microsoft.EntityFrameworkCore.ModelBuilderg
+e
+0 (O 
+%1System.Reflection.Assembly"1System.Reflection.Assembly.GetExecutingAssembly()* ¨©
+ (P0
+%2*Microsoft.EntityFrameworkCore.ModelBuilder"áMicrosoft.EntityFrameworkCore.ModelBuilder.ApplyConfigurationsFromAssembly(System.Reflection.Assembly, System.Func<System.Type, bool>?)*C
+ (7
+5
+builder*Microsoft.EntityFrameworkCore.ModelBuilder*.
+0 (O"
+ 
+%1System.Reflection.Assembly*
+ (P 2\ApplyConfigurationsFromAssembly(System.Reflection.Assembly, System.Func<System.Type, bool>?)*
+2*.
+2 ("
+ (
+implicit return:A
+, (@5
+builder*Microsoft.EntityFrameworkCore.ModelBuilderB97
+5Microsoft.eShopWeb.Infrastructure.Data.CatalogContextX∂
+<Microsoft.eShopWeb.Infrastructure.Data.FileItem.FileName.getj
+`/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/FileItem.cs (!"0*—
+0" ("¿
+Ω
+j
+`/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/FileItem.cs (!
+%retstring?"__id*∑
+j
+`/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/FileItem.cs (!I*G1
+/Microsoft.eShopWeb.Infrastructure.Data.FileItem"
+FileNamestring"
+j
+`/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/FileItem.cs (!
+
+%retstring?B31
+/Microsoft.eShopWeb.Infrastructure.Data.FileItemù
+^Microsoft.eShopWeb.Infrastructure.Logging.LoggerAdapter<T>.LogWarning(string, params object[])r
+h/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Logging/LoggerAdapter.cs ("0*
+0 (*
+1*Ä
+1 (*Î
+Ë
+ ()
+
+%0void"yMicrosoft.Extensions.Logging.LoggerExtensions.LogWarning(Microsoft.Extensions.Logging.ILogger, string?, params object?[])* *ç
+ (Ä*~<
+:Microsoft.eShopWeb.Infrastructure.Logging.LoggerAdapter<T>">
+_logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>*
+ ("
+
+messagestring*
+$ ((
+
+argsobject[]*
+2*.
+2 ("
+ (
+implicit return:
+ ()
+messagestring:
++ (?
+argsobject[]B><
+:Microsoft.eShopWeb.Infrastructure.Logging.LoggerAdapter<T>XÌ
+{Microsoft.eShopWeb.Infrastructure.Identity.AppIdentityDbContext.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)z
+p/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Identity/AppIdentityDbContext.cs (+"0*
+0 (*
+1*†
+1 (&ã
+à
+ (%
+
+%0void"ŒMicrosoft.AspNetCore.Identity.EntityFrameworkCore.IdentityDbContext<TUser, TRole, TKey, TUserClaim, TUserRole, TUserLogin, TRoleClaim, TUserToken>.OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)*Z
+ (NL
+JMicrosoft.AspNetCore.Identity.EntityFrameworkCore.IdentityDbContext<TUser>*C
+ ($7
+5
+builder*Microsoft.EntityFrameworkCore.ModelBuilder*
+2*.
+2 ("
+ (
+implicit return:A
+, (@5
+builder*Microsoft.EntityFrameworkCore.ModelBuilderBCA
+?Microsoft.eShopWeb.Infrastructure.Identity.AppIdentityDbContextX·
+<Microsoft.eShopWeb.Infrastructure.Data.FileItem.FileName.setj
+`/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/FileItem.cs# (&"0*Á
+0' ('”
+–
+j
+`/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/FileItem.cs# (&G1
+/Microsoft.eShopWeb.Infrastructure.Data.FileItem"
+FileNamestring"__id*
+
+valuestring"Å
+j
+`/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/FileItem.cs# (&
+implicit return:
+valuestringB31
+/Microsoft.eShopWeb.Infrastructure.Data.FileItemX◊
+7Microsoft.eShopWeb.Infrastructure.Data.FileItem.Url.setj
+`/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/FileItem.cs (!"0*‚
+0" ("Œ
+À
+j
+`/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/FileItem.cs (!B1
+/Microsoft.eShopWeb.Infrastructure.Data.FileItem"
+Urlstring"__id*
+
+valuestring"Å
+j
+`/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/FileItem.cs (!
+implicit return:
+valuestringB31
+/Microsoft.eShopWeb.Infrastructure.Data.FileItemX¨
+7Microsoft.eShopWeb.Infrastructure.Data.FileItem.Url.getj
+`/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/FileItem.cs ("0*Ã
+0 (ª
+∏
+j
+`/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/FileItem.cs (
+%retstring?"__id*≤
+j
+`/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/FileItem.cs (D*B1
+/Microsoft.eShopWeb.Infrastructure.Data.FileItem"
+Urlstring"
+j
+`/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/FileItem.cs (
+
+%retstring?B31
+/Microsoft.eShopWeb.Infrastructure.Data.FileItem®
+8Microsoft.eShopWeb.Infrastructure.Data.FileItem.Size.getj
+`/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/FileItem.cs ("0*≈
+0 (∑
+¥
+j
+`/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/FileItem.cs (
+%retlong"__id*±
+j
+`/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/FileItem.cs (C*A1
+/Microsoft.eShopWeb.Infrastructure.Data.FileItem"
+Sizelong"|
+j
+`/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/FileItem.cs (
+
+%retlongB31
+/Microsoft.eShopWeb.Infrastructure.Data.FileItemX”
+8Microsoft.eShopWeb.Infrastructure.Data.FileItem.Size.setj
+`/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/FileItem.cs ("0*ﬂ
+0  ( À
+»
+j
+`/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/FileItem.cs (A1
+/Microsoft.eShopWeb.Infrastructure.Data.FileItem"
+Sizelong"__id*
+
+valuelong"Å
+j
+`/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/FileItem.cs (
+implicit return:
+valuelongB31
+/Microsoft.eShopWeb.Infrastructure.Data.FileItemXŸ
+8Microsoft.eShopWeb.Infrastructure.Data.FileItem.Type.setj
+`/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/FileItem.cs	 	(""0*„
+0	# 	(#œ
+Ã
+j
+`/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/FileItem.cs	 	("C1
+/Microsoft.eShopWeb.Infrastructure.Data.FileItem"
+Typestring"__id*
+
+valuestring"Å
+j
+`/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/FileItem.cs	 	("
+implicit return:
+valuestringB31
+/Microsoft.eShopWeb.Infrastructure.Data.FileItemX¨
+7Microsoft.eShopWeb.Infrastructure.Data.FileItem.Ext.getj
+`/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/FileItem.cs ("0*Ã
+0 (ª
+∏
+j
+`/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/FileItem.cs (
+%retstring?"__id*≤
+j
+`/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/FileItem.cs (D*B1
+/Microsoft.eShopWeb.Infrastructure.Data.FileItem"
+Extstring"
+j
+`/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/FileItem.cs (
+
+%retstring?B31
+/Microsoft.eShopWeb.Infrastructure.Data.FileItem◊
+7Microsoft.eShopWeb.Infrastructure.Data.FileItem.Ext.setj
+`/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/FileItem.cs (!"0*‚
+0" ("Œ
+À
+j
+`/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/FileItem.cs (!B1
+/Microsoft.eShopWeb.Infrastructure.Data.FileItem"
+Extstring"__id*
+
+valuestring"Å
+j
+`/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/FileItem.cs (!
+implicit return:
+valuestringB31
+/Microsoft.eShopWeb.Infrastructure.Data.FileItemXÆ
+8Microsoft.eShopWeb.Infrastructure.Data.FileItem.Type.getj
+`/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/FileItem.cs	 	("0*Õ
+0	 	(º
+π
+j
+`/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/FileItem.cs	 	(
+%retstring?"__id*≥
+j
+`/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/FileItem.cs	 	(E*C1
+/Microsoft.eShopWeb.Infrastructure.Data.FileItem"
+Typestring"
+j
+`/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/FileItem.cs	 	(
+
+%retstring?B31
+/Microsoft.eShopWeb.Infrastructure.Data.FileItem∫
+>Microsoft.eShopWeb.Infrastructure.Data.FileItem.DataBase64.getj
+`/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/FileItem.cs
+  
+(#"0*”
+0
+$ 
+($¬
+ø
+j
+`/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/FileItem.cs
+  
+(#
+%retstring?"__id*π
+j
+`/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/FileItem.cs
+  
+(#K*I1
+/Microsoft.eShopWeb.Infrastructure.Data.FileItem"
+
+DataBase64string"
+j
+`/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/FileItem.cs
+  
+(#
+
+%retstring?B31
+/Microsoft.eShopWeb.Infrastructure.Data.FileItemÂ
+>Microsoft.eShopWeb.Infrastructure.Data.FileItem.DataBase64.setj
+`/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/FileItem.cs
+% 
+(("0*È
+0
+) 
+()’
+“
+j
+`/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/FileItem.cs
+% 
+((I1
+/Microsoft.eShopWeb.Infrastructure.Data.FileItem"
+
+DataBase64string"__id*
+
+valuestring"Å
+j
+`/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/FileItem.cs
+% 
+((
+implicit return:
+valuestringB31
+/Microsoft.eShopWeb.Infrastructure.Data.FileItemX®
+⁄Microsoft.eShopWeb.Infrastructure.Data.Config.BasketItemConfiguration.Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<Microsoft.eShopWeb.ApplicationCore.Entities.BasketAggregate.BasketItem>)Ä
+v/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/Config/BasketItemConfiguration.cs	 	("0*
+0	 	(*
+1*Œ	
+1 (,ﬂ‹
+ (,P
+%0JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>"£Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>.Property<TProperty>(System.Linq.Expressions.Expression<System.Func<TEntity, TProperty>>)*c
+ (W
+U
+builderJMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>*
+ (+
+	{unknown}2XProperty<TProperty>(System.Linq.Expressions.Expression<System.Func<TEntity, TProperty>>)æª
+ (P
+%1JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>"[Microsoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>.IsRequired(bool)*^
+ (,R
+P
+%0JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>*
+ ( 2IsRequired(bool)ñ
+ì
+ (+P
+%2JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>"ØMicrosoft.EntityFrameworkCore.RelationalPropertyBuilderExtensions.HasColumnType<TProperty>(Microsoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>, string?)* *^
+ (R
+P
+%1JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>*
+ (*
+decimal(18,2)*
+2*.
+2 ("
+ (
+implicit return:a
+	 	(?U
+builderJMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>BIG
+EMicrosoft.eShopWeb.Infrastructure.Data.Config.BasketItemConfigurationXß
+≈Microsoft.eShopWeb.Infrastructure.Identity.IdentityTokenClaimService.IdentityTokenClaimService(Microsoft.AspNetCore.Identity.UserManager<Microsoft.eShopWeb.Infrastructure.Identity.ApplicationUser>)
+u/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Identity/IdentityTokenClaimService.cs ($"0*
+0 (*
+1*˚
+1 (#
+}
+ (
+
+%0void"object.Object()*T
+ (HF
+DMicrosoft.eShopWeb.Infrastructure.Identity.IdentityTokenClaimServiceÂ
+‚
+ ("äF
+DMicrosoft.eShopWeb.Infrastructure.Identity.IdentityTokenClaimService"@
+_userManager0Microsoft.AspNetCore.Identity.UserManager<TUser>"__id*CA
+?
+userManager0Microsoft.AspNetCore.Identity.UserManager<TUser>*
+2*.
+2 ("
+ (
+implicit return:K
+% (M?
+userManager0Microsoft.AspNetCore.Identity.UserManager<TUser>BHF
+DMicrosoft.eShopWeb.Infrastructure.Identity.IdentityTokenClaimServiceX•
+bMicrosoft.eShopWeb.Infrastructure.Logging.LoggerAdapter<T>.LogInformation(string, params object[])r
+h/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Logging/LoggerAdapter.cs ("0*
+0 (*
+1*Ñ
+1 (.Ô
+Ï
+ (-
+
+%0void"}Microsoft.Extensions.Logging.LoggerExtensions.LogInformation(Microsoft.Extensions.Logging.ILogger, string?, params object?[])* *ç
+ (Ä*~<
+:Microsoft.eShopWeb.Infrastructure.Logging.LoggerAdapter<T>">
+_logger3Microsoft.Extensions.Logging.ILogger<TCategoryName>*
+ (&
+
+messagestring*
+( (,
+
+argsobject[]*
+2*.
+2 ("
+ (
+implicit return:
+ (-
+messagestring:
+/ (C
+argsobject[]B><
+:Microsoft.eShopWeb.Infrastructure.Logging.LoggerAdapter<T>X‚4
+ÃMicrosoft.eShopWeb.Infrastructure.Identity.AppIdentityDbContextSeed.SeedAsync(Microsoft.eShopWeb.Infrastructure.Identity.AppIdentityDbContext, Microsoft.AspNetCore.Identity.UserManager<Microsoft.eShopWeb.Infrastructure.Identity.ApplicationUser>, Microsoft.AspNetCore.Identity.RoleManager<Microsoft.AspNetCore.Identity.IdentityRole>)~
+t/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Identity/AppIdentityDbContextSeed.cs
+ 
+(&"0*
+0
+ 
+(*
+1*é
+1 (4¯ı
+ (&A
+%0;Microsoft.EntityFrameworkCore.Infrastructure.DatabaseFacade"4Microsoft.EntityFrameworkCore.DbContext.Database.get*b
+ (V
+T
+identityDbContext?Microsoft.eShopWeb.Infrastructure.Identity.AppIdentityDbContext2Database.get˚
+¯
+ (4
+
+%1bool"àMicrosoft.EntityFrameworkCore.SqlServerDatabaseFacadeExtensions.IsSqlServer(Microsoft.EntityFrameworkCore.Infrastructure.DatabaseFacade)* *O
+ (&C
+A
+%0;Microsoft.EntityFrameworkCore.Infrastructure.DatabaseFacade*
+2
+3*à
+2 (1¯ı
+ (&A
+%2;Microsoft.EntityFrameworkCore.Infrastructure.DatabaseFacade"4Microsoft.EntityFrameworkCore.DbContext.Database.get*b
+ (V
+T
+identityDbContext?Microsoft.eShopWeb.Infrastructure.Identity.AppIdentityDbContext2Database.get¯
+ı
+ (0
+
+%3void"ÖMicrosoft.EntityFrameworkCore.RelationalDatabaseFacadeExtensions.Migrate(Microsoft.EntityFrameworkCore.Infrastructure.DatabaseFacade)* *O
+ (&C
+A
+%2;Microsoft.EntityFrameworkCore.Infrastructure.DatabaseFacade*
+3*Ö
+3 (sjh
+& (q0
+%4*Microsoft.AspNetCore.Identity.IdentityRole"*Microsoft.AspNetCore.Identity.IdentityRole‡
+›
+& (q0
+%5*Microsoft.AspNetCore.Identity.IdentityRole"?Microsoft.AspNetCore.Identity.IdentityRole.IdentityRole(string)*>
+& (q2
+0
+%4*Microsoft.AspNetCore.Identity.IdentityRole*
+7 (p
+Administrators°û
+ (r*
+%6$System.Threading.Tasks.Task<TResult>"CMicrosoft.AspNetCore.Identity.RoleManager<TRole>.CreateAsync(TRole)*M
+ (A
+?
+roleManager0Microsoft.AspNetCore.Identity.RoleManager<TRole>*>
+& (q2
+0
+%4*Microsoft.AspNetCore.Identity.IdentityRole2CreateAsync(TRole)*
+4*û	
+4 (uãà
+ (w@
+%7:Microsoft.eShopWeb.Infrastructure.Identity.ApplicationUser":Microsoft.eShopWeb.Infrastructure.Identity.ApplicationUserÌ
+Í
+ (w@
+%8:Microsoft.eShopWeb.Infrastructure.Identity.ApplicationUser"LMicrosoft.eShopWeb.Infrastructure.Identity.ApplicationUser.ApplicationUser()*N
+ (wB
+@
+%7:Microsoft.eShopWeb.Infrastructure.Identity.ApplicationUser¢
+ü
+ (wG
+	%capture0:Microsoft.eShopWeb.Infrastructure.Identity.ApplicationUser"__id*DB
+@
+%7:Microsoft.eShopWeb.Infrastructure.Identity.ApplicationUser›⁄
+0 (S
+%9string"=Microsoft.AspNetCore.Identity.IdentityUser<TKey>.UserName.set*U
+ (wI
+G
+	%capture0:Microsoft.eShopWeb.Infrastructure.Identity.ApplicationUser*
+demouser@microsoft.com2UserName.setÿ’
+U (u
+%10string":Microsoft.AspNetCore.Identity.IdentityUser<TKey>.Email.set*U
+ (wI
+G
+	%capture0:Microsoft.eShopWeb.Infrastructure.Identity.ApplicationUser*
+demouser@microsoft.com2	Email.set´
+®
+ (wI
+defaultUser:Microsoft.eShopWeb.Infrastructure.Identity.ApplicationUser"__id*KI
+G
+	%capture0:Microsoft.eShopWeb.Infrastructure.Identity.ApplicationUser*
+5*ƒ
+5 (4Á‰
+ ([+
+%11$System.Threading.Tasks.Task<TResult>"KMicrosoft.AspNetCore.Identity.UserManager<TUser>.CreateAsync(TUser, string)*M
+ (A
+?
+userManager0Microsoft.AspNetCore.Identity.UserManager<TUser>*W
+& (1K
+I
+defaultUser:Microsoft.eShopWeb.Infrastructure.Identity.ApplicationUser*
+3 (Z
+
+Pass@word12CreateAsync(TUser, string)F
+D
+ (4
+adminUserNamestring"__id*
+admin@microsoft.com*
+6*ü	
+6 (]åâ
+ (_A
+%12:Microsoft.eShopWeb.Infrastructure.Identity.ApplicationUser":Microsoft.eShopWeb.Infrastructure.Identity.ApplicationUserÔ
+Ï
+ (_A
+%13:Microsoft.eShopWeb.Infrastructure.Identity.ApplicationUser"LMicrosoft.eShopWeb.Infrastructure.Identity.ApplicationUser.ApplicationUser()*O
+ (_C
+A
+%12:Microsoft.eShopWeb.Infrastructure.Identity.ApplicationUser£
+†
+ (_G
+	%capture1:Microsoft.eShopWeb.Infrastructure.Identity.ApplicationUser"__id*EC
+A
+%12:Microsoft.eShopWeb.Infrastructure.Identity.ApplicationUser›⁄
+. (F
+%14string"=Microsoft.AspNetCore.Identity.IdentityUser<TKey>.UserName.set*U
+ (_I
+G
+	%capture1:Microsoft.eShopWeb.Infrastructure.Identity.ApplicationUser*
+
+adminUserNamestring2UserName.set◊‘
+H (]
+%15string":Microsoft.AspNetCore.Identity.IdentityUser<TKey>.Email.set*U
+ (_I
+G
+	%capture1:Microsoft.eShopWeb.Infrastructure.Identity.ApplicationUser*
+
+adminUserNamestring2	Email.set©
+¶
+ (_G
+	adminUser:Microsoft.eShopWeb.Infrastructure.Identity.ApplicationUser"__id*KI
+G
+	%capture1:Microsoft.eShopWeb.Infrastructure.Identity.ApplicationUser*
+7*º
+7 (Â‚
+ (Y+
+%16$System.Threading.Tasks.Task<TResult>"KMicrosoft.AspNetCore.Identity.UserManager<TUser>.CreateAsync(TUser, string)*M
+ (A
+?
+userManager0Microsoft.AspNetCore.Identity.UserManager<TUser>*U
+& (/I
+G
+	adminUser:Microsoft.eShopWeb.Infrastructure.Identity.ApplicationUser*
+1 (X
+
+Pass@word12CreateAsync(TUser, string)ìê
+ (D+
+%17$System.Threading.Tasks.Task<TResult>"HMicrosoft.AspNetCore.Identity.UserManager<TUser>.FindByNameAsync(string)*M
+ (%A
+?
+userManager0Microsoft.AspNetCore.Identity.UserManager<TUser>*%
+6 (C
+
+adminUserNamestring2FindByNameAsync(string)ç
+ä
+ (DG
+	adminUser:Microsoft.eShopWeb.Infrastructure.Identity.ApplicationUser"__id*/-
++
+%17$System.Threading.Tasks.Task<TResult>ñ
+ì
+ (
+%18bool"	__compare*
+!=*U
+ (I
+G
+	adminUser:Microsoft.eShopWeb.Infrastructure.Identity.ApplicationUser*
+ ( *
+8
+9*Ñ
+8 (sÔÏ
+ (r+
+%19$System.Threading.Tasks.Task<TResult>"NMicrosoft.AspNetCore.Identity.UserManager<TUser>.AddToRoleAsync(TUser, string)*M
+ (A
+?
+userManager0Microsoft.AspNetCore.Identity.UserManager<TUser>*U
+- (6I
+G
+	adminUser:Microsoft.eShopWeb.Infrastructure.Identity.ApplicationUser*
+8 (q
+Administrators2AddToRoleAsync(TUser, string)*
+9*@
+9 ("1
+ (%
+#
+%retSystem.Threading.Tasks.Task:`
+
+' 
+(MT
+identityDbContext?Microsoft.eShopWeb.Infrastructure.Identity.AppIdentityDbContext:K
+
+O 
+(w?
+userManager0Microsoft.AspNetCore.Identity.UserManager<TUser>:L
+	
+y 
+(û?
+roleManager0Microsoft.AspNetCore.Identity.RoleManager<TRole>BG"E
+CMicrosoft.eShopWeb.Infrastructure.Identity.AppIdentityDbContextSeed”
+ŒMicrosoft.eShopWeb.Infrastructure.Data.Config.CatalogBrandConfiguration.Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<Microsoft.eShopWeb.ApplicationCore.Entities.CatalogBrand>)Ç
+x/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/Config/CatalogBrandConfiguration.cs	 	("0*
+0	 	(*
+1*Å
+1 (±Æ
+ (#@
+%0:Microsoft.EntityFrameworkCore.Metadata.Builders.KeyBuilder"îMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>.HasKey(System.Linq.Expressions.Expression<System.Func<TEntity, object?>>)*c
+ (W
+U
+builderJMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>*
+ ("
+	{unknown}2IHasKey(System.Linq.Expressions.Expression<System.Func<TEntity, object?>>)ﬂ‹
+ (%P
+%1JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>"£Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>.Property<TProperty>(System.Linq.Expressions.Expression<System.Func<TEntity, TProperty>>)*c
+ (W
+U
+builderJMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>*
+ ($
+	{unknown}2XProperty<TProperty>(System.Linq.Expressions.Expression<System.Func<TEntity, TProperty>>)≠
+™
+ ()P
+%2JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>"±Microsoft.EntityFrameworkCore.SqlServerPropertyBuilderExtensions.UseHiLo<TProperty>(Microsoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>, string?, string?)* *^
+ (%R
+P
+%1JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>*"
+ ((
+catalog_brand_hilo*
+ () æª
+ (P
+%3JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>"[Microsoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>.IsRequired(bool)*^
+ ()R
+P
+%2JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>*
+ ( 2IsRequired(bool)ﬂ‹
+ ((P
+%4JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>"£Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>.Property<TProperty>(System.Linq.Expressions.Expression<System.Func<TEntity, TProperty>>)*c
+ (W
+U
+builderJMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>*
+ ('
+	{unknown}2XProperty<TProperty>(System.Linq.Expressions.Expression<System.Func<TEntity, TProperty>>)æª
+ (P
+%5JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>"[Microsoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>.IsRequired(bool)*^
+ ((R
+P
+%4JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>*
+ ( 2IsRequired(bool)¬ø
+ (P
+%6JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>"\Microsoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>.HasMaxLength(int)*^
+ (R
+P
+%5JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>*
+ (2d2HasMaxLength(int)*
+2*.
+2 ("
+ (
+implicit return:a
+	 	(AU
+builderJMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>BKI
+GMicrosoft.eShopWeb.Infrastructure.Data.Config.CatalogBrandConfigurationX›
+“Microsoft.eShopWeb.Infrastructure.Data.Config.BasketConfiguration.Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<Microsoft.eShopWeb.ApplicationCore.Entities.BasketAggregate.Basket>)|
+r/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/Config/BasketConfiguration.cs	 	("0*
+0	 	(*
+1*Î
+1 (Nëé
+ ()?
+%09Microsoft.EntityFrameworkCore.Metadata.IMutableEntityType"NMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder.Metadata.get*c
+ ( W
+U
+builderJMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>2Metadata.getûõ
+ (N?
+%19Microsoft.EntityFrameworkCore.Metadata.IMutableNavigation"PMicrosoft.EntityFrameworkCore.Metadata.IMutableEntityType.FindNavigation(string)*M
+ ()A
+?
+%09Microsoft.EntityFrameworkCore.Metadata.IMutableEntityType*
+9 (M	
+Items2FindNavigation(string)°
+û
+ (NG
+
+navigation9Microsoft.EntityFrameworkCore.Metadata.IMutableNavigation"__id*CA
+?
+%19Microsoft.EntityFrameworkCore.Metadata.IMutableNavigation*
+2*¿
+2 (®
+•
+ (F
+	%capture09Microsoft.EntityFrameworkCore.Metadata.IMutableNavigation"__id*KI
+G
+
+navigation9Microsoft.EntityFrameworkCore.Metadata.IMutableNavigation*
+3
+4*Â
+3 (D–Õ
+ (C
+
+%2void"ÑMicrosoft.EntityFrameworkCore.Metadata.IMutablePropertyBase.SetPropertyAccessMode(Microsoft.EntityFrameworkCore.PropertyAccessMode?)*T
+ (H
+F
+	%capture09Microsoft.EntityFrameworkCore.Metadata.IMutableNavigation*
+* (B2 2HSetPropertyAccessMode(Microsoft.EntityFrameworkCore.PropertyAccessMode?)*
+4*˚
+4 (ﬂ‹
+ ((P
+%3JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>"£Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>.Property<TProperty>(System.Linq.Expressions.Expression<System.Func<TEntity, TProperty>>)*c
+ (W
+U
+builderJMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>*
+ ('
+	{unknown}2XProperty<TProperty>(System.Linq.Expressions.Expression<System.Func<TEntity, TProperty>>)æª
+ (P
+%4JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>"[Microsoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>.IsRequired(bool)*^
+ ((R
+P
+%3JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>*
+ ( 2IsRequired(bool)√¿
+ (P
+%5JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>"\Microsoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>.HasMaxLength(int)*^
+ (R
+P
+%4JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>*
+ (2Ä2HasMaxLength(int)*
+5*.
+5 ("
+ (
+implicit return:a
+	 	(;U
+builderJMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>BEC
+AMicrosoft.eShopWeb.Infrastructure.Data.Config.BasketConfigurationXî
+◊Microsoft.eShopWeb.Infrastructure.Data.Config.OrderItemConfiguration.Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<Microsoft.eShopWeb.ApplicationCore.Entities.OrderAggregate.OrderItem>)
+u/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/Config/OrderItemConfiguration.cs	 	("0*
+0	 	(*
+1*¿
+1 (,ÔÏ
+ (
+P
+%0JMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>"ùMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>.OwnsOne<TRelatedEntity>(System.Linq.Expressions.Expression<System.Func<TEntity, TRelatedEntity?>>, System.Action<Microsoft.EntityFrameworkCore.Metadata.Builders.OwnedNavigationBuilder<TEntity, TRelatedEntity>>)*c
+ (W
+U
+builderJMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>*
+ (*
+	{unknown}*
+, (	
+	{unknown}2“OwnsOne<TRelatedEntity>(System.Linq.Expressions.Expression<System.Func<TEntity, TRelatedEntity?>>, System.Action<Microsoft.EntityFrameworkCore.Metadata.Builders.OwnedNavigationBuilder<TEntity, TRelatedEntity>>)ﬂ‹
+ (,P
+%1JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>"£Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>.Property<TProperty>(System.Linq.Expressions.Expression<System.Func<TEntity, TProperty>>)*c
+ (W
+U
+builderJMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>*
+ (+
+	{unknown}2XProperty<TProperty>(System.Linq.Expressions.Expression<System.Func<TEntity, TProperty>>)æª
+ (P
+%2JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>"[Microsoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>.IsRequired(bool)*^
+ (,R
+P
+%1JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>*
+ ( 2IsRequired(bool)ñ
+ì
+ (+P
+%3JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>"ØMicrosoft.EntityFrameworkCore.RelationalPropertyBuilderExtensions.HasColumnType<TProperty>(Microsoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>, string?)* *^
+ (R
+P
+%2JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>*
+ (*
+decimal(18,2)*
+2*.
+2 ("
+ (
+implicit return:a
+	 	(>U
+builderJMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>BHF
+DMicrosoft.eShopWeb.Infrastructure.Data.Config.OrderItemConfigurationXÊ
+_Microsoft.eShopWeb.Infrastructure.Data.Queries.BasketQueryService.CountTotalBasketItems(string)|
+r/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/Queries/BasketQueryService.cs (0"0*
+0 (*
+1*ø
+1 (°
+û
+ (12
+%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>"AMicrosoft.eShopWeb.Infrastructure.Data.CatalogContext.Baskets.get*ö
+ ()ç*äC
+AMicrosoft.eShopWeb.Infrastructure.Data.Queries.BasketQueryService"C
+
+_dbContext5Microsoft.eShopWeb.Infrastructure.Data.CatalogContextô
+ñ
+ (8
+%1System.Linq.IQueryable<T>"ÖSystem.Linq.Queryable.Where<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, bool>>)* *@
+ (14
+2
+%0,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+ (7
+	{unknown}ø
+º
+ (+
+%2System.Linq.IQueryable<T>"æSystem.Linq.Queryable.SelectMany<TSource, TResult>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, System.Collections.Generic.IEnumerable<TResult>>>)* *-
+ (8!
+
+%1System.Linq.IQueryable<T>*
+ (*
+	{unknown}Ú
+Ô
+ (**
+%3$System.Threading.Tasks.Task<TResult>"÷Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.SumAsync<TSource>(System.Linq.IQueryable<TSource>, System.Linq.Expressions.Expression<System.Func<TSource, int>>, System.Threading.CancellationToken)* *-
+ (+!
+
+%2System.Linq.IQueryable<T>*
+ ()
+	{unknown}*
+ (* U
+S
+ (*
+
+totalItemsint"__id*.,
+*
+%3$System.Threading.Tasks.Task<TResult>]
+[
+ ((
+%ret System.Threading.Tasks.Task<int>"__id*
+ (
+
+
+totalItemsint*
+2*E
+2 ("6
+ (*
+(
+%ret System.Threading.Tasks.Task<int>:
+1 (@
+usernamestringBEC
+AMicrosoft.eShopWeb.Infrastructure.Data.Queries.BasketQueryServiceæ
+zMicrosoft.eShopWeb.Infrastructure.Data.Migrations.FixBuyerId.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)Ü
+|/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/Migrations/20211026175614_FixBuyerId.cs ("0*
+0 (*
+1*–
+1	 (€
+ÿ
+
+	 (d
+%0^Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.AlterOperationBuilder<TOperation>"¡Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.AlterColumn<T>(string, string, string?, bool?, int?, bool, string?, bool, object?, string?, string?, System.Type?, string?, bool?, int?, bool, bool, object?, string?, string?, bool?, bool?, string?, string?, string?, string?, int?, int?, int?, int?, bool?, bool?)*[
+	 	(O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+
+ 
+(	
+BuyerId*
+ (
+
+Orders*
+ (!
+nvarchar(256)*
+	 ( *
+ (2Ä*
+	 ( *
+	 ( *
+ ( *
+ ( *
+	 ( *
+	 ( *
+ (&
+	{unknown}*
+ ($
+nvarchar(max)*
+	 ( *
+	 ( *
+	 ( *
+ ( *
+	 ( *
+	 ( *
+	 ( *
+	 ( *
+	 ( *
+	 ( *
+	 ( *
+	 ( *
+	 ( *
+	 ( *
+	 ( *
+	 ( *
+	 ( *
+	 ( *
+	 ( 2áAlterColumn<T>(string, string, string?, bool?, int?, bool, string?, bool, object?, string?, string?, System.Type?, string?, bool?, int?, bool, bool, object?, string?, string?, bool?, bool?, string?, string?, string?, string?, int?, int?, int?, int?, bool?, bool?)›
+⁄
+
+ (d
+%1^Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.AlterOperationBuilder<TOperation>"¡Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.AlterColumn<T>(string, string, string?, bool?, int?, bool, string?, bool, object?, string?, string?, System.Type?, string?, bool?, int?, bool, bool, object?, string?, string?, bool?, bool?, string?, string?, string?, string?, int?, int?, int?, int?, bool?, bool?)*[
+ (O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+ (	
+BuyerId*
+ (	
+Baskets*
+ (!
+nvarchar(256)*
+ ( *
+ (2Ä*
+ ( *
+ ( *
+ ( *
+ ( *
+ ( *
+ ( *
+ (&
+	{unknown}*
+ (#
+nvarchar(40)*
+ ( *
+ (2(*
+ ( *
+ ( *
+ ( *
+ ( *
+ ( *
+ ( *
+ ( *
+ ( *
+ ( *
+ ( *
+ ( *
+ ( *
+ ( *
+ ( *
+ ( *
+ ( *
+ ( 2áAlterColumn<T>(string, string, string?, bool?, int?, bool, string?, bool, object?, string?, string?, System.Type?, string?, bool?, int?, bool, bool, object?, string?, string?, bool?, bool?, string?, string?, string?, string?, int?, int?, int?, int?, bool?, bool?)*
+2*.
+2 ("
+ (
+implicit return:Y
+ (@M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilderB@>
+<Microsoft.eShopWeb.Infrastructure.Data.Migrations.FixBuyerIdXá
+∞Microsoft.eShopWeb.Infrastructure.Dependencies.ConfigureServices(Microsoft.Extensions.Configuration.IConfiguration, Microsoft.Extensions.DependencyInjection.IServiceCollection)i
+_/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Dependencies.cs (("0*
+0 (*
+1*ö
+1 (<9
+7
+ (,
+useOnlyInMemoryDatabasebool"__id* ÏÈ
+ (4
+%0string"BMicrosoft.Extensions.Configuration.IConfiguration.this[string].get*P
+ (D
+B
+configuration1Microsoft.Extensions.Configuration.IConfiguration*'
+ (3
+UseOnlyInMemoryDatabase2this[string].getY
+W
+ (<
+
+%1bool"	__compare*
+!=*
+ (4
+
+%0string*
+8 (< *
+2
+3*ñ
+2 (\ÏÈ
+1 (Y
+%2string"BMicrosoft.Extensions.Configuration.IConfiguration.this[string].get*P
+1 (>D
+B
+configuration1Microsoft.Extensions.Configuration.IConfiguration*'
+? (X
+UseOnlyInMemoryDatabase2this[string].getN
+L
+& ([
+
+%3bool"bool.Parse(string)* *
+1 (Y
+
+%2stringC
+A
+ ([
+useOnlyInMemoryDatabasebool"__id*
+
+
+%3bool*
+3*
+3 (#*
+4
+5*∫	
+4 (9—
+Œ
+ (0A
+%4;Microsoft.Extensions.DependencyInjection.IServiceCollection"‚Microsoft.Extensions.DependencyInjection.EntityFrameworkServiceCollectionExtensions.AddDbContext<TContext>(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Action<Microsoft.EntityFrameworkCore.DbContextOptionsBuilder>?, Microsoft.Extensions.DependencyInjection.ServiceLifetime, Microsoft.Extensions.DependencyInjection.ServiceLifetime)* *U
+ (I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
+2 (/
+	{unknown}*
+ (02*
+ (02—
+Œ
+ (8A
+%5;Microsoft.Extensions.DependencyInjection.IServiceCollection"‚Microsoft.Extensions.DependencyInjection.EntityFrameworkServiceCollectionExtensions.AddDbContext<TContext>(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Action<Microsoft.EntityFrameworkCore.DbContextOptionsBuilder>?, Microsoft.Extensions.DependencyInjection.ServiceLifetime, Microsoft.Extensions.DependencyInjection.ServiceLifetime)* *U
+ (I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
+8 (7
+	{unknown}*
+ (82*
+ (82*
+6*∫	
+5  %(_—
+Œ
+  !(WA
+%6;Microsoft.Extensions.DependencyInjection.IServiceCollection"‚Microsoft.Extensions.DependencyInjection.EntityFrameworkServiceCollectionExtensions.AddDbContext<TContext>(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Action<Microsoft.EntityFrameworkCore.DbContextOptionsBuilder>?, Microsoft.Extensions.DependencyInjection.ServiceLifetime, Microsoft.Extensions.DependencyInjection.ServiceLifetime)* *U
+   (I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
+ 2 !(V
+	{unknown}*
+  !(W2*
+  !(W2—
+Œ
+$ %(^A
+%7;Microsoft.Extensions.DependencyInjection.IServiceCollection"‚Microsoft.Extensions.DependencyInjection.EntityFrameworkServiceCollectionExtensions.AddDbContext<TContext>(Microsoft.Extensions.DependencyInjection.IServiceCollection, System.Action<Microsoft.EntityFrameworkCore.DbContextOptionsBuilder>?, Microsoft.Extensions.DependencyInjection.ServiceLifetime, Microsoft.Extensions.DependencyInjection.ServiceLifetime)* *U
+$ $(I
+G
+services;Microsoft.Extensions.DependencyInjection.IServiceCollection*
+$8 %(]
+	{unknown}*
+$ %(^2*
+$ %(^2*
+6*.
+6' '("
+' '(
+implicit return:N
+) (EB
+configuration1Microsoft.Extensions.Configuration.IConfiguration:S
+G (bG
+services;Microsoft.Extensions.DependencyInjection.IServiceCollectionB2"0
+.Microsoft.eShopWeb.Infrastructure.DependenciesXƒ/
+ÇMicrosoft.eShopWeb.Infrastructure.Data.Migrations.FixShipToAddress.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)ç
+Ç/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/Migrations/20211231093753_FixShipToAddress.cs<  <($"0*
+0< <(*
+1*¿+
+1> d(#Ë
+Â
+
+> F(!d
+%0^Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.AlterOperationBuilder<TOperation>"¡Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.AlterColumn<T>(string, string, string?, bool?, int?, bool, string?, bool, object?, string?, string?, System.Type?, string?, bool?, int?, bool, bool, object?, string?, string?, bool?, bool?, string?, string?, string?, string?, int?, int?, int?, int?, bool?, bool?)*[
+> >(O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*%
+? ?(-
+ShipToAddress_ZipCode*
+@ @(
+
+Orders*
+A A($
+nvarchar(18)*
+> F(! *
+B B(2*
+> F(! *
+> F(! *
+C C( *
+> F(! *
+> F(! *
+> F(! *
+D D(*
+	{unknown}*
+E E('
+nvarchar(18)*
+> F(! *
+F F( 2*
+> F(! *
+> F(! *
+> F(! *
+> F(! *
+> F(! *
+> F(! *
+> F(! *
+> F(! *
+> F(! *
+> F(! *
+> F(! *
+> F(! *
+> F(! *
+> F(! *
+> F(! *
+> F(! *
+> F(! 2áAlterColumn<T>(string, string, string?, bool?, int?, bool, string?, bool, object?, string?, string?, System.Type?, string?, bool?, int?, bool, bool, object?, string?, string?, bool?, bool?, string?, string?, string?, string?, int?, int?, int?, int?, bool?, bool?)Î
+Ë
+
+H P("d
+%1^Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.AlterOperationBuilder<TOperation>"¡Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.AlterColumn<T>(string, string, string?, bool?, int?, bool, string?, bool, object?, string?, string?, System.Type?, string?, bool?, int?, bool, bool, object?, string?, string?, bool?, bool?, string?, string?, string?, string?, int?, int?, int?, int?, bool?, bool?)*[
+H H(O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*$
+I I(,
+ShipToAddress_Street*
+J J(
+
+Orders*
+K K(%
+nvarchar(180)*
+H P(" *
+L L(2¥*
+H P(" *
+H P(" *
+M M( *
+H P(" *
+H P(" *
+H P(" *
+N N(*
+	{unknown}*
+O O((
+nvarchar(180)*
+H P(" *
+P P(!2¥*
+H P(" *
+H P(" *
+H P(" *
+H P(" *
+H P(" *
+H P(" *
+H P(" *
+H P(" *
+H P(" *
+H P(" *
+H P(" *
+H P(" *
+H P(" *
+H P(" *
+H P(" *
+H P(" *
+H P(" 2áAlterColumn<T>(string, string, string?, bool?, int?, bool, string?, bool, object?, string?, string?, System.Type?, string?, bool?, int?, bool, bool, object?, string?, string?, bool?, bool?, string?, string?, string?, string?, int?, int?, int?, int?, bool?, bool?)Ë
+Â
+
+R Z(!d
+%2^Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.AlterOperationBuilder<TOperation>"¡Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.AlterColumn<T>(string, string, string?, bool?, int?, bool, string?, bool, object?, string?, string?, System.Type?, string?, bool?, int?, bool, bool, object?, string?, string?, bool?, bool?, string?, string?, string?, string?, int?, int?, int?, int?, bool?, bool?)*[
+R R(O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*%
+S S(-
+ShipToAddress_Country*
+T T(
+
+Orders*
+U U($
+nvarchar(90)*
+R Z(! *
+V V(2Z*
+R Z(! *
+R Z(! *
+W W( *
+R Z(! *
+R Z(! *
+R Z(! *
+X X(*
+	{unknown}*
+Y Y('
+nvarchar(90)*
+R Z(! *
+Z Z( 2Z*
+R Z(! *
+R Z(! *
+R Z(! *
+R Z(! *
+R Z(! *
+R Z(! *
+R Z(! *
+R Z(! *
+R Z(! *
+R Z(! *
+R Z(! *
+R Z(! *
+R Z(! *
+R Z(! *
+R Z(! *
+R Z(! *
+R Z(! 2áAlterColumn<T>(string, string, string?, bool?, int?, bool, string?, bool, object?, string?, string?, System.Type?, string?, bool?, int?, bool, bool, object?, string?, string?, bool?, bool?, string?, string?, string?, string?, int?, int?, int?, int?, bool?, bool?)Á
+‰
+
+\ d("d
+%3^Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.AlterOperationBuilder<TOperation>"¡Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.AlterColumn<T>(string, string, string?, bool?, int?, bool, string?, bool, object?, string?, string?, System.Type?, string?, bool?, int?, bool, bool, object?, string?, string?, bool?, bool?, string?, string?, string?, string?, int?, int?, int?, int?, bool?, bool?)*[
+\ \(O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*"
+] ](*
+ShipToAddress_City*
+^ ^(
+
+Orders*
+_ _(%
+nvarchar(100)*
+\ d(" *
+` `(2d*
+\ d(" *
+\ d(" *
+a a( *
+\ d(" *
+\ d(" *
+\ d(" *
+b b(*
+	{unknown}*
+c c((
+nvarchar(100)*
+\ d(" *
+d d(!2d*
+\ d(" *
+\ d(" *
+\ d(" *
+\ d(" *
+\ d(" *
+\ d(" *
+\ d(" *
+\ d(" *
+\ d(" *
+\ d(" *
+\ d(" *
+\ d(" *
+\ d(" *
+\ d(" *
+\ d(" *
+\ d(" *
+\ d(" 2áAlterColumn<T>(string, string, string?, bool?, int?, bool, string?, bool, object?, string?, string?, System.Type?, string?, bool?, int?, bool, bool, object?, string?, string?, bool?, bool?, string?, string?, string?, string?, int?, int?, int?, int?, bool?, bool?)*
+2*.
+2e	 e(	"
+e e(	
+implicit return:Y
+<% <(FM
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilderBFD
+BMicrosoft.eShopWeb.Infrastructure.Data.Migrations.FixShipToAddressX”L
+ZMicrosoft.eShopWeb.Infrastructure.Identity.IdentityTokenClaimService.GetTokenAsync(string)
+u/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Identity/IdentityTokenClaimService.cs (+"0*
+0 (*
+1*Ô
+1 (ÖÇ
+ (8=
+%07System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler"7System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandlerÏ
+È
+ (8=
+%17System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler"QSystem.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.JwtSecurityTokenHandler()*K
+ (8?
+=
+%07System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandlerü
+ú
+ (8G
+tokenHandler7System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler"__id*A?
+=
+%07System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandlerN
+L
+ ( 
+%2System.Text.Encoding"System.Text.Encoding.ASCII.get* æª
+ (P
+%3byte[]"%System.Text.Encoding.GetBytes(string)*(
+ ( 
+
+%2System.Text.Encoding*>
+* (O20
+.SecretKeyOfDoomThatMustBeAMinimumNumberOfBytes2GetBytes(string)3
+1
+ (P
+keybyte[]"__id*
+
+%3byte[]€ÿ
+ (?*
+%4$System.Threading.Tasks.Task<TResult>"HMicrosoft.AspNetCore.Identity.UserManager<TUser>.FindByNameAsync(string)*ö
+ (%ç*äF
+DMicrosoft.eShopWeb.Infrastructure.Identity.IdentityTokenClaimService"@
+_userManager0Microsoft.AspNetCore.Identity.UserManager<TUser>* 
+6 (>
+
+userNamestring2FindByNameAsync(string)á
+Ñ
+ (?B
+user:Microsoft.eShopWeb.Infrastructure.Identity.ApplicationUser"__id*.,
+*
+%4$System.Threading.Tasks.Task<TResult>ê
+ç
+ (
+
+%5bool"	__compare*
+==*P
+ (D
+B
+user:Microsoft.eShopWeb.Infrastructure.Identity.ApplicationUser*
+ ( *
+2
+3*í
+2  (Cóî
+  (CF
+%6@Microsoft.eShopWeb.Infrastructure.Identity.UserNotFoundException"@Microsoft.eShopWeb.Infrastructure.Identity.UserNotFoundException≠
+™
+  (CF
+%7@Microsoft.eShopWeb.Infrastructure.Identity.UserNotFoundException"^Microsoft.eShopWeb.Infrastructure.Identity.UserNotFoundException.UserNotFoundException(string)*T
+  (CH
+F
+%6@Microsoft.eShopWeb.Infrastructure.Identity.UserNotFoundException* 
+: (B
+
+userNamestring"9
+- -(-
++
+%ret#System.Threading.Tasks.Task<string>*å
+3 (:ÖÇ
+ (:*
+%8$System.Threading.Tasks.Task<TResult>"EMicrosoft.AspNetCore.Identity.UserManager<TUser>.GetRolesAsync(TUser)*ö
+ (&ç*äF
+DMicrosoft.eShopWeb.Infrastructure.Identity.IdentityTokenClaimService"@
+_userManager0Microsoft.AspNetCore.Identity.UserManager<TUser>*P
+5 (9D
+B
+user:Microsoft.eShopWeb.Infrastructure.Identity.ApplicationUser2GetRolesAsync(TUser)p
+n
+ (:,
+roles#System.Collections.Generic.IList<T>"__id*.,
+*
+%8$System.Threading.Tasks.Task<TResult>*
+4*í
+4 (KZX
+ (M(
+%9"System.Collections.Generic.List<T>""System.Collections.Generic.List<T>õ
+ò
+ (M)
+%10"System.Collections.Generic.List<T>")System.Collections.Generic.List<T>.List()*6
+ (M*
+(
+%9"System.Collections.Generic.List<T>q
+o
+ (M/
+	%capture0"System.Collections.Generic.List<T>"__id*,*
+(
+%9"System.Collections.Generic.List<T>OM
+' (K#
+%11System.Security.Claims.Claim"System.Security.Claims.Claimá
+Ñ
+' (K#
+%12System.Security.Claims.Claim"2System.Security.Claims.Claim.Claim(string, string)*1
+' (K%
+#
+%11System.Security.Claims.Claim*J
+1 (@><
+:http://schemas.xmlsoap.org/ws/2005/05/identity/claims/name* 
+B (J
+
+userNamestringæ
+ª
+' (K
+%13void"0System.Collections.Generic.ICollection<T>.Add(T)*=
+ (M1
+/
+	%capture0"System.Collections.Generic.List<T>*1
+' (K%
+#
+%11System.Security.Claims.Claimu
+s
+ (M,
+claims"System.Collections.Generic.List<T>"__id*31
+/
+	%capture0"System.Collections.Generic.List<T>*
+5*ﬂ
+5   ("«ƒ
+   ("0
+%14)System.Collections.Generic.IEnumerator<T>"9System.Collections.Generic.IEnumerable<T>.GetEnumerator()*:
+   (".
+,
+roles#System.Collections.Generic.IList<T>2GetEnumerator()Ä
+~
+   ("6
+	%capture1)System.Collections.Generic.IEnumerator<T>"__id*42
+0
+%14)System.Collections.Generic.IEnumerator<T>*
+6*Ø
+6   ("óî
+   ("
+%15bool")System.Collections.IEnumerator.MoveNext()*D
+   ("8
+6
+	%capture1)System.Collections.Generic.IEnumerator<T>2
+MoveNext()*
+7
+8*â
+7  "(9¶£
+   (
+%16string"5System.Collections.Generic.IEnumerator<T>.Current.get*D
+   ("8
+6
+	%capture1)System.Collections.Generic.IEnumerator<T>2Current.get5
+3
+   (
+rolestring"__id*
+
+%16stringOM
+" "(7#
+%17System.Security.Claims.Claim"System.Security.Claims.ClaimÖ
+Ç
+" "(7#
+%18System.Security.Claims.Claim"2System.Security.Claims.Claim.Claim(string, string)*1
+" "(7%
+#
+%17System.Security.Claims.Claim*L
+"! "(0@>
+<http://schemas.microsoft.com/ws/2008/06/identity/claims/role*
+"2 "(6
+
+rolestringª
+∏
+" "(8
+%19void"0System.Collections.Generic.ICollection<T>.Add(T)*:
+" "(.
+,
+claims"System.Collections.Generic.List<T>*1
+" "(7%
+#
+%17System.Security.Claims.Claim*
+6*
+8   ("*
+9
+10*ü
+9   ("âÜ
+   ("
+%20void"System.IDisposable.Dispose()*D
+   ("8
+6
+	%capture1)System.Collections.Generic.IEnumerator<T>2	Dispose()*
+10*
+10 (*
+11*Û
+11% )(~ÑÅ
+% *(	=
+%216Microsoft.IdentityModel.Tokens.SecurityTokenDescriptor"6Microsoft.IdentityModel.Tokens.SecurityTokenDescriptorÎ
+Ë
+% *(	=
+%226Microsoft.IdentityModel.Tokens.SecurityTokenDescriptor"PMicrosoft.IdentityModel.Tokens.SecurityTokenDescriptor.SecurityTokenDescriptor()*K
+% *(	?
+=
+%216Microsoft.IdentityModel.Tokens.SecurityTokenDescriptorõ
+ò
+% *(	C
+	%capture26Microsoft.IdentityModel.Tokens.SecurityTokenDescriptor"__id*A?
+=
+%216Microsoft.IdentityModel.Tokens.SecurityTokenDescriptor•
+¢
+') '(9%
+%23System.Security.Claims.Claim[]"3System.Collections.Generic.ICollection<T>.ToArray()*:
+') '(/.
+,
+claims"System.Collections.Generic.List<T>a_
+' '(:,
+%24%System.Security.Claims.ClaimsIdentity"%System.Security.Claims.ClaimsIdentity©
+¶
+' '(:,
+%25%System.Security.Claims.ClaimsIdentity"{System.Security.Claims.ClaimsIdentity.ClaimsIdentity(System.Collections.Generic.IEnumerable<System.Security.Claims.Claim>?)*:
+' '(:.
+,
+%24%System.Security.Claims.ClaimsIdentity*3
+') '(9'
+%
+%23System.Security.Claims.Claim[]Ñ
+Å
+' '(:,
+%26%System.Security.Claims.ClaimsIdentity"BMicrosoft.IdentityModel.Tokens.SecurityTokenDescriptor.Subject.set*Q
+% *(	E
+C
+	%capture26Microsoft.IdentityModel.Tokens.SecurityTokenDescriptor*0.
+,
+%24%System.Security.Claims.ClaimsIdentityF
+D
+( ((%
+%27System.DateTime"System.DateTime.UtcNow.get* {
+y
+( ((0
+%28System.DateTime"System.DateTime.AddDays(double)*$
+( ((%
+
+%27System.DateTime*
+(. ((/ Ÿ
+÷
+( ((0
+%29System.DateTime?"BMicrosoft.IdentityModel.Tokens.SecurityTokenDescriptor.Expires.set*Q
+% *(	E
+C
+	%capture26Microsoft.IdentityModel.Tokens.SecurityTokenDescriptor*
+
+%28System.DateTime}{
+)8 )(U:
+%303Microsoft.IdentityModel.Tokens.SymmetricSecurityKey"3Microsoft.IdentityModel.Tokens.SymmetricSecurityKeyÇ
+ˇ
+)8 )(U:
+%313Microsoft.IdentityModel.Tokens.SymmetricSecurityKey"PMicrosoft.IdentityModel.Tokens.SymmetricSecurityKey.SymmetricSecurityKey(byte[])*H
+)8 )(U<
+:
+%303Microsoft.IdentityModel.Tokens.SymmetricSecurityKey*
+)Q )(T
+
+keybyte[]yw
+)! )(~8
+%321Microsoft.IdentityModel.Tokens.SigningCredentials"1Microsoft.IdentityModel.Tokens.SigningCredentialsó
+î
+)! )(~8
+%331Microsoft.IdentityModel.Tokens.SigningCredentials"xMicrosoft.IdentityModel.Tokens.SigningCredentials.SigningCredentials(Microsoft.IdentityModel.Tokens.SecurityKey, string)*F
+)! )(~:
+8
+%321Microsoft.IdentityModel.Tokens.SigningCredentials*H
+)8 )(U<
+:
+%303Microsoft.IdentityModel.Tokens.SymmetricSecurityKey*B
+)W )(}64
+2http://www.w3.org/2001/04/xmldsig-more#hmac-sha256ß
+§
+) )(~8
+%341Microsoft.IdentityModel.Tokens.SigningCredentials"MMicrosoft.IdentityModel.Tokens.SecurityTokenDescriptor.SigningCredentials.set*Q
+% *(	E
+C
+	%capture26Microsoft.IdentityModel.Tokens.SecurityTokenDescriptor*<:
+8
+%321Microsoft.IdentityModel.Tokens.SigningCredentialsß
+§
+% *(	I
+tokenDescriptor6Microsoft.IdentityModel.Tokens.SecurityTokenDescriptor"__id*GE
+C
+	%capture26Microsoft.IdentityModel.Tokens.SecurityTokenDescriptor*
+12*ñ
+12+ ,(-¥±
++ +(=3
+%35,Microsoft.IdentityModel.Tokens.SecurityToken"{System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.CreateToken(Microsoft.IdentityModel.Tokens.SecurityTokenDescriptor)*U
++ +( I
+G
+tokenHandler7System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler*W
++- +(<K
+I
+tokenDescriptor6Microsoft.IdentityModel.Tokens.SecurityTokenDescriptor2CCreateToken(Microsoft.IdentityModel.Tokens.SecurityTokenDescriptor)É
+Ä
++ +(=5
+token,Microsoft.IdentityModel.Tokens.SecurityToken"__id*75
+3
+%35,Microsoft.IdentityModel.Tokens.SecurityToken‰·
+, ,(-
+%36string"pSystem.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.WriteToken(Microsoft.IdentityModel.Tokens.SecurityToken)*U
+, ,(I
+G
+tokenHandler7System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler*C
+,' ,(,7
+5
+token,Microsoft.IdentityModel.Tokens.SecurityToken28WriteToken(Microsoft.IdentityModel.Tokens.SecurityToken)\
+Z
+, ,(-+
+%ret#System.Threading.Tasks.Task<string>"__id*
+, ,(-
+
+%36string*
+13*I
+13- -("9
+- -(-
++
+%ret#System.Threading.Tasks.Task<string>:
+, (;
+userNamestringBHF
+DMicrosoft.eShopWeb.Infrastructure.Identity.IdentityTokenClaimService¬/
+ÄMicrosoft.eShopWeb.Infrastructure.Data.Migrations.FixShipToAddress.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)ç
+Ç/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/Migrations/20211231093753_FixShipToAddress.cs	  	(""0*
+0	 	(*
+1*¿+
+1 9(#Ë
+Â
+
+ ("d
+%0^Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.AlterOperationBuilder<TOperation>"¡Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.AlterColumn<T>(string, string, string?, bool?, int?, bool, string?, bool, object?, string?, string?, System.Type?, string?, bool?, int?, bool, bool, object?, string?, string?, bool?, bool?, string?, string?, string?, string?, int?, int?, int?, int?, bool?, bool?)*[
+ (O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*%
+ (-
+ShipToAddress_ZipCode*
+ (
+
+Orders*
+ ($
+nvarchar(18)*
+ (" *
+ (2*
+ (" *
+ (" *
+ ( *
+ (  *
+ (" *
+ (" *
+ (*
+	{unknown}*
+ ('
+nvarchar(18)*
+ (" *
+ ( 2*
+ (" *
+ (! *
+ (" *
+ (" *
+ (" *
+ (" *
+ (" *
+ (" *
+ (" *
+ (" *
+ (" *
+ (" *
+ (" *
+ (" *
+ (" *
+ (" *
+ (" 2áAlterColumn<T>(string, string, string?, bool?, int?, bool, string?, bool, object?, string?, string?, System.Type?, string?, bool?, int?, bool, bool, object?, string?, string?, bool?, bool?, string?, string?, string?, string?, int?, int?, int?, int?, bool?, bool?)Î
+Ë
+
+ !("d
+%1^Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.AlterOperationBuilder<TOperation>"¡Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.AlterColumn<T>(string, string, string?, bool?, int?, bool, string?, bool, object?, string?, string?, System.Type?, string?, bool?, int?, bool, bool, object?, string?, string?, bool?, bool?, string?, string?, string?, string?, int?, int?, int?, int?, bool?, bool?)*[
+ (O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*$
+ (,
+ShipToAddress_Street*
+ (
+
+Orders*
+ (%
+nvarchar(180)*
+ !(" *
+ (2¥*
+ !(" *
+ !(" *
+ ( *
+ (  *
+ !(" *
+ !(" *
+ (*
+	{unknown}*
+ ((
+nvarchar(180)*
+ !(" *
+   (!2¥*
+ !(" *
+! !(! *
+ !(" *
+ !(" *
+ !(" *
+ !(" *
+ !(" *
+ !(" *
+ !(" *
+ !(" *
+ !(" *
+ !(" *
+ !(" *
+ !(" *
+ !(" *
+ !(" *
+ !(" 2áAlterColumn<T>(string, string, string?, bool?, int?, bool, string?, bool, object?, string?, string?, System.Type?, string?, bool?, int?, bool, bool, object?, string?, string?, bool?, bool?, string?, string?, string?, string?, int?, int?, int?, int?, bool?, bool?)Ë
+Â
+
+# -("d
+%2^Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.AlterOperationBuilder<TOperation>"¡Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.AlterColumn<T>(string, string, string?, bool?, int?, bool, string?, bool, object?, string?, string?, System.Type?, string?, bool?, int?, bool, bool, object?, string?, string?, bool?, bool?, string?, string?, string?, string?, int?, int?, int?, int?, bool?, bool?)*[
+# #(O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*%
+$ $(-
+ShipToAddress_Country*
+% %(
+
+Orders*
+& &($
+nvarchar(90)*
+# -(" *
+' '(2Z*
+# -(" *
+# -(" *
+( (( *
+) )(  *
+# -(" *
+# -(" *
+* *(*
+	{unknown}*
++ +('
+nvarchar(90)*
+# -(" *
+, ,( 2Z*
+# -(" *
+- -(! *
+# -(" *
+# -(" *
+# -(" *
+# -(" *
+# -(" *
+# -(" *
+# -(" *
+# -(" *
+# -(" *
+# -(" *
+# -(" *
+# -(" *
+# -(" *
+# -(" *
+# -(" 2áAlterColumn<T>(string, string, string?, bool?, int?, bool, string?, bool, object?, string?, string?, System.Type?, string?, bool?, int?, bool, bool, object?, string?, string?, bool?, bool?, string?, string?, string?, string?, int?, int?, int?, int?, bool?, bool?)Á
+‰
+
+/ 9("d
+%3^Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.AlterOperationBuilder<TOperation>"¡Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.AlterColumn<T>(string, string, string?, bool?, int?, bool, string?, bool, object?, string?, string?, System.Type?, string?, bool?, int?, bool, bool, object?, string?, string?, bool?, bool?, string?, string?, string?, string?, int?, int?, int?, int?, bool?, bool?)*[
+/ /(O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*"
+0 0(*
+ShipToAddress_City*
+1 1(
+
+Orders*
+2 2(%
+nvarchar(100)*
+/ 9(" *
+3 3(2d*
+/ 9(" *
+/ 9(" *
+4 4( *
+5 5(  *
+/ 9(" *
+/ 9(" *
+6 6(*
+	{unknown}*
+7 7((
+nvarchar(100)*
+/ 9(" *
+8 8(!2d*
+/ 9(" *
+9 9(! *
+/ 9(" *
+/ 9(" *
+/ 9(" *
+/ 9(" *
+/ 9(" *
+/ 9(" *
+/ 9(" *
+/ 9(" *
+/ 9(" *
+/ 9(" *
+/ 9(" *
+/ 9(" *
+/ 9(" *
+/ 9(" *
+/ 9(" 2áAlterColumn<T>(string, string, string?, bool?, int?, bool, string?, bool, object?, string?, string?, System.Type?, string?, bool?, int?, bool, bool, object?, string?, string?, bool?, bool?, string?, string?, string?, string?, int?, int?, int?, int?, bool?, bool?)*
+2*.
+2:	 :(	"
+: :(	
+implicit return:Y
+	# 	(DM
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilderBFD
+BMicrosoft.eShopWeb.Infrastructure.Data.Migrations.FixShipToAddressX√>
+•Microsoft.eShopWeb.Infrastructure.Data.CatalogContextSeed.SeedAsync(Microsoft.eShopWeb.Infrastructure.Data.CatalogContext, Microsoft.Extensions.Logging.ILogger, int)t
+j/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/CatalogContextSeed.cs (&"0*
+0 (*
+1*U
+1 ((A
+?
+ ((
+retryForAvailabilityint"__id*
+
+retryint*
+2*Å
+2 (5ÎË
+ ('A
+%0;Microsoft.EntityFrameworkCore.Infrastructure.DatabaseFacade"4Microsoft.EntityFrameworkCore.DbContext.Database.get*U
+ (I
+G
+catalogContext5Microsoft.eShopWeb.Infrastructure.Data.CatalogContext2Database.get˚
+¯
+ (5
+
+%1bool"àMicrosoft.EntityFrameworkCore.SqlServerDatabaseFacadeExtensions.IsSqlServer(Microsoft.EntityFrameworkCore.Infrastructure.DatabaseFacade)* *O
+ ('C
+A
+%0;Microsoft.EntityFrameworkCore.Infrastructure.DatabaseFacade*
+3
+4*˚
+3 (2ÎË
+ ('A
+%2;Microsoft.EntityFrameworkCore.Infrastructure.DatabaseFacade"4Microsoft.EntityFrameworkCore.DbContext.Database.get*U
+ (I
+G
+catalogContext5Microsoft.eShopWeb.Infrastructure.Data.CatalogContext2Database.get¯
+ı
+ (1
+
+%3void"ÖMicrosoft.EntityFrameworkCore.RelationalDatabaseFacadeExtensions.Migrate(Microsoft.EntityFrameworkCore.Infrastructure.DatabaseFacade)* *O
+ ('C
+A
+%2;Microsoft.EntityFrameworkCore.Infrastructure.DatabaseFacade*
+4*ß
+4 (>·
+ﬁ
+ (32
+%4,Microsoft.EntityFrameworkCore.DbSet<TEntity>"GMicrosoft.eShopWeb.Infrastructure.Data.CatalogContext.CatalogBrands.get*U
+ (%I
+G
+catalogContext5Microsoft.eShopWeb.Infrastructure.Data.CatalogContext´
+®
+ (>*
+%5$System.Threading.Tasks.Task<TResult>"óMicrosoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.AnyAsync<TSource>(System.Linq.IQueryable<TSource>, System.Threading.CancellationToken)* *@
+ (34
+2
+%4,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+ (> *
+5
+6*â	
+5 (8·
+ﬁ
+ (22
+%6,Microsoft.EntityFrameworkCore.DbSet<TEntity>"GMicrosoft.eShopWeb.Infrastructure.Data.CatalogContext.CatalogBrands.get*U
+ ($I
+G
+catalogContext5Microsoft.eShopWeb.Infrastructure.Data.CatalogContextü
+ú
+ (3/
+%7)System.Collections.Generic.IEnumerable<T>"YMicrosoft.eShopWeb.Infrastructure.Data.CatalogContextSeed.GetPreconfiguredCatalogBrands()* ∑¥
+ (4!
+%8System.Threading.Tasks.Task"èMicrosoft.EntityFrameworkCore.DbSet<TEntity>.AddRangeAsync(System.Collections.Generic.IEnumerable<TEntity>, System.Threading.CancellationToken)*@
+ (24
+2
+%6,Microsoft.EntityFrameworkCore.DbSet<TEntity>*=
+ (31
+/
+%7)System.Collections.Generic.IEnumerable<T>*
+ (4 2bAddRangeAsync(System.Collections.Generic.IEnumerable<TEntity>, System.Threading.CancellationToken)¥±
+ (7*
+%9$System.Threading.Tasks.Task<TResult>"\Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(System.Threading.CancellationToken)*U
+ ($I
+G
+catalogContext5Microsoft.eShopWeb.Infrastructure.Data.CatalogContext*
+ (7 24SaveChangesAsync(System.Threading.CancellationToken)*
+6*©
+6   (=·
+ﬁ
+   (23
+%10,Microsoft.EntityFrameworkCore.DbSet<TEntity>"FMicrosoft.eShopWeb.Infrastructure.Data.CatalogContext.CatalogTypes.get*U
+   (%I
+G
+catalogContext5Microsoft.eShopWeb.Infrastructure.Data.CatalogContext≠
+™
+   (=+
+%11$System.Threading.Tasks.Task<TResult>"óMicrosoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.AnyAsync<TSource>(System.Linq.IQueryable<TSource>, System.Threading.CancellationToken)* *A
+   (25
+3
+%10,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+   (= *
+7
+8*ç	
+7" %(8·
+ﬁ
+" "(13
+%12,Microsoft.EntityFrameworkCore.DbSet<TEntity>"FMicrosoft.eShopWeb.Infrastructure.Data.CatalogContext.CatalogTypes.get*U
+" "($I
+G
+catalogContext5Microsoft.eShopWeb.Infrastructure.Data.CatalogContextü
+ú
+# #(20
+%13)System.Collections.Generic.IEnumerable<T>"XMicrosoft.eShopWeb.Infrastructure.Data.CatalogContextSeed.GetPreconfiguredCatalogTypes()* ∫∑
+" #(3"
+%14System.Threading.Tasks.Task"èMicrosoft.EntityFrameworkCore.DbSet<TEntity>.AddRangeAsync(System.Collections.Generic.IEnumerable<TEntity>, System.Threading.CancellationToken)*A
+" "(15
+3
+%12,Microsoft.EntityFrameworkCore.DbSet<TEntity>*>
+# #(22
+0
+%13)System.Collections.Generic.IEnumerable<T>*
+" #(3 2bAddRangeAsync(System.Collections.Generic.IEnumerable<TEntity>, System.Threading.CancellationToken)µ≤
+% %(7+
+%15$System.Threading.Tasks.Task<TResult>"\Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(System.Threading.CancellationToken)*U
+% %($I
+G
+catalogContext5Microsoft.eShopWeb.Infrastructure.Data.CatalogContext*
+% %(7 24SaveChangesAsync(System.Threading.CancellationToken)*
+8*Æ
+8( ((=·
+ﬁ
+( ((23
+%16,Microsoft.EntityFrameworkCore.DbSet<TEntity>"FMicrosoft.eShopWeb.Infrastructure.Data.CatalogContext.CatalogItems.get*U
+( ((%I
+G
+catalogContext5Microsoft.eShopWeb.Infrastructure.Data.CatalogContext≠
+™
+( ((=+
+%17$System.Threading.Tasks.Task<TResult>"óMicrosoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.AnyAsync<TSource>(System.Linq.IQueryable<TSource>, System.Threading.CancellationToken)* *A
+( ((25
+3
+%16,Microsoft.EntityFrameworkCore.DbSet<TEntity>*
+( ((= *
+9
+12
+10*ã	
+9* -(8·
+ﬁ
+* *(13
+%18,Microsoft.EntityFrameworkCore.DbSet<TEntity>"FMicrosoft.eShopWeb.Infrastructure.Data.CatalogContext.CatalogItems.get*U
+* *($I
+G
+catalogContext5Microsoft.eShopWeb.Infrastructure.Data.CatalogContextò
+ï
++ +(+0
+%19)System.Collections.Generic.IEnumerable<T>"QMicrosoft.eShopWeb.Infrastructure.Data.CatalogContextSeed.GetPreconfiguredItems()* ∫∑
+* +(,"
+%20System.Threading.Tasks.Task"èMicrosoft.EntityFrameworkCore.DbSet<TEntity>.AddRangeAsync(System.Collections.Generic.IEnumerable<TEntity>, System.Threading.CancellationToken)*A
+* *(15
+3
+%18,Microsoft.EntityFrameworkCore.DbSet<TEntity>*>
++ +(+2
+0
+%19)System.Collections.Generic.IEnumerable<T>*
+* +(, 2bAddRangeAsync(System.Collections.Generic.IEnumerable<TEntity>, System.Threading.CancellationToken)µ≤
+- -(7+
+%21$System.Threading.Tasks.Task<TResult>"\Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(System.Threading.CancellationToken)*U
+- -($I
+G
+catalogContext5Microsoft.eShopWeb.Infrastructure.Data.CatalogContext*
+- -(7 24SaveChangesAsync(System.Threading.CancellationToken)*
+12
+10*æ
+100 2(*;
+9
+0 0(
+exSystem.Exception"__id*
+	{unknown}k
+i
+2 2(*
+%22bool"	__compare*
+>=*)
+2 2($
+
+retryForAvailabilityint*
+2( 2(*2
+*
+11*ì
+114 7(Jlj
+6 6(&
+%23string"System.Exception.Message.get*$
+6 6(
+
+exSystem.Exception2Message.get)'
+6 6('
+%24	object?[]"	object?[]î
+ë
+6 6('
+%25void"wMicrosoft.Extensions.Logging.LoggerExtensions.LogError(Microsoft.Extensions.Logging.ILogger, string?, params object?[])* *<
+6 6(0
+.
+logger$Microsoft.Extensions.Logging.ILogger*
+6 6(&
+
+%23string*
+6 6('
+
+%24	object?[]ü
+ú
+7 7(I"
+%26System.Threading.Tasks.Task"•Microsoft.eShopWeb.Infrastructure.Data.CatalogContextSeed.SeedAsync(Microsoft.eShopWeb.Infrastructure.Data.CatalogContext, Microsoft.Extensions.Logging.ILogger, int)* *U
+7 7(*I
+G
+catalogContext5Microsoft.eShopWeb.Infrastructure.Data.CatalogContext*<
+7, 7(20
+.
+logger$Microsoft.Extensions.Logging.ILogger*)
+74 7(H
+
+retryForAvailabilityint"1
+: :(%
+#
+%retSystem.Threading.Tasks.Task*A
+12: :("1
+: :(%
+#
+%retSystem.Threading.Tasks.Task:S
+' (DG
+catalogContext5Microsoft.eShopWeb.Infrastructure.Data.CatalogContext::
+ (.
+logger$Microsoft.Extensions.Logging.ILogger:
+ (
+retryintB=";
+9Microsoft.eShopWeb.Infrastructure.Data.CatalogContextSeedŒ
+ÃMicrosoft.eShopWeb.Infrastructure.Data.Config.CatalogTypeConfiguration.Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<Microsoft.eShopWeb.ApplicationCore.Entities.CatalogType>)Å
+w/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/Config/CatalogTypeConfiguration.cs	 	("0*
+0	 	(*
+1*Ä
+1 (±Æ
+ (#@
+%0:Microsoft.EntityFrameworkCore.Metadata.Builders.KeyBuilder"îMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>.HasKey(System.Linq.Expressions.Expression<System.Func<TEntity, object?>>)*c
+ (W
+U
+builderJMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>*
+ ("
+	{unknown}2IHasKey(System.Linq.Expressions.Expression<System.Func<TEntity, object?>>)ﬂ‹
+ (%P
+%1JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>"£Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>.Property<TProperty>(System.Linq.Expressions.Expression<System.Func<TEntity, TProperty>>)*c
+ (W
+U
+builderJMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>*
+ ($
+	{unknown}2XProperty<TProperty>(System.Linq.Expressions.Expression<System.Func<TEntity, TProperty>>)¨
+©
+ ((P
+%2JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>"±Microsoft.EntityFrameworkCore.SqlServerPropertyBuilderExtensions.UseHiLo<TProperty>(Microsoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>, string?, string?)* *^
+ (%R
+P
+%1JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>*!
+ ('
+catalog_type_hilo*
+ (( æª
+ (P
+%3JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>"[Microsoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>.IsRequired(bool)*^
+ ((R
+P
+%2JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>*
+ ( 2IsRequired(bool)ﬂ‹
+ ('P
+%4JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>"£Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>.Property<TProperty>(System.Linq.Expressions.Expression<System.Func<TEntity, TProperty>>)*c
+ (W
+U
+builderJMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>*
+ (&
+	{unknown}2XProperty<TProperty>(System.Linq.Expressions.Expression<System.Func<TEntity, TProperty>>)æª
+ (P
+%5JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>"[Microsoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>.IsRequired(bool)*^
+ ('R
+P
+%4JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>*
+ ( 2IsRequired(bool)¬ø
+ (P
+%6JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>"\Microsoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>.HasMaxLength(int)*^
+ (R
+P
+%5JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>*
+ (2d2HasMaxLength(int)*
+2*.
+2 ("
+ (
+implicit return:a
+	 	(@U
+builderJMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>BJH
+FMicrosoft.eShopWeb.Infrastructure.Data.Config.CatalogTypeConfigurationX¿
+|Microsoft.eShopWeb.Infrastructure.Data.Migrations.FixBuyerId.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)Ü
+|/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/Migrations/20211026175614_FixBuyerId.cs ( "0*
+0 (*
+1*–
+1! 2(€
+ÿ
+
+! ((d
+%0^Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.AlterOperationBuilder<TOperation>"¡Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.AlterColumn<T>(string, string, string?, bool?, int?, bool, string?, bool, object?, string?, string?, System.Type?, string?, bool?, int?, bool, bool, object?, string?, string?, bool?, bool?, string?, string?, string?, string?, int?, int?, int?, int?, bool?, bool?)*[
+! !(O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+" "(	
+BuyerId*
+# #(
+
+Orders*
+$ $(!
+nvarchar(max)*
+! (( *
+! (( *
+! (( *
+! (( *
+% %( *
+! (( *
+! (( *
+! (( *
+& &(&
+	{unknown}*
+' '($
+nvarchar(256)*
+! (( *
+( ((2Ä*
+! (( *
+! (( *
+! (( *
+! (( *
+! (( *
+! (( *
+! (( *
+! (( *
+! (( *
+! (( *
+! (( *
+! (( *
+! (( *
+! (( *
+! (( *
+! (( *
+! (( 2áAlterColumn<T>(string, string, string?, bool?, int?, bool, string?, bool, object?, string?, string?, System.Type?, string?, bool?, int?, bool, bool, object?, string?, string?, bool?, bool?, string?, string?, string?, string?, int?, int?, int?, int?, bool?, bool?)›
+⁄
+
+* 2(d
+%1^Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.AlterOperationBuilder<TOperation>"¡Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.AlterColumn<T>(string, string, string?, bool?, int?, bool, string?, bool, object?, string?, string?, System.Type?, string?, bool?, int?, bool, bool, object?, string?, string?, bool?, bool?, string?, string?, string?, string?, int?, int?, int?, int?, bool?, bool?)*[
+* *(O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
++ +(	
+BuyerId*
+, ,(	
+Baskets*
+- -( 
+nvarchar(40)*
+* 2( *
+. .(2(*
+* 2( *
+* 2( *
+/ /( *
+* 2( *
+* 2( *
+* 2( *
+0 0(&
+	{unknown}*
+1 1($
+nvarchar(256)*
+* 2( *
+2 2(2Ä*
+* 2( *
+* 2( *
+* 2( *
+* 2( *
+* 2( *
+* 2( *
+* 2( *
+* 2( *
+* 2( *
+* 2( *
+* 2( *
+* 2( *
+* 2( *
+* 2( *
+* 2( *
+* 2( *
+* 2( 2áAlterColumn<T>(string, string, string?, bool?, int?, bool, string?, bool, object?, string?, string?, System.Type?, string?, bool?, int?, bool, bool, object?, string?, string?, bool?, bool?, string?, string?, string?, string?, int?, int?, int?, int?, bool?, bool?)*
+2*.
+23 3("
+3 3(
+implicit return:Y
+! (BM
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilderB@>
+<Microsoft.eShopWeb.Infrastructure.Data.Migrations.FixBuyerIdXì 
+YMicrosoft.eShopWeb.Infrastructure.Data.CatalogContextSeed.GetPreconfiguredCatalogBrands()t
+j/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/CatalogContextSeed.cs<% <(B"0*
+0< <(*
+1*·
+1> D(ZX
+> E((
+%0"System.Collections.Generic.List<T>""System.Collections.Generic.List<T>ö
+ó
+> E((
+%1"System.Collections.Generic.List<T>")System.Collections.Generic.List<T>.List()*6
+> E(*
+(
+%0"System.Collections.Generic.List<T>q
+o
+> E(/
+	%capture0"System.Collections.Generic.List<T>"__id*,*
+(
+%0"System.Collections.Generic.List<T>áÑ
+@ @(>
+%28Microsoft.eShopWeb.ApplicationCore.Entities.CatalogBrand"8Microsoft.eShopWeb.ApplicationCore.Entities.CatalogBrandÅ
+˛
+@ @(>
+%38Microsoft.eShopWeb.ApplicationCore.Entities.CatalogBrand"MMicrosoft.eShopWeb.ApplicationCore.Entities.CatalogBrand.CatalogBrand(string)*L
+@ @(@
+>
+%28Microsoft.eShopWeb.ApplicationCore.Entities.CatalogBrand*
+@ @(	
+Azureÿ
+’
+@ @(
+
+%4void"0System.Collections.Generic.ICollection<T>.Add(T)*=
+> E(1
+/
+	%capture0"System.Collections.Generic.List<T>*L
+@ @(@
+>
+%28Microsoft.eShopWeb.ApplicationCore.Entities.CatalogBrandáÑ
+A A(>
+%58Microsoft.eShopWeb.ApplicationCore.Entities.CatalogBrand"8Microsoft.eShopWeb.ApplicationCore.Entities.CatalogBrandÄ
+˝
+A A(>
+%68Microsoft.eShopWeb.ApplicationCore.Entities.CatalogBrand"MMicrosoft.eShopWeb.ApplicationCore.Entities.CatalogBrand.CatalogBrand(string)*L
+A A(@
+>
+%58Microsoft.eShopWeb.ApplicationCore.Entities.CatalogBrand*
+A A(
+.NETÿ
+’
+A A(
+
+%7void"0System.Collections.Generic.ICollection<T>.Add(T)*=
+> E(1
+/
+	%capture0"System.Collections.Generic.List<T>*L
+A A(@
+>
+%58Microsoft.eShopWeb.ApplicationCore.Entities.CatalogBrandáÑ
+B B($>
+%88Microsoft.eShopWeb.ApplicationCore.Entities.CatalogBrand"8Microsoft.eShopWeb.ApplicationCore.Entities.CatalogBrandâ
+Ü
+B B($>
+%98Microsoft.eShopWeb.ApplicationCore.Entities.CatalogBrand"MMicrosoft.eShopWeb.ApplicationCore.Entities.CatalogBrand.CatalogBrand(string)*L
+B B($@
+>
+%88Microsoft.eShopWeb.ApplicationCore.Entities.CatalogBrand*
+B B(#
+Visual StudioŸ
+÷
+B B($
+%10void"0System.Collections.Generic.ICollection<T>.Add(T)*=
+> E(1
+/
+	%capture0"System.Collections.Generic.List<T>*L
+B B($@
+>
+%88Microsoft.eShopWeb.ApplicationCore.Entities.CatalogBrandàÖ
+C C(!?
+%118Microsoft.eShopWeb.ApplicationCore.Entities.CatalogBrand"8Microsoft.eShopWeb.ApplicationCore.Entities.CatalogBrandà
+Ö
+C C(!?
+%128Microsoft.eShopWeb.ApplicationCore.Entities.CatalogBrand"MMicrosoft.eShopWeb.ApplicationCore.Entities.CatalogBrand.CatalogBrand(string)*M
+C C(!A
+?
+%118Microsoft.eShopWeb.ApplicationCore.Entities.CatalogBrand*
+C C( 
+
+SQL Server⁄
+◊
+C C(!
+%13void"0System.Collections.Generic.ICollection<T>.Add(T)*=
+> E(1
+/
+	%capture0"System.Collections.Generic.List<T>*M
+C C(!A
+?
+%118Microsoft.eShopWeb.ApplicationCore.Entities.CatalogBrandàÖ
+D D(?
+%148Microsoft.eShopWeb.ApplicationCore.Entities.CatalogBrand"8Microsoft.eShopWeb.ApplicationCore.Entities.CatalogBrandÉ
+Ä
+D D(?
+%158Microsoft.eShopWeb.ApplicationCore.Entities.CatalogBrand"MMicrosoft.eShopWeb.ApplicationCore.Entities.CatalogBrand.CatalogBrand(string)*M
+D D(A
+?
+%148Microsoft.eShopWeb.ApplicationCore.Entities.CatalogBrand*
+D D(	
+Other⁄
+◊
+D D(
+%16void"0System.Collections.Generic.ICollection<T>.Add(T)*=
+> E(1
+/
+	%capture0"System.Collections.Generic.List<T>*M
+D D(A
+?
+%148Microsoft.eShopWeb.ApplicationCore.Entities.CatalogBrandº
+π
+> E(h
+%ret`System.Collections.Generic.IEnumerable<Microsoft.eShopWeb.ApplicationCore.Entities.CatalogBrand>"__id*=
+> E(1
+/
+	%capture0"System.Collections.Generic.List<T>*
+2*Ö
+2F F("v
+F F(j
+h
+%ret`System.Collections.Generic.IEnumerable<Microsoft.eShopWeb.ApplicationCore.Entities.CatalogBrand>B=";
+9Microsoft.eShopWeb.Infrastructure.Data.CatalogContextSeedÖ
+XMicrosoft.eShopWeb.Infrastructure.Data.CatalogContextSeed.GetPreconfiguredCatalogTypes()t
+j/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/CatalogContextSeed.csH$ H(@"0*
+0H H(*
+1*’
+1J O('ZX
+J P((
+%0"System.Collections.Generic.List<T>""System.Collections.Generic.List<T>ö
+ó
+J P((
+%1"System.Collections.Generic.List<T>")System.Collections.Generic.List<T>.List()*6
+J P(*
+(
+%0"System.Collections.Generic.List<T>q
+o
+J P(/
+	%capture0"System.Collections.Generic.List<T>"__id*,*
+(
+%0"System.Collections.Generic.List<T>ÖÇ
+L L(=
+%27Microsoft.eShopWeb.ApplicationCore.Entities.CatalogType"7Microsoft.eShopWeb.ApplicationCore.Entities.CatalogType˚
+¯
+L L(=
+%37Microsoft.eShopWeb.ApplicationCore.Entities.CatalogType"KMicrosoft.eShopWeb.ApplicationCore.Entities.CatalogType.CatalogType(string)*K
+L L(?
+=
+%27Microsoft.eShopWeb.ApplicationCore.Entities.CatalogType*
+L L(
+Mug◊
+‘
+L L(
+
+%4void"0System.Collections.Generic.ICollection<T>.Add(T)*=
+J P(1
+/
+	%capture0"System.Collections.Generic.List<T>*K
+L L(?
+=
+%27Microsoft.eShopWeb.ApplicationCore.Entities.CatalogTypeÖÇ
+M M(=
+%57Microsoft.eShopWeb.ApplicationCore.Entities.CatalogType"7Microsoft.eShopWeb.ApplicationCore.Entities.CatalogTypeˇ
+¸
+M M(=
+%67Microsoft.eShopWeb.ApplicationCore.Entities.CatalogType"KMicrosoft.eShopWeb.ApplicationCore.Entities.CatalogType.CatalogType(string)*K
+M M(?
+=
+%57Microsoft.eShopWeb.ApplicationCore.Entities.CatalogType*
+M M(	
+T-Shirt◊
+‘
+M M(
+
+%7void"0System.Collections.Generic.ICollection<T>.Add(T)*=
+J P(1
+/
+	%capture0"System.Collections.Generic.List<T>*K
+M M(?
+=
+%57Microsoft.eShopWeb.ApplicationCore.Entities.CatalogTypeÖÇ
+N N(=
+%87Microsoft.eShopWeb.ApplicationCore.Entities.CatalogType"7Microsoft.eShopWeb.ApplicationCore.Entities.CatalogType˝
+˙
+N N(=
+%97Microsoft.eShopWeb.ApplicationCore.Entities.CatalogType"KMicrosoft.eShopWeb.ApplicationCore.Entities.CatalogType.CatalogType(string)*K
+N N(?
+=
+%87Microsoft.eShopWeb.ApplicationCore.Entities.CatalogType*
+N N(	
+Sheetÿ
+’
+N N(
+%10void"0System.Collections.Generic.ICollection<T>.Add(T)*=
+J P(1
+/
+	%capture0"System.Collections.Generic.List<T>*K
+N N(?
+=
+%87Microsoft.eShopWeb.ApplicationCore.Entities.CatalogTypeÜÉ
+O O('>
+%117Microsoft.eShopWeb.ApplicationCore.Entities.CatalogType"7Microsoft.eShopWeb.ApplicationCore.Entities.CatalogTypeä
+á
+O O('>
+%127Microsoft.eShopWeb.ApplicationCore.Entities.CatalogType"KMicrosoft.eShopWeb.ApplicationCore.Entities.CatalogType.CatalogType(string)*L
+O O('@
+>
+%117Microsoft.eShopWeb.ApplicationCore.Entities.CatalogType* 
+O O(&
+USB Memory StickŸ
+÷
+O O('
+%13void"0System.Collections.Generic.ICollection<T>.Add(T)*=
+J P(1
+/
+	%capture0"System.Collections.Generic.List<T>*L
+O O('@
+>
+%117Microsoft.eShopWeb.ApplicationCore.Entities.CatalogTypeª
+∏
+J P(g
+%ret_System.Collections.Generic.IEnumerable<Microsoft.eShopWeb.ApplicationCore.Entities.CatalogType>"__id*=
+J P(1
+/
+	%capture0"System.Collections.Generic.List<T>*
+2*Ñ
+2Q Q("u
+Q Q(i
+g
+%ret_System.Collections.Generic.IEnumerable<Microsoft.eShopWeb.ApplicationCore.Entities.CatalogType>B=";
+9Microsoft.eShopWeb.Infrastructure.Data.CatalogContextSeed›U
+QMicrosoft.eShopWeb.Infrastructure.Data.CatalogContextSeed.GetPreconfiguredItems()t
+j/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/CatalogContextSeed.csS$ S(9"0*
+0S S(*
+1*¥R
+1	U b(ÑZX
+U c((
+%0"System.Collections.Generic.List<T>""System.Collections.Generic.List<T>ö
+ó
+U c((
+%1"System.Collections.Generic.List<T>")System.Collections.Generic.List<T>.List()*6
+U c(*
+(
+%0"System.Collections.Generic.List<T>q
+o
+U c(/
+	%capture0"System.Collections.Generic.List<T>"__id*,*
+(
+%0"System.Collections.Generic.List<T>ÜÉ
+	W W(ï=
+%27Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItem"7Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItemﬂ
+‹
+	W W(ï=
+%37Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItem"nMicrosoft.eShopWeb.ApplicationCore.Entities.CatalogItem.CatalogItem(int, int, string, string, decimal, string)*L
+	W W(ï?
+=
+%27Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItem*
+W W(2*
+W W(2*)
+W W(4
+.NET Bot Black Sweatshirt*)
+W6 W(Q
+.NET Bot Black Sweatshirt*
+WS W(X *H
+	W[ W(î;9
+7http://catalogbaseurltobereplaced/images/products/1.pngŸ
+÷
+	W W(ï
+
+%4void"0System.Collections.Generic.ICollection<T>.Add(T)*=
+U c(1
+/
+	%capture0"System.Collections.Generic.List<T>*L
+	W W(ï?
+=
+%27Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItemÜÉ
+	X X(é=
+%57Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItem"7Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItemŸ
+÷
+	X X(é=
+%67Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItem"nMicrosoft.eShopWeb.ApplicationCore.Entities.CatalogItem.CatalogItem(int, int, string, string, decimal, string)*L
+	X X(é?
+=
+%57Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItem*
+X X(2*
+X X(2*&
+X X(1
+.NET Black & White Mug*&
+X3 X(K
+.NET Black & White Mug*
+XM X(R *H
+	XT X(ç;9
+7http://catalogbaseurltobereplaced/images/products/2.pngŸ
+÷
+	X X(é
+
+%7void"0System.Collections.Generic.ICollection<T>.Add(T)*=
+U c(1
+/
+	%capture0"System.Collections.Generic.List<T>*L
+	X X(é?
+=
+%57Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItemÜÉ
+	Y Y(Ü=
+%87Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItem"7Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItem”
+–
+	Y Y(Ü=
+%97Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItem"nMicrosoft.eShopWeb.ApplicationCore.Entities.CatalogItem.CatalogItem(int, int, string, string, decimal, string)*L
+	Y Y(Ü?
+=
+%87Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItem*
+Y Y(2*
+Y Y(2*#
+Y Y(.
+Prism White T-Shirt*#
+Y0 Y(E
+Prism White T-Shirt*
+YG Y(I *H
+	YL Y(Ö;9
+7http://catalogbaseurltobereplaced/images/products/3.png⁄
+◊
+	Y Y(Ü
+%10void"0System.Collections.Generic.ICollection<T>.Add(T)*=
+U c(1
+/
+	%capture0"System.Collections.Generic.List<T>*L
+	Y Y(Ü?
+=
+%87Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItemáÑ
+	Z Z(ì>
+%117Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItem"7Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItem„
+‡
+	Z Z(ì>
+%127Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItem"nMicrosoft.eShopWeb.ApplicationCore.Entities.CatalogItem.CatalogItem(int, int, string, string, decimal, string)*M
+	Z Z(ì@
+>
+%117Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItem*
+Z Z(2*
+Z Z(2**
+Z Z(5
+.NET Foundation Sweatshirt**
+Z7 Z(S
+.NET Foundation Sweatshirt*
+ZU Z(W *H
+	ZY Z(í;9
+7http://catalogbaseurltobereplaced/images/products/4.png€
+ÿ
+	Z Z(ì
+%13void"0System.Collections.Generic.ICollection<T>.Add(T)*=
+U c(1
+/
+	%capture0"System.Collections.Generic.List<T>*M
+	Z Z(ì@
+>
+%117Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItemáÑ
+	[ [(Å>
+%147Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItem"7Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItemœ
+Ã
+	[ [(Å>
+%157Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItem"nMicrosoft.eShopWeb.ApplicationCore.Entities.CatalogItem.CatalogItem(int, int, string, string, decimal, string)*M
+	[ [(Å@
+>
+%147Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItem*
+[ [(2*
+[ [(2* 
+[ [(+
+Roslyn Red Sheet* 
+[- [(?
+Roslyn Red Sheet*
+[A [(E *H
+	[G [(Ä;9
+7http://catalogbaseurltobereplaced/images/products/5.png€
+ÿ
+	[ [(Å
+%16void"0System.Collections.Generic.ICollection<T>.Add(T)*=
+U c(1
+/
+	%capture0"System.Collections.Generic.List<T>*M
+	[ [(Å@
+>
+%147Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItemáÑ
+	\ \(á>
+%177Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItem"7Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItem◊
+‘
+	\ \(á>
+%187Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItem"nMicrosoft.eShopWeb.ApplicationCore.Entities.CatalogItem.CatalogItem(int, int, string, string, decimal, string)*M
+	\ \(á@
+>
+%177Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItem*
+\ \(2*
+\ \(2*$
+\ \(/
+.NET Blue Sweatshirt*$
+\1 \(G
+.NET Blue Sweatshirt*
+\I \(K *H
+	\M \(Ü;9
+7http://catalogbaseurltobereplaced/images/products/6.png€
+ÿ
+	\ \(á
+%19void"0System.Collections.Generic.ICollection<T>.Add(T)*=
+U c(1
+/
+	%capture0"System.Collections.Generic.List<T>*M
+	\ \(á@
+>
+%177Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItemáÑ
+	] ](Ñ>
+%207Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItem"7Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItem”
+–
+	] ](Ñ>
+%217Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItem"nMicrosoft.eShopWeb.ApplicationCore.Entities.CatalogItem.CatalogItem(int, int, string, string, decimal, string)*M
+	] ](Ñ@
+>
+%207Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItem*
+] ](2*
+] ](2*"
+] ](-
+Roslyn Red T-Shirt*"
+]/ ](C
+Roslyn Red T-Shirt*
+]F ](H *H
+	]J ](É;9
+7http://catalogbaseurltobereplaced/images/products/7.png€
+ÿ
+	] ](Ñ
+%22void"0System.Collections.Generic.ICollection<T>.Add(T)*=
+U c(1
+/
+	%capture0"System.Collections.Generic.List<T>*M
+	] ](Ñ@
+>
+%207Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItemáÑ
+	^ ^(ç>
+%237Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItem"7Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItem€
+ÿ
+	^ ^(ç>
+%247Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItem"nMicrosoft.eShopWeb.ApplicationCore.Entities.CatalogItem.CatalogItem(int, int, string, string, decimal, string)*M
+	^ ^(ç@
+>
+%237Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItem*
+^ ^(2*
+^ ^(2*&
+^ ^(1
+Kudu Purple Sweatshirt*&
+^3 ^(K
+Kudu Purple Sweatshirt*
+^M ^(Q *H
+	^S ^(å;9
+7http://catalogbaseurltobereplaced/images/products/8.png€
+ÿ
+	^ ^(ç
+%25void"0System.Collections.Generic.ICollection<T>.Add(T)*=
+U c(1
+/
+	%capture0"System.Collections.Generic.List<T>*M
+	^ ^(ç@
+>
+%237Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItemÜÉ
+_ _(>
+%267Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItem"7Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItemÃ
+…
+_ _(>
+%277Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItem"nMicrosoft.eShopWeb.ApplicationCore.Entities.CatalogItem.CatalogItem(int, int, string, string, decimal, string)*L
+_ _(@
+>
+%267Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItem*
+_ _(2*
+_ _(2* 
+_ _(+
+Cup<T> White Mug* 
+_- _(?
+Cup<T> White Mug*
+_A _(C *G
+_E _(~;9
+7http://catalogbaseurltobereplaced/images/products/9.pngŸ
+÷
+_ _(
+%28void"0System.Collections.Generic.ICollection<T>.Add(T)*=
+U c(1
+/
+	%capture0"System.Collections.Generic.List<T>*L
+_ _(@
+>
+%267Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItemáÑ
+	` `(ä>
+%297Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItem"7Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItem⁄
+◊
+	` `(ä>
+%307Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItem"nMicrosoft.eShopWeb.ApplicationCore.Entities.CatalogItem.CatalogItem(int, int, string, string, decimal, string)*M
+	` `(ä@
+>
+%297Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItem*
+` `(2*
+` `(2*%
+` `(0
+.NET Foundation Sheet*%
+`2 `(I
+.NET Foundation Sheet*
+`K `(M *I
+	`O `(â<:
+8http://catalogbaseurltobereplaced/images/products/10.png€
+ÿ
+	` `(ä
+%31void"0System.Collections.Generic.ICollection<T>.Add(T)*=
+U c(1
+/
+	%capture0"System.Collections.Generic.List<T>*M
+	` `(ä@
+>
+%297Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItemÜÉ
+a a(z>
+%327Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItem"7Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItem≈
+¬
+a a(z>
+%337Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItem"nMicrosoft.eShopWeb.ApplicationCore.Entities.CatalogItem.CatalogItem(int, int, string, string, decimal, string)*L
+a a(z@
+>
+%327Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItem*
+a a(2*
+a a(2*
+a a('
+Cup<T> Sheet*
+a) a(7
+Cup<T> Sheet*
+a9 a(= *H
+a? a(y<:
+8http://catalogbaseurltobereplaced/images/products/11.pngŸ
+÷
+a a(z
+%34void"0System.Collections.Generic.ICollection<T>.Add(T)*=
+U c(1
+/
+	%capture0"System.Collections.Generic.List<T>*L
+a a(z@
+>
+%327Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItemáÑ
+	b b(Ñ>
+%357Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItem"7Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItem‘
+—
+	b b(Ñ>
+%367Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItem"nMicrosoft.eShopWeb.ApplicationCore.Entities.CatalogItem.CatalogItem(int, int, string, string, decimal, string)*M
+	b b(Ñ@
+>
+%357Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItem*
+b b(2*
+b b(2*"
+b b(-
+Prism White TShirt*"
+b/ b(C
+Prism White TShirt*
+bE b(G *I
+	bI b(É<:
+8http://catalogbaseurltobereplaced/images/products/12.png€
+ÿ
+	b b(Ñ
+%37void"0System.Collections.Generic.ICollection<T>.Add(T)*=
+U c(1
+/
+	%capture0"System.Collections.Generic.List<T>*M
+	b b(Ñ@
+>
+%357Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItemª
+∏
+U c(g
+%ret_System.Collections.Generic.IEnumerable<Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItem>"__id*=
+U c(1
+/
+	%capture0"System.Collections.Generic.List<T>*
+2*Ñ
+2d d("u
+d d(i
+g
+%ret_System.Collections.Generic.IEnumerable<Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItem>B=";
+9Microsoft.eShopWeb.Infrastructure.Data.CatalogContextSeed˚A
+ÃMicrosoft.eShopWeb.Infrastructure.Data.Config.CatalogItemConfiguration.Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItem>)Å
+w/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/Config/CatalogItemConfiguration.cs	 	("0*
+0	 	(*
+1*≠=
+1 "(3è
+å
+ ("P
+%0JMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>"©Microsoft.EntityFrameworkCore.RelationalEntityTypeBuilderExtensions.ToTable<TEntity>(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>, string?)* *c
+ (W
+U
+builderJMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>*
+ (!	
+Catalogﬂ‹
+ (%P
+%1JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>"£Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>.Property<TProperty>(System.Linq.Expressions.Expression<System.Func<TEntity, TProperty>>)*c
+ (W
+U
+builderJMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>*
+ ($
+	{unknown}2XProperty<TProperty>(System.Linq.Expressions.Expression<System.Func<TEntity, TProperty>>)ß
+§
+ ($P
+%2JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>"±Microsoft.EntityFrameworkCore.SqlServerPropertyBuilderExtensions.UseHiLo<TProperty>(Microsoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>, string?, string?)* *^
+ (%R
+P
+%1JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>*
+ (#
+catalog_hilo*
+ ($ æª
+ (P
+%3JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>"[Microsoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>.IsRequired(bool)*^
+ ($R
+P
+%2JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>*
+ ( 2IsRequired(bool)ﬂ‹
+ ('P
+%4JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>"£Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>.Property<TProperty>(System.Linq.Expressions.Expression<System.Func<TEntity, TProperty>>)*c
+ (W
+U
+builderJMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>*
+ (&
+	{unknown}2XProperty<TProperty>(System.Linq.Expressions.Expression<System.Func<TEntity, TProperty>>)æª
+ (P
+%5JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>"[Microsoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>.IsRequired(bool)*^
+ ('R
+P
+%4JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>*
+ ( 2IsRequired(bool)¬ø
+ (P
+%6JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>"\Microsoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>.HasMaxLength(int)*^
+ (R
+P
+%5JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>*
+ (222HasMaxLength(int)ﬂ‹
+ ((P
+%7JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>"£Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>.Property<TProperty>(System.Linq.Expressions.Expression<System.Func<TEntity, TProperty>>)*c
+ (W
+U
+builderJMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>*
+ ('
+	{unknown}2XProperty<TProperty>(System.Linq.Expressions.Expression<System.Func<TEntity, TProperty>>)æª
+ (P
+%8JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>"[Microsoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>.IsRequired(bool)*^
+ ((R
+P
+%7JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>*
+ ( 2IsRequired(bool)ñ
+ì
+ (+P
+%9JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>"ØMicrosoft.EntityFrameworkCore.RelationalPropertyBuilderExtensions.HasColumnType<TProperty>(Microsoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>, string?)* *^
+ (R
+P
+%8JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>*
+ (*
+decimal(18,2)‡›
+ (-Q
+%10JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>"£Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>.Property<TProperty>(System.Linq.Expressions.Expression<System.Func<TEntity, TProperty>>)*c
+ (W
+U
+builderJMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>*
+ (,
+	{unknown}2XProperty<TProperty>(System.Linq.Expressions.Expression<System.Func<TEntity, TProperty>>)¿Ω
+ (Q
+%11JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>"[Microsoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>.IsRequired(bool)*_
+ (-S
+Q
+%10JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>*
+ ( 2IsRequired(bool)çä
+ (-j
+%12cMicrosoft.EntityFrameworkCore.Metadata.Builders.ReferenceNavigationBuilder<TEntity, TRelatedEntity>"≠Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>.HasOne<TRelatedEntity>(System.Linq.Expressions.Expression<System.Func<TEntity, TRelatedEntity?>>?)*c
+ (W
+U
+builderJMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>*
+ (,
+	{unknown}2bHasOne<TRelatedEntity>(System.Linq.Expressions.Expression<System.Func<TEntity, TRelatedEntity?>>?)òï
+ (u
+%13nMicrosoft.EntityFrameworkCore.Metadata.Builders.ReferenceCollectionBuilder<TPrincipalEntity, TDependentEntity>"uMicrosoft.EntityFrameworkCore.Metadata.Builders.ReferenceNavigationBuilder<TEntity, TRelatedEntity>.WithMany(string?)*x
+ (-l
+j
+%12cMicrosoft.EntityFrameworkCore.Metadata.Builders.ReferenceNavigationBuilder<TEntity, TRelatedEntity>*
+ ( 2WithMany(string?)À»
+ (3u
+%14nMicrosoft.EntityFrameworkCore.Metadata.Builders.ReferenceCollectionBuilder<TPrincipalEntity, TDependentEntity>"»Microsoft.EntityFrameworkCore.Metadata.Builders.ReferenceCollectionBuilder<TPrincipalEntity, TDependentEntity>.HasForeignKey(System.Linq.Expressions.Expression<System.Func<TDependentEntity, object?>>)*É
+ (w
+u
+%13nMicrosoft.EntityFrameworkCore.Metadata.Builders.ReferenceCollectionBuilder<TPrincipalEntity, TDependentEntity>*
+ (2
+	{unknown}2YHasForeignKey(System.Linq.Expressions.Expression<System.Func<TDependentEntity, object?>>)çä
+   (,j
+%15cMicrosoft.EntityFrameworkCore.Metadata.Builders.ReferenceNavigationBuilder<TEntity, TRelatedEntity>"≠Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>.HasOne<TRelatedEntity>(System.Linq.Expressions.Expression<System.Func<TEntity, TRelatedEntity?>>?)*c
+   (W
+U
+builderJMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>*
+   (+
+	{unknown}2bHasOne<TRelatedEntity>(System.Linq.Expressions.Expression<System.Func<TEntity, TRelatedEntity?>>?)òï
+  !(u
+%16nMicrosoft.EntityFrameworkCore.Metadata.Builders.ReferenceCollectionBuilder<TPrincipalEntity, TDependentEntity>"uMicrosoft.EntityFrameworkCore.Metadata.Builders.ReferenceNavigationBuilder<TEntity, TRelatedEntity>.WithMany(string?)*x
+   (,l
+j
+%15cMicrosoft.EntityFrameworkCore.Metadata.Builders.ReferenceNavigationBuilder<TEntity, TRelatedEntity>*
+  !( 2WithMany(string?)À»
+  "(2u
+%17nMicrosoft.EntityFrameworkCore.Metadata.Builders.ReferenceCollectionBuilder<TPrincipalEntity, TDependentEntity>"»Microsoft.EntityFrameworkCore.Metadata.Builders.ReferenceCollectionBuilder<TPrincipalEntity, TDependentEntity>.HasForeignKey(System.Linq.Expressions.Expression<System.Func<TDependentEntity, object?>>)*É
+  !(w
+u
+%16nMicrosoft.EntityFrameworkCore.Metadata.Builders.ReferenceCollectionBuilder<TPrincipalEntity, TDependentEntity>*
+" "(1
+	{unknown}2YHasForeignKey(System.Linq.Expressions.Expression<System.Func<TDependentEntity, object?>>)*
+2*.
+2# #("
+# #(
+implicit return:a
+	 	(@U
+builderJMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>BJH
+FMicrosoft.eShopWeb.Infrastructure.Data.Config.CatalogItemConfigurationX§$
+œMicrosoft.eShopWeb.Infrastructure.Data.Config.OrderConfiguration.Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<Microsoft.eShopWeb.ApplicationCore.Entities.OrderAggregate.Order>){
+q/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/Config/OrderConfiguration.cs	 	("0*
+0	 	(*
+1*
+1 (Rëé
+ ()?
+%09Microsoft.EntityFrameworkCore.Metadata.IMutableEntityType"NMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder.Metadata.get*c
+ ( W
+U
+builderJMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>2Metadata.get£†
+ (R?
+%19Microsoft.EntityFrameworkCore.Metadata.IMutableNavigation"PMicrosoft.EntityFrameworkCore.Metadata.IMutableEntityType.FindNavigation(string)*M
+ ()A
+?
+%09Microsoft.EntityFrameworkCore.Metadata.IMutableEntityType*
+9 (Q
+
+OrderItems2FindNavigation(string)°
+û
+ (RG
+
+navigation9Microsoft.EntityFrameworkCore.Metadata.IMutableNavigation"__id*CA
+?
+%19Microsoft.EntityFrameworkCore.Metadata.IMutableNavigation*
+2*¿
+2 (®
+•
+ (F
+	%capture09Microsoft.EntityFrameworkCore.Metadata.IMutableNavigation"__id*KI
+G
+
+navigation9Microsoft.EntityFrameworkCore.Metadata.IMutableNavigation*
+3
+4*Â
+3 (D–Õ
+ (C
+
+%2void"ÑMicrosoft.EntityFrameworkCore.Metadata.IMutablePropertyBase.SetPropertyAccessMode(Microsoft.EntityFrameworkCore.PropertyAccessMode?)*T
+ (H
+F
+	%capture09Microsoft.EntityFrameworkCore.Metadata.IMutableNavigation*
+* (B2 2HSetPropertyAccessMode(Microsoft.EntityFrameworkCore.PropertyAccessMode?)*
+4*¬
+4 +(>ﬂ‹
+ ((P
+%3JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>"£Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>.Property<TProperty>(System.Linq.Expressions.Expression<System.Func<TEntity, TProperty>>)*c
+ (W
+U
+builderJMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>*
+ ('
+	{unknown}2XProperty<TProperty>(System.Linq.Expressions.Expression<System.Func<TEntity, TProperty>>)æª
+ (P
+%4JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>"[Microsoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>.IsRequired(bool)*^
+ ((R
+P
+%3JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>*
+ ( 2IsRequired(bool)√¿
+ (P
+%5JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>"\Microsoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>.HasMaxLength(int)*^
+ (R
+P
+%4JMicrosoft.EntityFrameworkCore.Metadata.Builders.PropertyBuilder<TProperty>*
+ (2Ä2HasMaxLength(int)ÔÏ
+ )(
+P
+%6JMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>"ùMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>.OwnsOne<TRelatedEntity>(System.Linq.Expressions.Expression<System.Func<TEntity, TRelatedEntity?>>, System.Action<Microsoft.EntityFrameworkCore.Metadata.Builders.OwnedNavigationBuilder<TEntity, TRelatedEntity>>)*c
+ (W
+U
+builderJMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>*
+ (,
+	{unknown}*
+. )(	
+	{unknown}2“OwnsOne<TRelatedEntity>(System.Linq.Expressions.Expression<System.Func<TEntity, TRelatedEntity?>>, System.Action<Microsoft.EntityFrameworkCore.Metadata.Builders.OwnedNavigationBuilder<TEntity, TRelatedEntity>>)ˆÛ
++ +(0Y
+%7SMicrosoft.EntityFrameworkCore.Metadata.Builders.NavigationBuilder<TSource, TTarget>"™Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>.Navigation<TNavigation>(System.Linq.Expressions.Expression<System.Func<TEntity, TNavigation?>>)*c
++ +(W
+U
+builderJMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>*
++ +(/
+	{unknown}2_Navigation<TNavigation>(System.Linq.Expressions.Expression<System.Func<TEntity, TNavigation?>>)Ÿ÷
++ +(=Y
+%8SMicrosoft.EntityFrameworkCore.Metadata.Builders.NavigationBuilder<TSource, TTarget>"dMicrosoft.EntityFrameworkCore.Metadata.Builders.NavigationBuilder<TSource, TTarget>.IsRequired(bool)*g
++ +(0[
+Y
+%7SMicrosoft.EntityFrameworkCore.Metadata.Builders.NavigationBuilder<TSource, TTarget>*
++ +(= 2IsRequired(bool)*
+5*.
+5, ,("
+, ,(
+implicit return:a
+	 	(:U
+builderJMicrosoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<TEntity>BDB
+@Microsoft.eShopWeb.Infrastructure.Data.Config.OrderConfigurationXª!
+~Microsoft.eShopWeb.Infrastructure.Data.Migrations.InitialModel.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)ä
+~/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/Migrations/20201202111507_InitialModel.csÆ Æ( "0*
+0
+Æ Æ(*
+1*ª
+1
+∞ Ã('ÚÔ
+
+∞ ±( _
+%0YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"TMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropTable(string, string?)*]
+
+∞ ∞(O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+
+± ±(
+BasketItems*
+
+∞ ±(  2DropTable(string, string?)ÓÎ
+
+≥ ¥(_
+%1YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"TMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropTable(string, string?)*]
+
+≥ ≥(O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+
+¥ ¥(	
+Catalog*
+
+≥ ¥( 2DropTable(string, string?)ÒÓ
+
+∂ ∑(_
+%2YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"TMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropTable(string, string?)*]
+
+∂ ∂(O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+
+∑ ∑(
+
+OrderItems*
+
+∂ ∑( 2DropTable(string, string?)ÓÎ
+
+π ∫(_
+%3YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"TMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropTable(string, string?)*]
+
+π π(O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+
+∫ ∫(	
+Baskets*
+
+π ∫( 2DropTable(string, string?)ÙÒ
+
+º Ω("_
+%4YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"TMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropTable(string, string?)*]
+
+º º(O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+
+Ω Ω(!
+CatalogBrands*
+
+º Ω(" 2DropTable(string, string?)Û
+
+ø ¿(!_
+%5YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"TMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropTable(string, string?)*]
+
+ø ø(O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+
+¿ ¿( 
+CatalogTypes*
+
+ø ¿(! 2DropTable(string, string?)ÌÍ
+
+¬ √(_
+%6YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"TMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropTable(string, string?)*]
+
+¬ ¬(O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+
+√ √(
+
+Orders*
+
+¬ √( 2DropTable(string, string?)ˇ¸
+
+≈ ∆('_
+%7YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"WMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropSequence(string, string?)*]
+
+≈ ≈(O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*$
+
+∆ ∆(&
+catalog_brand_hilo*
+
+≈ ∆(' 2DropSequence(string, string?)˘ˆ
+
+» …(!_
+%8YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"WMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropSequence(string, string?)*]
+
+» »(O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+
+… …( 
+catalog_hilo*
+
+» …(! 2DropSequence(string, string?)˛˚
+
+À Ã(&_
+%9YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"WMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropSequence(string, string?)*]
+
+À À(O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*#
+
+Ã Ã(%
+catalog_type_hilo*
+
+À Ã(& 2DropSequence(string, string?)*
+2*2
+2
+Õ Õ("!
+
+Õ Õ(
+implicit return:[
+
+Æ! Æ(BM
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilderBB@
+>Microsoft.eShopWeb.Infrastructure.Data.Migrations.InitialModelXÖ
+äMicrosoft.eShopWeb.Infrastructure.Identity.Migrations.InitialIdentityModel.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)ó
+ä/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Identity/Migrations/20201202111612_InitialIdentityModel.cs√ √( "0*
+0
+√ √(*
+1*ﬂ
+1
+≈ ÿ(!˜Ù
+
+≈ ∆(%_
+%0YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"TMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropTable(string, string?)*]
+
+≈ ≈(O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*"
+
+∆ ∆($
+AspNetRoleClaims*
+
+≈ ∆(% 2DropTable(string, string?)˜Ù
+
+» …(%_
+%1YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"TMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropTable(string, string?)*]
+
+» »(O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*"
+
+… …($
+AspNetUserClaims*
+
+» …(% 2DropTable(string, string?)˜Ù
+
+À Ã(%_
+%2YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"TMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropTable(string, string?)*]
+
+À À(O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*"
+
+Ã Ã($
+AspNetUserLogins*
+
+À Ã(% 2DropTable(string, string?)ˆÛ
+
+Œ œ($_
+%3YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"TMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropTable(string, string?)*]
+
+Œ Œ(O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*!
+
+œ œ(#
+AspNetUserRoles*
+
+Œ œ($ 2DropTable(string, string?)˜Ù
+
+— “(%_
+%4YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"TMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropTable(string, string?)*]
+
+— —(O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*"
+
+“ “($
+AspNetUserTokens*
+
+— “(% 2DropTable(string, string?)ÚÔ
+
+‘ ’( _
+%5YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"TMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropTable(string, string?)*]
+
+‘ ‘(O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+
+’ ’(
+AspNetRoles*
+
+‘ ’(  2DropTable(string, string?)ÚÔ
+
+◊ ÿ( _
+%6YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"TMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.DropTable(string, string?)*]
+
+◊ ◊(O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+
+ÿ ÿ(
+AspNetUsers*
+
+◊ ÿ(  2DropTable(string, string?)*
+2*2
+2
+Ÿ Ÿ("!
+
+Ÿ Ÿ(
+implicit return:[
+
+√! √(BM
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilderBNL
+JMicrosoft.eShopWeb.Infrastructure.Identity.Migrations.InitialIdentityModelXÄV
+àMicrosoft.eShopWeb.Infrastructure.Identity.Migrations.InitialIdentityModel.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)ï
+ä/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Identity/Migrations/20201202111612_InitialIdentityModel.cs ("0*
+0 (*
+1*‚Q
+1	
+ ¿(8˙˜
+
+ (_
+%0YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>"∏Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string?, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>?, string?)*[
+
+ 
+(O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+ (
+AspNetRoles*
+ (
+	{unknown}*
+
+ ( *
+ (
+	{unknown}*
+
+ ( 2˛CreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string?, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>?, string?)˙˜
+ /(_
+%1YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>"∏Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string?, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>?, string?)*[
+ (O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+ (
+AspNetUsers*
+ +(
+	{unknown}*
+ /( *
+, /(
+	{unknown}*
+ /( 2˛CreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string?, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>?, string?)ˇ¸
+1 D(_
+%2YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>"∏Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string?, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>?, string?)*[
+1 1(O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder* 
+2 2($
+AspNetRoleClaims*
+3 :(
+	{unknown}*
+1 D( *
+; D(
+	{unknown}*
+1 D( 2˛CreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string?, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>?, string?)ˇ¸
+F Y(_
+%3YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>"∏Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string?, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>?, string?)*[
+F F(O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder* 
+G G($
+AspNetUserClaims*
+H O(
+	{unknown}*
+F Y( *
+P Y(
+	{unknown}*
+F Y( 2˛CreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string?, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>?, string?)ˇ¸
+[ m(_
+%4YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>"∏Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string?, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>?, string?)*[
+[ [(O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder* 
+\ \($
+AspNetUserLogins*
+] c(
+	{unknown}*
+[ m( *
+d m(
+	{unknown}*
+[ m( 2˛CreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string?, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>?, string?)Çˇ
+	o Ö(_
+%5YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>"∏Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string?, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>?, string?)*[
+o o(O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+p p(#
+AspNetUserRoles*
+q u(
+	{unknown}*
+	o Ö( *
+	v Ö(
+	{unknown}*
+	o Ö( 2˛CreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string?, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>?, string?)çä
+
+á ô(_
+%6YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>"∏Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string?, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>?, string?)*]
+
+á á(O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*"
+
+à à($
+AspNetUserTokens*
+
+â è(
+	{unknown}*
+
+á ô( *
+
+ê ô(
+	{unknown}*
+
+á ô( 2˛CreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string?, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>?, string?)…∆
+
+õ û(_
+%7YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"~Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateIndex(string, string, string, string?, bool, string?, bool[]?)*]
+
+õ õ(O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*,
+
+ú ú(.
+IX_AspNetRoleClaims_RoleId*"
+
+ù ù(%
+AspNetRoleClaims*
+
+û û(
+
+RoleId*
+
+õ û( *
+
+õ û( *
+
+õ û( *
+
+õ û( 2DCreateIndex(string, string, string, string?, bool, string?, bool[]?)›⁄
+
+† •(3_
+%8YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"~Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateIndex(string, string, string, string?, bool, string?, bool[]?)*]
+
+† †(O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+
+° °(!
+RoleNameIndex*
+
+¢ ¢( 
+AspNetRoles* 
+
+£ £($
+NormalizedName*
+
+† •(3 *
+
+§ §( *.
+
+• •(2 
+[NormalizedName] IS NOT NULL*
+
+† •(3 2DCreateIndex(string, string, string, string?, bool, string?, bool[]?)…∆
+
+ß ™(_
+%9YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"~Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateIndex(string, string, string, string?, bool, string?, bool[]?)*]
+
+ß ß(O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*,
+
+® ®(.
+IX_AspNetUserClaims_UserId*"
+
+© ©(%
+AspNetUserClaims*
+
+™ ™(
+
+UserId*
+
+ß ™( *
+
+ß ™( *
+
+ß ™( *
+
+ß ™( 2DCreateIndex(string, string, string, string?, bool, string?, bool[]?) «
+
+¨ Ø(`
+%10YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"~Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateIndex(string, string, string, string?, bool, string?, bool[]?)*]
+
+¨ ¨(O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*,
+
+≠ ≠(.
+IX_AspNetUserLogins_UserId*"
+
+Æ Æ(%
+AspNetUserLogins*
+
+Ø Ø(
+
+UserId*
+
+¨ Ø( *
+
+¨ Ø( *
+
+¨ Ø( *
+
+¨ Ø( 2DCreateIndex(string, string, string, string?, bool, string?, bool[]?)»≈
+
+± ¥(`
+%11YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"~Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateIndex(string, string, string, string?, bool, string?, bool[]?)*]
+
+± ±(O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*+
+
+≤ ≤(-
+IX_AspNetUserRoles_RoleId*!
+
+≥ ≥($
+AspNetUserRoles*
+
+¥ ¥(
+
+RoleId*
+
+± ¥( *
+
+± ¥( *
+
+± ¥( *
+
+± ¥( 2DCreateIndex(string, string, string, string?, bool, string?, bool[]?)æª
+
+∂ π(&`
+%12YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"~Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateIndex(string, string, string, string?, bool, string?, bool[]?)*]
+
+∂ ∂(O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+
+∑ ∑(
+
+EmailIndex*
+
+∏ ∏( 
+AspNetUsers*!
+
+π π(%
+NormalizedEmail*
+
+∂ π(& *
+
+∂ π(& *
+
+∂ π(& *
+
+∂ π(& 2DCreateIndex(string, string, string, string?, bool, string?, bool[]?)Ê„
+
+ª ¿(7`
+%13YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"~Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateIndex(string, string, string, string?, bool, string?, bool[]?)*]
+
+ª ª(O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+
+º º(!
+UserNameIndex*
+
+Ω Ω( 
+AspNetUsers*$
+
+æ æ((
+NormalizedUserName*
+
+ª ¿(7 *
+
+ø ø( *2
+
+¿ ¿(6$"
+ [NormalizedUserName] IS NOT NULL*
+
+ª ¿(7 2DCreateIndex(string, string, string, string?, bool, string?, bool[]?)*
+2*2
+2
+¡ ¡("!
+
+¡ ¡(
+implicit return:Y
+ (@M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilderBNL
+JMicrosoft.eShopWeb.Infrastructure.Identity.Migrations.InitialIdentityModelX¿S
+|Microsoft.eShopWeb.Infrastructure.Data.Migrations.InitialModel.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)à
+~/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/Migrations/20201202111507_InitialModel.cs ("0*
+0 (*
+1*»O
+1	
+ ´(çä
+
+ (_
+%0YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"xMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateSequence(string, string?, long, int, long?, long?, bool)*[
+
+ 
+(O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*"
+ (&
+catalog_brand_hilo*
+
+ ( *
+
+ (2*
+ (2
+*
+
+ ( *
+
+ ( *
+
+ ( 2>CreateSequence(string, string?, long, int, long?, long?, bool)áÑ
+ (_
+%1YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"xMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateSequence(string, string?, long, int, long?, long?, bool)*[
+ (O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+ ( 
+catalog_hilo*
+ ( *
+ (2*
+ (2
+*
+ ( *
+ ( *
+ ( 2>CreateSequence(string, string?, long, int, long?, long?, bool)åâ
+ (_
+%2YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"xMicrosoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateSequence(string, string?, long, int, long?, long?, bool)*[
+ (O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*!
+ (%
+catalog_type_hilo*
+ ( *
+ (2*
+ (2
+*
+ ( *
+ ( *
+ ( 2>CreateSequence(string, string?, long, int, long?, long?, bool)ˆÛ
+ !(_
+%3YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>"∏Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string?, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>?, string?)*[
+ (O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+ (	
+Baskets*
+ (
+	{unknown}*
+ !( *
+ !(
+	{unknown}*
+ !( 2˛CreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string?, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>?, string?)¸˘
+# -(_
+%4YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>"∏Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string?, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>?, string?)*[
+# #(O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+$ $(!
+CatalogBrands*
+% )(
+	{unknown}*
+# -( *
+* -(
+	{unknown}*
+# -( 2˛CreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string?, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>?, string?)˚¯
+/ 9(_
+%5YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>"∏Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string?, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>?, string?)*[
+/ /(O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+0 0( 
+CatalogTypes*
+1 5(
+	{unknown}*
+/ 9( *
+6 9(
+	{unknown}*
+/ 9( 2˛CreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string?, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>?, string?)ıÚ
+; L(_
+%6YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>"∏Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string?, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>?, string?)*[
+; ;(O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+< <(
+
+Orders*
+= H(
+	{unknown}*
+; L( *
+I L(
+	{unknown}*
+; L( 2˛CreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string?, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>?, string?)˙˜
+N b(_
+%7YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>"∏Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string?, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>?, string?)*[
+N N(O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+O O(
+BasketItems*
+P X(
+	{unknown}*
+N b( *
+Y b(
+	{unknown}*
+N b( 2˛CreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string?, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>?, string?)ˆÛ
+d (_
+%8YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>"∏Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string?, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>?, string?)*[
+d d(O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+e e(	
+Catalog*
+f o(
+	{unknown}*
+d ( *
+p (
+	{unknown}*
+d ( 2˛CreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string?, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>?, string?)áÑ
+
+Å ó(_
+%9YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>"∏Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string?, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>?, string?)*]
+
+Å Å(O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*
+
+Ç Ç(
+
+OrderItems*
+
+É ç(
+	{unknown}*
+
+Å ó( *
+
+é ó(
+	{unknown}*
+
+Å ó( 2˛CreateTable<TColumns>(string, System.Func<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.ColumnsBuilder, TColumns>, string?, System.Action<Microsoft.EntityFrameworkCore.Migrations.Operations.Builders.CreateTableBuilder<TColumns>>?, string?)ƒ¡
+
+ô ú(`
+%10YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"~Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateIndex(string, string, string, string?, bool, string?, bool[]?)*]
+
+ô ô(O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*)
+
+ö ö(+
+IX_BasketItems_BasketId*
+
+õ õ( 
+BasketItems*
+
+ú ú(
+
+BasketId*
+
+ô ú( *
+
+ô ú( *
+
+ô ú( *
+
+ô ú( 2DCreateIndex(string, string, string, string?, bool, string?, bool[]?)»≈
+
+û °(%`
+%11YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"~Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateIndex(string, string, string, string?, bool, string?, bool[]?)*]
+
+û û(O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*+
+
+ü ü(-
+IX_Catalog_CatalogBrandId*
+
+† †(	
+Catalog* 
+
+° °($
+CatalogBrandId*
+
+û °(% *
+
+û °(% *
+
+û °(% *
+
+û °(% 2DCreateIndex(string, string, string, string?, bool, string?, bool[]?)∆√
+
+£ ¶($`
+%12YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"~Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateIndex(string, string, string, string?, bool, string?, bool[]?)*]
+
+£ £(O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder**
+
+§ §(,
+IX_Catalog_CatalogTypeId*
+
+• •(	
+Catalog*
+
+¶ ¶(#
+CatalogTypeId*
+
+£ ¶($ *
+
+£ ¶($ *
+
+£ ¶($ *
+
+£ ¶($ 2DCreateIndex(string, string, string, string?, bool, string?, bool[]?)¿Ω
+
+® ´(`
+%13YMicrosoft.EntityFrameworkCore.Migrations.Operations.Builders.OperationBuilder<TOperation>"~Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder.CreateIndex(string, string, string, string?, bool, string?, bool[]?)*]
+
+® ®(O
+M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder*'
+
+© ©()
+IX_OrderItems_OrderId*
+
+™ ™(
+
+OrderItems*
+
+´ ´(	
+OrderId*
+
+® ´( *
+
+® ´( *
+
+® ´( *
+
+® ´( 2DCreateIndex(string, string, string, string?, bool, string?, bool[]?)*
+2*2
+2
+¨ ¨("!
+
+¨ ¨(
+implicit return:Y
+ (@M
+migrationBuilder9Microsoft.EntityFrameworkCore.Migrations.MigrationBuilderBB@
+>Microsoft.eShopWeb.Infrastructure.Data.Migrations.InitialModelX

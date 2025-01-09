@@ -20,18 +20,15 @@ d/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/BlazorShared/M
 o/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/BlazorShared/Models/EditCatalogItemResponse.cs
  	
    " 
- % (* -3 67 Bí
-k/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/BlazorShared/Models/CatalogTypeResponse.cs
- 
- 
- 
- 	
-    # 67 B
-
- 
-
- $ 
-  $ ') ,2 56 :; Fý
+ % (* -3 67 Bí
+q/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/BlazorShared/Models/DeleteCatalogItemResponse.cs
+ 	
+   & 
+    #) 2û
+q/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/BlazorShared/Models/CreateCatalogItemResponse.cs
+ 	
+   & 
+ % (* -3 67 Bý
 p/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/BlazorShared/Models/CreateCatalogItemRequest.cs
  
  	
@@ -44,19 +41,22 @@ p/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/BlazorShared/M
     #) * 
   "$ '- 3 
  " %' *0 6 
-   #% (. 4í
-q/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/BlazorShared/Models/DeleteCatalogItemResponse.cs
- 	
-   & 
-    #) 2Ï
+   #% (. 4í
+k/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/BlazorShared/Models/CatalogTypeResponse.cs
+ 
+ 
+ 
+ 	
+    # 67 B
+
+ 
+
+ $ 
+  $ ') ,2 56 :; FÏ
 c/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/BlazorShared/Models/CatalogType.cs
  
  	 	  
-    %û
-q/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/BlazorShared/Models/CreateCatalogItemResponse.cs
- 	
-   & 
- % (* -3 67 Bž
+    %ž
 c/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/BlazorShared/Models/CatalogItem.cs
  
  
@@ -82,16 +82,7 @@ c/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/BlazorShared/M
 --  // // &22 
 44 44 ,77 
 99 99 &<< << ?? 
-?? ?? ?? ?? #??2 @AA AA AA AA  ,CC CC CC# &CC' 3EE FF GG GG$ +II NN NN NN NN) /PP PP RR RR RR( .RR0 @SS SS( .SS0 @TT TT( .TT0 @UU UU( /UU1 AÐ
-d/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/BlazorShared/Models/CatalogBrand.cs
- 
- 	 	 !
-    &­
-o/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/BlazorShared/Interfaces/ILookupDataResponse.cs
- 
- 
- 	
-   $% 02 78 CF P 	   " %î
+?? ?? ?? ?? #??2 @AA AA AA AA  ,CC CC CC# &CC' 3EE FF GG GG$ +II NN NN NN NN) /PP PP RR RR RR( .RR0 @SS SS( .SS0 @TT TT( .TT0 @UU UU( /UU1 Aî
 l/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/BlazorShared/Models/CatalogBrandResponse.cs
  
  
@@ -114,7 +105,16 @@ l/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/BlazorShared/M
 
 7 ;
 
-< H±
+< HÐ
+d/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/BlazorShared/Models/CatalogBrand.cs
+ 
+ 	 	 !
+    &­
+o/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/BlazorShared/Interfaces/ILookupDataResponse.cs
+ 
+ 
+ 	
+   $% 02 78 CF P 	   " %±
 u/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/BlazorShared/Interfaces/ICatalogLookupDataService.cs
  
  

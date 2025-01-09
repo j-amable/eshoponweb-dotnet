@@ -2857,7 +2857,277 @@ l/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/Services/C
 )D E
 ;E F
 } 
-} œ=
+} ò&
+n/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/Services/CachedCatalogViewModelService.cs
+	namespace 	
+	Microsoft
+ 
+. 
+eShopWeb 
+. 
+Web  
+.  !
+Services! )
+;) *
+public
+
+ 
+class
+
+ )
+CachedCatalogViewModelService
+
+ *
+:
+
++ ,$
+ICatalogViewModelService
+
+- E
+{ 
+private 
+readonly 
+IMemoryCache !
+_cache" (
+;( )
+private 
+readonly #
+CatalogViewModelService ,$
+_catalogViewModelService- E
+;E F
+public 
+)
+CachedCatalogViewModelService (
+(( )
+IMemoryCache) 5
+cache6 ;
+,; <#
+CatalogViewModelService #
+catalogViewModelService  7
+)7 8
+{ 
+_cache 
+= 
+cache 
+; $
+_catalogViewModelService  
+=! "#
+catalogViewModelService# :
+;: ;
+} 
+public 
+
+async 
+Task 
+< 
+IEnumerable !
+<! "
+SelectListItem" 0
+>0 1
+>1 2
+	GetBrands3 <
+(< =
+)= >
+{ 
+return 
+( 
+await 
+_cache 
+. 
+GetOrCreateAsync -
+(- .
+CacheHelpers. :
+.: ;"
+GenerateBrandsCacheKey; Q
+(Q R
+)R S
+,S T
+asyncU Z
+entry[ `
+=>a c
+{ 
+entry 
+. 
+SlidingExpiration +
+=, -
+CacheHelpers. :
+.: ; 
+DefaultCacheDuration; O
+;O P
+return 
+await  $
+_catalogViewModelService! 9
+.9 :
+	GetBrands: C
+(C D
+)D E
+;E F
+} 
+) 
+) 
+?? 
+new 
+List 
+<  
+SelectListItem  .
+>. /
+(/ 0
+)0 1
+;1 2
+} 
+public 
+
+async 
+Task 
+< !
+CatalogIndexViewModel +
+>+ ,
+GetCatalogItems- <
+(< =
+int= @
+	pageIndexA J
+,J K
+intL O
+	itemsPageP Y
+,Y Z
+int[ ^
+?^ _
+brandId` g
+,g h
+inti l
+?l m
+typeIdn t
+)t u
+{   
+var!! 
+cacheKey!! 
+=!! 
+CacheHelpers!! #
+.!!# $'
+GenerateCatalogItemCacheKey!!$ ?
+(!!? @
+	pageIndex!!@ I
+,!!I J
+	Constants!!K T
+.!!T U
+ITEMS_PER_PAGE!!U c
+,!!c d
+brandId!!e l
+,!!l m
+typeId!!n t
+)!!t u
+;!!u v
+return## 
+(## 
+await## 
+_cache## 
+.## 
+GetOrCreateAsync## -
+(##- .
+cacheKey##. 6
+,##6 7
+async##8 =
+entry##> C
+=>##D F
+{$$ 	
+entry%% 
+.%% 
+SlidingExpiration%% #
+=%%$ %
+CacheHelpers%%& 2
+.%%2 3 
+DefaultCacheDuration%%3 G
+;%%G H
+return&& 
+await&& $
+_catalogViewModelService&& 1
+.&&1 2
+GetCatalogItems&&2 A
+(&&A B
+	pageIndex&&B K
+,&&K L
+	itemsPage&&M V
+,&&V W
+brandId&&X _
+,&&_ `
+typeId&&a g
+)&&g h
+;&&h i
+}'' 	
+)''	 
+
+)''
+ 
+??'' 
+new'' !
+CatalogIndexViewModel'' (
+(''( )
+)'') *
+;''* +
+}(( 
+public** 
+
+async** 
+Task** 
+<** 
+IEnumerable** !
+<**! "
+SelectListItem**" 0
+>**0 1
+>**1 2
+GetTypes**3 ;
+(**; <
+)**< =
+{++ 
+return,, 
+(,, 
+await,, 
+_cache,, 
+.,, 
+GetOrCreateAsync,, -
+(,,- .
+CacheHelpers,,. :
+.,,: ;!
+GenerateTypesCacheKey,,; P
+(,,P Q
+),,Q R
+,,,R S
+async,,T Y
+entry,,Z _
+=>,,` b
+{-- 	
+entry.. 
+... 
+SlidingExpiration.. #
+=..$ %
+CacheHelpers..& 2
+...2 3 
+DefaultCacheDuration..3 G
+;..G H
+return// 
+await// $
+_catalogViewModelService// 1
+.//1 2
+GetTypes//2 :
+(//: ;
+)//; <
+;//< =
+}00 	
+)00	 
+
+)00
+ 
+??00 
+new00 
+List00 
+<00 
+SelectListItem00 &
+>00& '
+(00' (
+)00( )
+;00) *
+}11 
+}22 œ=
 g/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/Services/BasketViewModelService.cs
 	namespace 	
 	Microsoft
@@ -3292,277 +3562,7 @@ PictureUriDDD N
 counter[[ 
 ;[[ 
 }\\ 
-}]] ò&
-n/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/Services/CachedCatalogViewModelService.cs
-	namespace 	
-	Microsoft
- 
-. 
-eShopWeb 
-. 
-Web  
-.  !
-Services! )
-;) *
-public
-
- 
-class
-
- )
-CachedCatalogViewModelService
-
- *
-:
-
-+ ,$
-ICatalogViewModelService
-
-- E
-{ 
-private 
-readonly 
-IMemoryCache !
-_cache" (
-;( )
-private 
-readonly #
-CatalogViewModelService ,$
-_catalogViewModelService- E
-;E F
-public 
-)
-CachedCatalogViewModelService (
-(( )
-IMemoryCache) 5
-cache6 ;
-,; <#
-CatalogViewModelService #
-catalogViewModelService  7
-)7 8
-{ 
-_cache 
-= 
-cache 
-; $
-_catalogViewModelService  
-=! "#
-catalogViewModelService# :
-;: ;
-} 
-public 
-
-async 
-Task 
-< 
-IEnumerable !
-<! "
-SelectListItem" 0
->0 1
->1 2
-	GetBrands3 <
-(< =
-)= >
-{ 
-return 
-( 
-await 
-_cache 
-. 
-GetOrCreateAsync -
-(- .
-CacheHelpers. :
-.: ;"
-GenerateBrandsCacheKey; Q
-(Q R
-)R S
-,S T
-asyncU Z
-entry[ `
-=>a c
-{ 
-entry 
-. 
-SlidingExpiration +
-=, -
-CacheHelpers. :
-.: ; 
-DefaultCacheDuration; O
-;O P
-return 
-await  $
-_catalogViewModelService! 9
-.9 :
-	GetBrands: C
-(C D
-)D E
-;E F
-} 
-) 
-) 
-?? 
-new 
-List 
-<  
-SelectListItem  .
->. /
-(/ 0
-)0 1
-;1 2
-} 
-public 
-
-async 
-Task 
-< !
-CatalogIndexViewModel +
->+ ,
-GetCatalogItems- <
-(< =
-int= @
-	pageIndexA J
-,J K
-intL O
-	itemsPageP Y
-,Y Z
-int[ ^
-?^ _
-brandId` g
-,g h
-inti l
-?l m
-typeIdn t
-)t u
-{   
-var!! 
-cacheKey!! 
-=!! 
-CacheHelpers!! #
-.!!# $'
-GenerateCatalogItemCacheKey!!$ ?
-(!!? @
-	pageIndex!!@ I
-,!!I J
-	Constants!!K T
-.!!T U
-ITEMS_PER_PAGE!!U c
-,!!c d
-brandId!!e l
-,!!l m
-typeId!!n t
-)!!t u
-;!!u v
-return## 
-(## 
-await## 
-_cache## 
-.## 
-GetOrCreateAsync## -
-(##- .
-cacheKey##. 6
-,##6 7
-async##8 =
-entry##> C
-=>##D F
-{$$ 	
-entry%% 
-.%% 
-SlidingExpiration%% #
-=%%$ %
-CacheHelpers%%& 2
-.%%2 3 
-DefaultCacheDuration%%3 G
-;%%G H
-return&& 
-await&& $
-_catalogViewModelService&& 1
-.&&1 2
-GetCatalogItems&&2 A
-(&&A B
-	pageIndex&&B K
-,&&K L
-	itemsPage&&M V
-,&&V W
-brandId&&X _
-,&&_ `
-typeId&&a g
-)&&g h
-;&&h i
-}'' 	
-)''	 
-
-)''
- 
-??'' 
-new'' !
-CatalogIndexViewModel'' (
-(''( )
-)'') *
-;''* +
-}(( 
-public** 
-
-async** 
-Task** 
-<** 
-IEnumerable** !
-<**! "
-SelectListItem**" 0
->**0 1
->**1 2
-GetTypes**3 ;
-(**; <
-)**< =
-{++ 
-return,, 
-(,, 
-await,, 
-_cache,, 
-.,, 
-GetOrCreateAsync,, -
-(,,- .
-CacheHelpers,,. :
-.,,: ;!
-GenerateTypesCacheKey,,; P
-(,,P Q
-),,Q R
-,,,R S
-async,,T Y
-entry,,Z _
-=>,,` b
-{-- 	
-entry.. 
-... 
-SlidingExpiration.. #
-=..$ %
-CacheHelpers..& 2
-...2 3 
-DefaultCacheDuration..3 G
-;..G H
-return// 
-await// $
-_catalogViewModelService// 1
-.//1 2
-GetTypes//2 :
-(//: ;
-)//; <
-;//< =
-}00 	
-)00	 
-
-)00
- 
-??00 
-new00 
-List00 
-<00 
-SelectListItem00 &
->00& '
-(00' (
-)00( )
-;00) *
-}11 
-}22 ¼¨
+}]] ¼¨
 O/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/Program.cs
 var 
 builder 
@@ -14574,7 +14574,171 @@ IAppLogger" ,
 services 
 ; 
 } 
-} îB
+} ç
+m/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/Configuration/ConfigureCookieSettings.cs
+	namespace 	
+	Microsoft
+ 
+. 
+eShopWeb 
+. 
+Web  
+.  !
+Configuration! .
+;. /
+public 
+static 
+class #
+ConfigureCookieSettings +
+{		 
+public
+
+ 
+
+const
+
+ 
+int
+
+ !
+ValidityMinutesPeriod
+
+ *
+=
+
++ ,
+$num
+
+- /
+;
+
+/ 0
+public 
+
+const 
+string  
+IdentifierCookieName ,
+=- .
+$str/ @
+;@ A
+public 
+
+static 
+IServiceCollection $
+AddCookieSettings% 6
+(6 7
+this7 ;
+IServiceCollection< N
+servicesO W
+)W X
+{ 
+services 
+. 
+	Configure 
+< 
+CookiePolicyOptions .
+>. /
+(/ 0
+options0 7
+=>8 :
+{ 	
+options 
+. !
+MinimumSameSitePolicy -
+=. /
+SameSiteMode0 <
+.< =
+Strict= C
+;C D
+} 	
+)	 
+
+;
+ 
+services 
+. &
+ConfigureApplicationCookie +
+(+ ,
+options, 3
+=>4 6
+{ 	
+options 
+. 
+
+EventsType 
+=  
+typeof! '
+(' (&
+RevokeAuthenticationEvents( B
+)B C
+;C D
+options 
+. 
+Cookie 
+. 
+HttpOnly #
+=$ %
+true& *
+;* +
+options 
+. 
+ExpireTimeSpan "
+=# $
+TimeSpan% -
+.- .
+FromMinutes. 9
+(9 :!
+ValidityMinutesPeriod: O
+)O P
+;P Q
+options 
+. 
+	LoginPath 
+= 
+$str  0
+;0 1
+options 
+. 
+
+LogoutPath 
+=  
+$str! 2
+;2 3
+options 
+. 
+Cookie 
+= 
+new  
+CookieBuilder! .
+{ 
+Name 
+=  
+IdentifierCookieName +
+,+ ,
+IsEssential   
+=   
+true   "
+}!! 
+;!! 
+}"" 	
+)""	 
+
+;""
+ 
+services$$ 
+.$$ 
+	AddScoped$$ 
+<$$ &
+RevokeAuthenticationEvents$$ 5
+>$$5 6
+($$6 7
+)$$7 8
+;$$8 9
+return&& 
+services&& 
+;&& 
+}'' 
+}(( îB
 t/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/Areas/Identity/Pages/Account/Register.cshtml.cs
 	namespace 	
 	Microsoft
@@ -15054,171 +15218,7 @@ ModelState]] 
 )bb 
 ;bb 
 }cc 
-}dd ç
-m/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/Configuration/ConfigureCookieSettings.cs
-	namespace 	
-	Microsoft
- 
-. 
-eShopWeb 
-. 
-Web  
-.  !
-Configuration! .
-;. /
-public 
-static 
-class #
-ConfigureCookieSettings +
-{		 
-public
-
- 
-
-const
-
- 
-int
-
- !
-ValidityMinutesPeriod
-
- *
-=
-
-+ ,
-$num
-
-- /
-;
-
-/ 0
-public 
-
-const 
-string  
-IdentifierCookieName ,
-=- .
-$str/ @
-;@ A
-public 
-
-static 
-IServiceCollection $
-AddCookieSettings% 6
-(6 7
-this7 ;
-IServiceCollection< N
-servicesO W
-)W X
-{ 
-services 
-. 
-	Configure 
-< 
-CookiePolicyOptions .
->. /
-(/ 0
-options0 7
-=>8 :
-{ 	
-options 
-. !
-MinimumSameSitePolicy -
-=. /
-SameSiteMode0 <
-.< =
-Strict= C
-;C D
-} 	
-)	 
-
-;
- 
-services 
-. &
-ConfigureApplicationCookie +
-(+ ,
-options, 3
-=>4 6
-{ 	
-options 
-. 
-
-EventsType 
-=  
-typeof! '
-(' (&
-RevokeAuthenticationEvents( B
-)B C
-;C D
-options 
-. 
-Cookie 
-. 
-HttpOnly #
-=$ %
-true& *
-;* +
-options 
-. 
-ExpireTimeSpan "
-=# $
-TimeSpan% -
-.- .
-FromMinutes. 9
-(9 :!
-ValidityMinutesPeriod: O
-)O P
-;P Q
-options 
-. 
-	LoginPath 
-= 
-$str  0
-;0 1
-options 
-. 
-
-LogoutPath 
-=  
-$str! 2
-;2 3
-options 
-. 
-Cookie 
-= 
-new  
-CookieBuilder! .
-{ 
-Name 
-=  
-IdentifierCookieName +
-,+ ,
-IsEssential   
-=   
-true   "
-}!! 
-;!! 
-}"" 	
-)""	 
-
-;""
- 
-services$$ 
-.$$ 
-	AddScoped$$ 
-<$$ &
-RevokeAuthenticationEvents$$ 5
->$$5 6
-($$6 7
-)$$7 8
-;$$8 9
-return&& 
-services&& 
-;&& 
-}'' 
-}(( ª!
+}dd ª!
 r/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/Areas/Identity/Pages/Account/Logout.cshtml.cs
 	namespace 	
 	Microsoft

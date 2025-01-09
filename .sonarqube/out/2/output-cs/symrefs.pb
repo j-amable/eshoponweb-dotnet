@@ -70,16 +70,7 @@ y/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCor
 = A   !
 H O !B I
 V \ 4 :
- . /! "‘
-/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Specifications/BasketWithItemsSpecification.cs
-
- 0
-, 4  (
-  
-  
-/ 6% ,
-  
-  Î
+ . /! "Î
 h/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Services/UriComposer.cs
 
  
@@ -114,52 +105,23 @@ i/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCor
 ++1 2++6 7
 ,, --* 5
 -- .. 
-11 33( -˜
-r/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Interfaces/IBasketQueryService.cs
+11 33( -‘
+k/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Interfaces/IUriComposer.cs
 
- $
+ 
 
-
-
- #
+ 
 
-
-
-+ 3ž
-l/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Interfaces/IOrderService.cs
+  +‘
+/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Specifications/BasketWithItemsSpecification.cs
 
- 
-
-	 
-
- &
-
-0 ?©
-k/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Interfaces/IEmailSender.cs
-
- 
-
-	 
-
- $
-
-- 4
-
-= Dª
-n/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Extensions/GuardExtensions.cs
-
-  
-
-
-
- ,
-
-
-
-? J
-
-
-l w ‹
+ 0
+, 4  (
+  
+  
+/ 6% ,
+  
+  ‹
 j/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Services/BasketService.cs
    -  Œ
 ) :  , #$$ ** ,,, 22 ,>> EE$ 5HH 0LL #RR SS (
@@ -192,21 +154,16 @@ j/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCor
 DD EEJ ](
 EE FF NN ,SS, ;
 GG HHE S<
-HH II KK LL- 7PP RR, 6‘
-k/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Interfaces/IUriComposer.cs
+HH II KK LL- 7PP RR, 6ž
+l/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Interfaces/IOrderService.cs
 
- 
+ 
 
- 
+	 
 
-  +˜
-r/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Interfaces/ITokenClaimsService.cs
+ &
 
- $
-
- 
-
-& .˜
+0 ?˜
 j/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Interfaces/IRepository.cs
 
  
@@ -214,42 +171,25 @@ j/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCor
 n/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Interfaces/IReadRepository.cs
 
   
-! ": ;C DË
-i/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Interfaces/IAppLogger.cs
+! ": ;C D˜
+r/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Interfaces/ITokenClaimsService.cs
 
- 
+ $
 
- 
+ 
 
-			 
+& .©
+k/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Interfaces/IEmailSender.cs
 
-		 &
+ 
 
-		8 <
+	 
 
-
-
-	 
+ $
 
-
-
- "
+- 4
 
-
-
-4 8Ÿ
-m/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Extensions/JsonExtensions.cs
-
- "
-2 >, 8) 5
-
- 
-  # $
-- 1& *
-
- 
-  !( )! "
-* -$ '—
+= D—
 m/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Interfaces/IBasketService.cs
 
  
@@ -284,7 +224,70 @@ m/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCor
 
 	 
 
- 'ÿ
+ 'Ë
+i/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Interfaces/IAppLogger.cs
+
+ 
+
+ 
+
+			 
+
+		 &
+
+		8 <
+
+
+
+	 
+
+
+
+ "
+
+
+
+4 8{
+m/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Interfaces/IAggregateRoot.cs
+
+ Ÿ
+m/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Extensions/JsonExtensions.cs
+
+ "
+2 >, 8) 5
+
+ 
+  # $
+- 1& *
+
+ 
+  !( )! "
+* -$ '˜
+r/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Interfaces/IBasketQueryService.cs
+
+ $
+
+
+
+ #
+
+
+
++ 3ª
+n/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Extensions/GuardExtensions.cs
+
+  
+
+
+
+ ,
+
+
+
+? J
+
+
+l w ÿ
 }/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Exceptions/EmptyBasketOnCheckoutException.cs
 
  +
@@ -295,23 +298,15 @@ m/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCor
 ¦ ­
 1 8A H
 1 8[ b
-D Rd rš
+D Rd r•
+q/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Exceptions/DuplicateException.cs
+
+ 
+% ,5 <š
 v/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Exceptions/BasketNotFoundException.cs
 
  $
-' /S [{
-m/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Interfaces/IAggregateRoot.cs
-
- Ì
-~/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Entities/OrderAggregate/CatalogItemOrdered.cs
-
-		 (
-" /! .7 D %(
-8 C" -6 A !(
-L V" ,5 ? 
-  
-  
-  ‡
+' /S [‡
 u/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Entities/OrderAggregate/OrderItem.cs
 
  
@@ -320,24 +315,7 @@ u/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCor
   
 ( 3 !
 = F 
-L Q Ý
-s/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Entities/OrderAggregate/Address.cs
-
- 
-  
-  
-		  
-  
-  
-   
-) - 
-6 ; 
-D K 
-T [ •
-q/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Exceptions/DuplicateException.cs
-
- 
-% ,5 <ï
+L Q ï
 q/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Entities/OrderAggregate/Order.cs
 
  (
@@ -353,16 +331,38 @@ q/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCor
 $$* 4
 
 && 
-(( ++ -- £
-i/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Entities/CatalogBrand.cs
+(( ++ -- Ì
+~/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Entities/OrderAggregate/CatalogItemOrdered.cs
 
- 
- 
+		 (
+" /! .7 D %(
+8 C" -6 A !(
+L V" ,5 ? 
+  
+  
+  Ý
+s/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Entities/OrderAggregate/Address.cs
+
+ 
+  
+  
+		  
+  
+  
+   
+) - 
+6 ; 
+D K 
+T [ ¢
+h/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Entities/CatalogType.cs
+
+ 
+ 
 
- 
- $
+ 
+ "
 
- Ú
+ Ú
 h/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Entities/CatalogItem.cs
 
  
@@ -402,42 +402,16 @@ h/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCor
 FF %%- 2%%C H)) LL 
 HH* .JJ 
 HH8 CKK %
-HHM RLL ¢
-h/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Entities/CatalogType.cs
+HHM RLL £
+i/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Entities/CatalogBrand.cs
 
- 
- 
+ 
+ 
 
- 
- "
+ 
+ $
 
- Ÿ
-s/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Entities/BasketAggregate/Basket.cs
-
- 
-
-
-  (( 2
-& ,4 : # ## 
-+ 0   
-
- 
-( )- .
-   
-
- (
- )/ <& 3? L
-3 <? H
-B J5 =! )
-  
-  
-' (, -
-
-!!  
-## ## 
-
-&& 
-&&% ,(( «
+ «
 y/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Entities/BuyerAggregate/PaymentMethod.cs
 
  
@@ -472,7 +446,38 @@ w/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCor
  (
   (! )2 : 
   (
-  (! )2 : ¦
+  (! )2 : Ÿ
+s/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Entities/BasketAggregate/Basket.cs
+
+ 
+
+
+  (( 2
+& ,4 : # ## 
++ 0   
+
+ 
+( )- .
+   
+
+ (
+ )/ <& 3? L
+3 <? H
+B J5 =! )
+  
+  
+' (, -
+
+!!  
+## ## 
+
+&& 
+&&% ,(( 
+g/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Entities/BaseEntity.cs
+
+  
+
+ ¦
 t/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Constants/AuthorizationConstants.cs
 
  #
@@ -481,12 +486,7 @@ t/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCor
 
  (
 
- &
-g/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Entities/BaseEntity.cs
-
-  
-
- }
+ &}
 c/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/CatalogSettings.cs
 
  

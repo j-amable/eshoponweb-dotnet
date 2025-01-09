@@ -17,11 +17,11 @@ m/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/BlazorAdmin/Pa
  %')+,-./026?@AB’
 m/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/BlazorAdmin/Pages/CatalogItemPage/Edit.razor 8#rd	 !"'(/09:;<=?FGHIJLSTZ]ijlopqrtuwxyz{|}€‚ƒ„†‡ˆŠŒŽ’“•–—™š›œx‚2"'(/09:<?FGILSTiwxy‚ƒˆŠŒŽ’—™š›æ
 p/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/BlazorAdmin/Pages/CatalogItemPage/Details.razor 8rH	"(08@GNRS[\^abcdfgijklmopqrsuvxz|~€‚ƒ…†‡‰Š‹Œx‚"(08@G[iqrxz|~€‚‡‰Š‹ë
-o/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/BlazorAdmin/Pages/CatalogItemPage/Delete.razor 8jnrI	%-5=DJNOWXZ^_`acdfghijlmprstvwxz|~€‚ƒ…†‡ˆ‰Š‹x‚!%-5=DOWfprsxz|~€‚‡ˆ‰Š£
-o/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/BlazorAdmin/Pages/CatalogItemPage/Create.razor 8"ro	 !%&-.6789:<CDEFGIPQWZfgimnoprsuvwxyz{}~€‚ƒ„…‡ˆŠŒŽ‘’”•–˜™›œžŸ ¡x‚6!%&-.679<CDFIPQfuvw€‚ƒŠŒŽ‘”•–˜žŸ o
+o/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/BlazorAdmin/Pages/CatalogItemPage/Delete.razor 8jnrI	%-5=DJNOWXZ^_`acdfghijlmprstvwxz|~€‚ƒ…†‡ˆ‰Š‹x‚!%-5=DOWfprsxz|~€‚‡ˆ‰Šo
 V/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/BlazorAdmin/App.razor8r
 
-x‚§
+x‚£
+o/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/BlazorAdmin/Pages/CatalogItemPage/Create.razor 8"ro	 !%&-.6789:<CDEFGIPQWZfgimnoprsuvwxyz{}~€‚ƒ„…‡ˆŠŒŽ‘’”•–˜™›œžŸ ¡x‚6!%&-.679<CDFIPQfuvw€‚ƒŠŒŽ‘”•–˜žŸ §
 h/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/BlazorAdmin/Shared/CustomInputSelect.cs	 8j	r
  !"#$%x‚	!
 e/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/BlazorAdmin/ServicesConfiguration.cs 8r	
@@ -42,16 +42,16 @@ W/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/BlazorAdmin/Pr
  "$&(*+,-/01‚ "$&(,-/0Ã
 p/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/BlazorAdmin/Pages/CatalogItemPage/List.razor.cs 8r6	
  !"#%&()+,-.01235678:;<=?@ABCDx‚!"#%(-27<AB€
-m/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/BlazorAdmin/JavaScript/JSInteropConstants.cs 8r		
-€
 `/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/BlazorAdmin/JavaScript/Route.cs 8r
-‚ƒ
+‚€
+m/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/BlazorAdmin/JavaScript/JSInteropConstants.cs 8r		
+ƒ
 ^/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/BlazorAdmin/JavaScript/Css.cs 8r
-‚‡
-b/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/BlazorAdmin/JavaScript/Cookies.cs 8r
 ‚ê
 f/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/BlazorAdmin/Helpers/ToastComponent.cs 8rU	
- !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWx‚*+/0156:<=>?@ABCDEFGHIJKLMNOQUŒ
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWx‚*+/0156:<=>?@ABCDEFGHIJKLMNOQU‡
+b/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/BlazorAdmin/JavaScript/Cookies.cs 8r
+‚Œ
 h/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/BlazorAdmin/Helpers/RefreshBroadcast.cs 8r	
 ‚
 ”

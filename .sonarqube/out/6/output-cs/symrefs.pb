@@ -113,20 +113,20 @@ n/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/ViewModels
 
 
 
- ¯
-q/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/ViewModels/Manage/ChangePasswordViewModel.cs
+ ²
+h/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/ViewModels/Manage/IndexViewModel.cs
 
- $
+ 
 
-
-
- 
+ 
 
- 
+		  
 
- "
+ 
 
-  ¯
+ 
+
+  ¯
 q/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/ViewModels/Manage/ExternalLoginsViewModel.cs
 
  $
@@ -148,29 +148,20 @@ v/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/ViewModels
 
  
 
- #²
-h/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/ViewModels/Manage/IndexViewModel.cs
+ #¯
+q/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/ViewModels/Manage/ChangePasswordViewModel.cs
 
- 
+ $
 
- 
+
+
+ 
 
-		  
+ 
 
- 
+ "
 
- 
-
-  —
-e/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/ViewModels/File/FileViewModel.cs
-
- 
-
- 
-
- 
-
- ¥
+  ¥
 g/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/ViewModels/CatalogItemViewModel.cs
 
  !
@@ -203,7 +194,16 @@ k/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/ViewModels
 
  %
 
- ¯
+ —
+e/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/ViewModels/File/FileViewModel.cs
+
+ 
+
+ 
+
+ 
+
+ ¯
 q/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/ViewModels/Account/ResetPasswordViewModel.cs
 
  #
@@ -300,7 +300,30 @@ l/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/Services/C
  '(
 = FL U5 >f o<
   .7 JE X 1 D
-' .* 1µ
+' .* 1‚
+n/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/Services/CachedCatalogViewModelService.cs
+
+
+
+ *2
+" (  ## ,, 2
+- E  ! 9&& 1// 1
+6 ; 
+  7# :
+
+3 <
+[ ` 
+
+- <
+A J!!@ I&&B K
+P Y&&M V
+` g!!e l&&X _
+n t!!n t&&a g
+!! ##. 6
+##> C%% 
+
+**3 ;
+,,Z _.. µ
 g/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/Services/BasketViewModelService.cs
 
 
@@ -338,30 +361,7 @@ g/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/Services/B
 
 WW 0
 WW8 @YYF N
-YY [[ ‚
-n/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/Services/CachedCatalogViewModelService.cs
-
-
-
- *2
-" (  ## ,, 2
-- E  ! 9&& 1// 1
-6 ; 
-  7# :
-
-3 <
-[ ` 
-
-- <
-A J!!@ I&&B K
-P Y&&M V
-` g!!e l&&X _
-n t!!n t&&a g
-!! ##. 6
-##> C%% 
-
-**3 ;
-,,Z _.. å
+YY [[ å
 O/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/Program.cs€
    + 2E L\ c     3 :!! ## &##5 <&& (( &((5 <-- // 77 << == >> >>! (?? ??  'BB CC JJ PP QQ UU VV ZZ \\2 9aa bb ff ll mm nn oo pp rr tt
  
@@ -640,14 +640,23 @@ j/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/Interfaces
 
 
 
-% +Ó
-m/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/Features/OrderDetails/GetOrderDetails.cs
+% +È
+h/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/HealthChecks/HomePageHealthCheck.cs
 
- 
-  
-		  
-" * 
-0 7 £
+		  
+* >  *
+4 G 2
+
+) 9
+
+ "
+
+ +
+  1 8
+ - 2
+  #
+ ! )
+  £
 c/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/HealthChecks/ApiHealthCheck.cs
 
 
@@ -676,23 +685,14 @@ t/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/Features/O
  +E V
  ? CF
       (( )) #** <
-  1 3"" ## $$  %% && È
-h/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/HealthChecks/HomePageHealthCheck.cs
+  1 3"" ## $$  %% && Ó
+m/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/Features/OrderDetails/GetOrderDetails.cs
 
-		  
-* >  *
-4 G 2
-
-) 9
-
- "
-
- +
-  1 8
- - 2
-  #
- ! )
-  È
+ 
+  
+		  
+" * 
+0 7 È
 l/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/Features/MyOrders/GetMyOrdersHandler.cs
 
 		 
@@ -1240,7 +1240,19 @@ k/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/Configurat
 % 4d
 M U         
  $ +
- < K
+ < KÅ
+m/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/Configuration/ConfigureCookieSettings.cs
+
+ +
+
+
+ *: O
+ , +
+
+% 62
+O W  $$ && 
+0 7 F
+, 3      
 t/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/Areas/Identity/Pages/Account/Register.cshtml.cs
   * 
 4 B   XX $(
@@ -1267,19 +1279,7 @@ t/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/Areas/Iden
 GG HH8 <MMR VQQ+ /XX1 5
 HH II [[" (
 MM QQ; ?(
-NN TT# .TT7 BVVZ eÅ
-m/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/Configuration/ConfigureCookieSettings.cs
-
- +
-
-
- *: O
- , +
-
-% 62
-O W  $$ && 
-0 7 F
-, 3      Î
+NN TT# .TT7 BVVZ eÎ
 r/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Web/Areas/Identity/Pages/Account/Logout.cshtml.cs
   (M X2
 4 B !! ## #$$ (

@@ -1,24 +1,4 @@
-î
-t/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Identity/AppIdentityDbContextSeed.cs
-
- %
-
-
-
- &
-
-
-< M  2
-
-
-l w   % 
-
-
-
-“ ž 
- & 1(
- 9 FP ]6 C2
- & /  - 6¥
+¥
 g/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Services/EmailSender.cs
 
  
@@ -140,7 +120,30 @@ u/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure
     "
  "" '') /
 %% ++- <
-++ ,,' ,À
+++ ,,' ,y
+k/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Identity/ApplicationUser.cs
+
+ î
+t/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Identity/AppIdentityDbContextSeed.cs
+
+ %
+
+
+
+ &
+
+
+< M  2
+
+
+l w   % 
+
+
+
+“ ž 
+ & 1(
+ 9 FP ]6 C2
+ & /  - 6À
 p/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Identity/AppIdentityDbContext.cs
  !		1 E
 		G N
@@ -148,10 +151,7 @@ p/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure
  
 
  +
-9 @ $y
-k/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Identity/ApplicationUser.cs
-
- Ù
+9 @ $Ù
 _/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Dependencies.cs
 
 		  
@@ -280,7 +280,12 @@ r/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure
 
 
 
- ‘
+ ¼
+d/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/EfRepository.cs
+
+ 2
+ . /B CR S[ \
+' 09 B‘
 u/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/Config/OrderItemConfiguration.cs
 
  #
@@ -290,20 +295,7 @@ u/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure
   
 , .  
   "
-  !¼
-d/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/EfRepository.cs
-
- 2
- . /B CR S[ \
-' 09 BØ
-r/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/Config/BasketConfiguration.cs
-
-  
-
-		 
-		4 ;   
-  
-  Í
+  !Í
 q/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/Config/OrderConfiguration.cs
 
  
@@ -358,7 +350,15 @@ v/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure
 
 		 
 		8 ? 
-  !µ
+  !Ø
+r/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/Config/BasketConfiguration.cs
+
+  
+
+		 
+		4 ;   
+  
+  µ
 j/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/CatalogContextSeed.cs
 
 

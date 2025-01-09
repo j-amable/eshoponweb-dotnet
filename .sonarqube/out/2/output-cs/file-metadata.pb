@@ -7,10 +7,10 @@ y/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCor
 |/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Specifications/CatalogItemsSpecification.csutf-8à
 /Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Specifications/CatalogItemNameSpecification.csutf-8Ü
 }/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Specifications/CatalogFilterSpecification.csutf-8ê
-Ü/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Specifications/CatalogFilterPaginatedSpecification.csutf-8à
-/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Specifications/BasketWithItemsSpecification.csutf-8q
+Ü/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Specifications/CatalogFilterPaginatedSpecification.csutf-8q
 h/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Services/UriComposer.csutf-8r
-i/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Services/OrderService.csutf-8s
+i/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Services/OrderService.csutf-8à
+/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Specifications/BasketWithItemsSpecification.csutf-8s
 j/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Services/BasketService.csutf-8t
 k/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Interfaces/IUriComposer.csutf-8{
 r/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/ApplicationCore/Interfaces/ITokenClaimsService.csutf-8s

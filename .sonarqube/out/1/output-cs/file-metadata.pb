@@ -6,9 +6,9 @@ b/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/BlazorShared/M
 d/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/BlazorShared/Models/ErrorDetails.csutf-8x
 o/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/BlazorShared/Models/EditCatalogItemResponse.csutf-8z
 q/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/BlazorShared/Models/DeleteCatalogItemResponse.csutf-8z
-q/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/BlazorShared/Models/CreateCatalogItemResponse.csutf-8t
-k/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/BlazorShared/Models/CatalogTypeResponse.csutf-8y
-p/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/BlazorShared/Models/CreateCatalogItemRequest.csutf-8l
+q/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/BlazorShared/Models/CreateCatalogItemResponse.csutf-8y
+p/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/BlazorShared/Models/CreateCatalogItemRequest.csutf-8t
+k/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/BlazorShared/Models/CatalogTypeResponse.csutf-8l
 c/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/BlazorShared/Models/CatalogType.csutf-8l
 c/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/BlazorShared/Models/CatalogItem.csutf-8u
 l/Users/james.amable/Source Code/dotNet/eShopOnWeb/eShopOnWeb/src/BlazorShared/Models/CatalogBrandResponse.csutf-8m

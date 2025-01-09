@@ -33,6 +33,69 @@
           }
         },
         {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///Users/james.amable/Source%20Code/dotNet/eShopOnWeb/eShopOnWeb/src/PublicApi/appsettings.Docker.json",
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 27,
+                  "endLine": 3,
+                  "endColumn": 220
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///Users/james.amable/Source%20Code/dotNet/eShopOnWeb/eShopOnWeb/src/PublicApi/appsettings.Docker.json",
+                "region": {
+                  "startLine": 4,
+                  "startColumn": 28,
+                  "endLine": 4,
+                  "endColumn": 220
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1118",
+          "level": "warning",
+          "message": "Add a 'protected' constructor or the 'static' keyword to the class declaration.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///Users/james.amable/Source%20Code/dotNet/eShopOnWeb/eShopOnWeb/src/PublicApi/Program.cs",
+                "region": {
+                  "startLine": 181,
+                  "startColumn": 22,
+                  "endLine": 181,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
           "ruleId": "S1192",
           "level": "warning",
           "message": "Define a constant instead of using this literal 'Bearer' 4 times.",
@@ -94,48 +157,6 @@
           }
         },
         {
-          "ruleId": "S2068",
-          "level": "warning",
-          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///Users/james.amable/Source%20Code/dotNet/eShopOnWeb/eShopOnWeb/src/PublicApi/appsettings.Docker.json",
-                "region": {
-                  "startLine": 3,
-                  "startColumn": 27,
-                  "endLine": 3,
-                  "endColumn": 220
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S2068",
-          "level": "warning",
-          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///Users/james.amable/Source%20Code/dotNet/eShopOnWeb/eShopOnWeb/src/PublicApi/appsettings.Docker.json",
-                "region": {
-                  "startLine": 4,
-                  "startColumn": 28,
-                  "endLine": 4,
-                  "endColumn": 220
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
           "ruleId": "S6664",
           "level": "warning",
           "message": "Reduce the number of Information logging calls within this code block from 3 to the 2 allowed.",
@@ -182,27 +203,6 @@
               "0": null,
               "1": null
             }
-          }
-        },
-        {
-          "ruleId": "S1118",
-          "level": "warning",
-          "message": "Add a 'protected' constructor or the 'static' keyword to the class declaration.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///Users/james.amable/Source%20Code/dotNet/eShopOnWeb/eShopOnWeb/src/PublicApi/Program.cs",
-                "region": {
-                  "startLine": 181,
-                  "startColumn": 22,
-                  "endLine": 181,
-                  "endColumn": 29
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
           }
         },
         {

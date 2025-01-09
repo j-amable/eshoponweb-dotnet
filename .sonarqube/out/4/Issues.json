@@ -313,6 +313,27 @@
           }
         },
         {
+          "ruleId": "S1118",
+          "level": "warning",
+          "message": "Add a 'protected' constructor or the 'static' keyword to the class declaration.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///Users/james.amable/Source%20Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Identity/AppIdentityDbContextSeed.cs",
+                "region": {
+                  "startLine": 8,
+                  "startColumn": 14,
+                  "endLine": 8,
+                  "endColumn": 38
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
           "ruleId": "S1135",
           "level": "warning",
           "message": "Complete the task associated to this 'TODO' comment.",
@@ -334,24 +355,146 @@
           }
         },
         {
-          "ruleId": "S1118",
+          "ruleId": "S2094",
           "level": "warning",
-          "message": "Add a 'protected' constructor or the 'static' keyword to the class declaration.",
+          "message": "Remove this empty class, write its code or make it an \"interface\".",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///Users/james.amable/Source%20Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Identity/AppIdentityDbContextSeed.cs",
+                "uri": "file:///Users/james.amable/Source%20Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Identity/ApplicationUser.cs",
                 "region": {
-                  "startLine": 8,
+                  "startLine": 5,
                   "startColumn": 14,
-                  "endLine": 8,
-                  "endColumn": 38
+                  "endLine": 5,
+                  "endColumn": 29
                 }
               }
             }
           ],
           "properties": {
             "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1192",
+          "level": "warning",
+          "message": "Define a constant instead of using this literal 'BuyerId' 4 times.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///Users/james.amable/Source%20Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/Migrations/20211026175614_FixBuyerId.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 19,
+                  "endLine": 10,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///Users/james.amable/Source%20Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/Migrations/20211026175614_FixBuyerId.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 19,
+                  "endLine": 21,
+                  "endColumn": 28
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///Users/james.amable/Source%20Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/Migrations/20211026175614_FixBuyerId.cs",
+                "region": {
+                  "startLine": 34,
+                  "startColumn": 19,
+                  "endLine": 34,
+                  "endColumn": 28
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///Users/james.amable/Source%20Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/Migrations/20211026175614_FixBuyerId.cs",
+                "region": {
+                  "startLine": 43,
+                  "startColumn": 19,
+                  "endLine": 43,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": null,
+              "1": null,
+              "2": null
+            }
+          }
+        },
+        {
+          "ruleId": "S1192",
+          "level": "warning",
+          "message": "Define a constant instead of using this literal 'nvarchar(256)' 4 times.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///Users/james.amable/Source%20Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/Migrations/20211026175614_FixBuyerId.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 19,
+                  "endLine": 12,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///Users/james.amable/Source%20Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/Migrations/20211026175614_FixBuyerId.cs",
+                "region": {
+                  "startLine": 23,
+                  "startColumn": 19,
+                  "endLine": 23,
+                  "endColumn": 34
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///Users/james.amable/Source%20Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/Migrations/20211026175614_FixBuyerId.cs",
+                "region": {
+                  "startLine": 39,
+                  "startColumn": 22,
+                  "endLine": 39,
+                  "endColumn": 37
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///Users/james.amable/Source%20Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/Migrations/20211026175614_FixBuyerId.cs",
+                "region": {
+                  "startLine": 49,
+                  "startColumn": 22,
+                  "endLine": 49,
+                  "endColumn": 37
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": null,
+              "1": null,
+              "2": null
+            }
           }
         },
         {
@@ -771,128 +914,6 @@
         {
           "ruleId": "S1192",
           "level": "warning",
-          "message": "Define a constant instead of using this literal 'BuyerId' 4 times.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///Users/james.amable/Source%20Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/Migrations/20211026175614_FixBuyerId.cs",
-                "region": {
-                  "startLine": 10,
-                  "startColumn": 19,
-                  "endLine": 10,
-                  "endColumn": 28
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///Users/james.amable/Source%20Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/Migrations/20211026175614_FixBuyerId.cs",
-                "region": {
-                  "startLine": 21,
-                  "startColumn": 19,
-                  "endLine": 21,
-                  "endColumn": 28
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///Users/james.amable/Source%20Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/Migrations/20211026175614_FixBuyerId.cs",
-                "region": {
-                  "startLine": 34,
-                  "startColumn": 19,
-                  "endLine": 34,
-                  "endColumn": 28
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///Users/james.amable/Source%20Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/Migrations/20211026175614_FixBuyerId.cs",
-                "region": {
-                  "startLine": 43,
-                  "startColumn": 19,
-                  "endLine": 43,
-                  "endColumn": 28
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "0": null,
-              "1": null,
-              "2": null
-            }
-          }
-        },
-        {
-          "ruleId": "S1192",
-          "level": "warning",
-          "message": "Define a constant instead of using this literal 'nvarchar(256)' 4 times.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///Users/james.amable/Source%20Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/Migrations/20211026175614_FixBuyerId.cs",
-                "region": {
-                  "startLine": 12,
-                  "startColumn": 19,
-                  "endLine": 12,
-                  "endColumn": 34
-                }
-              }
-            }
-          ],
-          "relatedLocations": [
-            {
-              "physicalLocation": {
-                "uri": "file:///Users/james.amable/Source%20Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/Migrations/20211026175614_FixBuyerId.cs",
-                "region": {
-                  "startLine": 23,
-                  "startColumn": 19,
-                  "endLine": 23,
-                  "endColumn": 34
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///Users/james.amable/Source%20Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/Migrations/20211026175614_FixBuyerId.cs",
-                "region": {
-                  "startLine": 39,
-                  "startColumn": 22,
-                  "endLine": 39,
-                  "endColumn": 37
-                }
-              }
-            },
-            {
-              "physicalLocation": {
-                "uri": "file:///Users/james.amable/Source%20Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/Migrations/20211026175614_FixBuyerId.cs",
-                "region": {
-                  "startLine": 49,
-                  "startColumn": 22,
-                  "endLine": 49,
-                  "endColumn": 37
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1,
-            "customProperties": {
-              "0": null,
-              "1": null,
-              "2": null
-            }
-          }
-        },
-        {
-          "ruleId": "S1192",
-          "level": "warning",
           "message": "Define a constant instead of using this literal 'nvarchar(max)' 4 times.",
           "locations": [
             {
@@ -1010,27 +1031,6 @@
               "1": null,
               "2": null
             }
-          }
-        },
-        {
-          "ruleId": "S2094",
-          "level": "warning",
-          "message": "Remove this empty class, write its code or make it an \"interface\".",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///Users/james.amable/Source%20Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Identity/ApplicationUser.cs",
-                "region": {
-                  "startLine": 5,
-                  "startColumn": 14,
-                  "endLine": 5,
-                  "endColumn": 29
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
           }
         },
         {
@@ -1603,27 +1603,6 @@
           }
         },
         {
-          "ruleId": "CA2254",
-          "level": "note",
-          "message": "The logging message template should not vary between calls to 'LoggerExtensions.LogWarning(ILogger, string?, params object?[])'",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///Users/james.amable/Source%20Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Logging/LoggerAdapter.cs",
-                "region": {
-                  "startLine": 16,
-                  "startColumn": 28,
-                  "endLine": 16,
-                  "endColumn": 35
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
           "ruleId": "S927",
           "level": "warning",
           "message": "Rename parameter 'builder' to 'modelBuilder' to match the base class declaration.",
@@ -1636,27 +1615,6 @@
                   "startColumn": 58,
                   "endLine": 22,
                   "endColumn": 65
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CA2254",
-          "level": "note",
-          "message": "The logging message template should not vary between calls to 'LoggerExtensions.LogInformation(ILogger, string?, params object?[])'",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///Users/james.amable/Source%20Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Logging/LoggerAdapter.cs",
-                "region": {
-                  "startLine": 21,
-                  "startColumn": 32,
-                  "endLine": 21,
-                  "endColumn": 39
                 }
               }
             }
@@ -1687,18 +1645,18 @@
           }
         },
         {
-          "ruleId": "S6667",
-          "level": "warning",
-          "message": "Logging in a catch clause should pass the caught exception as a parameter.",
+          "ruleId": "CA2254",
+          "level": "note",
+          "message": "The logging message template should not vary between calls to 'LoggerExtensions.LogWarning(ILogger, string?, params object?[])'",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///Users/james.amable/Source%20Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/CatalogContextSeed.cs",
+                "uri": "file:///Users/james.amable/Source%20Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Logging/LoggerAdapter.cs",
                 "region": {
-                  "startLine": 54,
-                  "startColumn": 13,
-                  "endLine": 54,
-                  "endColumn": 40
+                  "startLine": 16,
+                  "startColumn": 28,
+                  "endLine": 16,
+                  "endColumn": 35
                 }
               }
             }
@@ -1710,37 +1668,16 @@
         {
           "ruleId": "CA2254",
           "level": "note",
-          "message": "The logging message template should not vary between calls to 'LoggerExtensions.LogError(ILogger, string?, params object?[])'",
+          "message": "The logging message template should not vary between calls to 'LoggerExtensions.LogInformation(ILogger, string?, params object?[])'",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///Users/james.amable/Source%20Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/CatalogContextSeed.cs",
-                "region": {
-                  "startLine": 54,
-                  "startColumn": 29,
-                  "endLine": 54,
-                  "endColumn": 39
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S6966",
-          "level": "warning",
-          "message": "Await MigrateAsync instead.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///Users/james.amable/Source%20Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/CatalogContextSeed.cs",
+                "uri": "file:///Users/james.amable/Source%20Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Logging/LoggerAdapter.cs",
                 "region": {
                   "startLine": 21,
-                  "startColumn": 17,
+                  "startColumn": 32,
                   "endLine": 21,
-                  "endColumn": 50
+                  "endColumn": 39
                 }
               }
             }
@@ -1762,6 +1699,27 @@
                   "startColumn": 13,
                   "endLine": 15,
                   "endColumn": 49
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S6667",
+          "level": "warning",
+          "message": "Logging in a catch clause should pass the caught exception as a parameter.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///Users/james.amable/Source%20Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/CatalogContextSeed.cs",
+                "region": {
+                  "startLine": 54,
+                  "startColumn": 13,
+                  "endLine": 54,
+                  "endColumn": 40
                 }
               }
             }
@@ -2044,6 +2002,48 @@
           }
         },
         {
+          "ruleId": "CA2254",
+          "level": "note",
+          "message": "The logging message template should not vary between calls to 'LoggerExtensions.LogError(ILogger, string?, params object?[])'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///Users/james.amable/Source%20Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/CatalogContextSeed.cs",
+                "region": {
+                  "startLine": 54,
+                  "startColumn": 29,
+                  "endLine": 54,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S6966",
+          "level": "warning",
+          "message": "Await MigrateAsync instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///Users/james.amable/Source%20Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/CatalogContextSeed.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 17,
+                  "endLine": 21,
+                  "endColumn": 50
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
           "ruleId": "CA1859",
           "level": "note",
           "message": "Change return type of method 'GetPreconfiguredCatalogBrands' from 'System.Collections.Generic.IEnumerable<Microsoft.eShopWeb.ApplicationCore.Entities.CatalogBrand>' to 'System.Collections.Generic.List<Microsoft.eShopWeb.ApplicationCore.Entities.CatalogBrand>' for improved performance",
@@ -2067,16 +2067,16 @@
         {
           "ruleId": "CA1859",
           "level": "note",
-          "message": "Change return type of method 'GetPreconfiguredItems' from 'System.Collections.Generic.IEnumerable<Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItem>' to 'System.Collections.Generic.List<Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItem>' for improved performance",
+          "message": "Change return type of method 'GetPreconfiguredCatalogTypes' from 'System.Collections.Generic.IEnumerable<Microsoft.eShopWeb.ApplicationCore.Entities.CatalogType>' to 'System.Collections.Generic.List<Microsoft.eShopWeb.ApplicationCore.Entities.CatalogType>' for improved performance",
           "locations": [
             {
               "resultFile": {
                 "uri": "file:///Users/james.amable/Source%20Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/CatalogContextSeed.cs",
                 "region": {
-                  "startLine": 83,
+                  "startLine": 72,
                   "startColumn": 37,
-                  "endLine": 83,
-                  "endColumn": 58
+                  "endLine": 72,
+                  "endColumn": 65
                 }
               }
             }
@@ -2088,16 +2088,16 @@
         {
           "ruleId": "CA1859",
           "level": "note",
-          "message": "Change return type of method 'GetPreconfiguredCatalogTypes' from 'System.Collections.Generic.IEnumerable<Microsoft.eShopWeb.ApplicationCore.Entities.CatalogType>' to 'System.Collections.Generic.List<Microsoft.eShopWeb.ApplicationCore.Entities.CatalogType>' for improved performance",
+          "message": "Change return type of method 'GetPreconfiguredItems' from 'System.Collections.Generic.IEnumerable<Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItem>' to 'System.Collections.Generic.List<Microsoft.eShopWeb.ApplicationCore.Entities.CatalogItem>' for improved performance",
           "locations": [
             {
               "resultFile": {
                 "uri": "file:///Users/james.amable/Source%20Code/dotNet/eShopOnWeb/eShopOnWeb/src/Infrastructure/Data/CatalogContextSeed.cs",
                 "region": {
-                  "startLine": 72,
+                  "startLine": 83,
                   "startColumn": 37,
-                  "endLine": 72,
-                  "endColumn": 65
+                  "endLine": 83,
+                  "endColumn": 58
                 }
               }
             }
